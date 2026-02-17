@@ -1,0 +1,388 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: I don't know if I mentioned it yesterday, but I will be out on Friday. We can do it on Thursday. I will be out on Friday.</p>
+
+<p>CLIENT: OK, OK.</p>
+
+<p>(pause)</p>
+
+<p>THERAPIST: [inaudible]</p>
+
+<p>CLIENT: Cool.</p>
+
+<p>CLIENT: Today has been a day.</p>
+
+<p>CLIENT: Work has been a disaster from start to finish and none of it was my fault. It was so frustrating. Everything was broken because other people made terrible decisions that impacted me and my group.</p>
+
+<p>THERAPIST: I know.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Sorry to hear that.</p>
+
+<p>CLIENT: I was already in a really bad mood when I got to work. It was because I slept poorly last night and then the radio was full of political ads this morning, on the commute in. </p>
+
+<p>But, I try to change the station as soon as I recognize that it's a a political ad, but they are just on every station, all the time! It's just, so full of lies. Like this notion Mitt Romney was a bipartisan leader when he was governor of Massachusetts, when what really what happened when the 85 percent democratic congress just overrode all of his vetoes. The idea that Scott Brown is pro women, and pro equal pay, and pro choice when he supported the Blunt Amendment and voted against the equal pay amendment, and all of that crap. It's just all out lies. I was already pretty mad when I got to work. I sat down to try to work, and nothing was working, and so I checked my e-mail. I usually try to get at least a little bit of productivity done before I check my e-mail first thing in the morning, and it turns out all of these bugs, someone decided to hot patch our dev tools last night, even though we are like three weeks from tape-out, which is completely fucking absurd and unprofessional.</p>
+
+<p>THERAPIST: What does it mean to hot patch the dev tools?</p>
+
+<p>CLIENT: *laughs* Dev tools are development tools. They are the tools that we use to design the chips.</p>
+
+<p>THERAPIST: OK.</p>
+
+<p>CLIENT: Hot patch means they change the version of the tools that we are using without telling us.</p>
+
+<p>THERAPIST: OK.</p>
+
+<p>CLIENT: So. You know, we might call.</p>
+
+<p>THERAPIST: Was the version like more updated and better in some way or something?</p>
+
+<p>CLIENT: Bad.</p>
+
+<p>THERAPIST: [inaudible] OK. [0:02:44]</p>
+
+<p>CLIENT: They are not supposed to be making any changes to our tools at all. Someone decided he was going to put in a, a simple fix. The thing is, OK so A, there should be no hot patches this late in the project to begin with. This idea that the tools were supposed to be frozen 3 weeks ago. The tools team promised to us that the tools were frozen.</p>
+
+<p>THERAPIST: [inaudible] [0:03:16]</p>
+
+<p>CLIENT: Yeah, but they keep changing them on us. to fix this, which means that A: sometimes things just won't run and B: you have no idea if you are comparing apples to apples for your data, if they change for example, I don't know, the way they calculate timing. If they change the way they calculate timing you can't look at your timing results from today and your time results from a week ago and say...</p>
+
+<p>THERAPIST: Not much of anything.</p>
+
+<p>CLIENT: Yeah. Exactly, right. If they are...</p>
+
+<p>THERAPIST: Are they calculating it differently, was there a big then, is there a bug now?</p>
+
+<p>CLIENT: Right, you don't know.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: So, there are patches and hot patches. Patches they warn us about and they tell us about so we know some of the changes. Hot patches are not supposed to affect the results and they are supposed to be invisible to the end user. </p>
+
+<p>They are supposed to be for performance, like run time only. But this one caused everything to crash. The way our work load goes, a lot of these analysis steps that we do take 7-8 hours to run. So what everyone does is, you know you make your changes, you do your design during the day while you are in the office and five minutes before you leave the office you start a build. And you expect your build is complete when you come in in the morning so you can look at the results. Well everyone's build died overnight. </p>
+
+<p>THERAPIST: Oh. Three weeks before tape-out.</p>
+
+<p>CLIENT: Yeah. And I mean, we're doing nightly builds because we still have a lot of...</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So now we are all a day behind schedule because of this and then, there's better. The reason there was a bug was because someone used —Put in a piece of code with syntax was illegal to the language that the program was written in. So it wasn't.</p>
+
+<p>THERAPIST: [inaudible] [0:05:02]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>So it wasn't even that there was some subtle bug or it was something confusing... </p>
+
+<p>THERAPIST: It was a mistake.</p>
+
+<p>CLIENT: Yeah. Which means that they didn't test it before they pushed it out to us. Which... (sigh)</p>
+
+<p>THERAPIST: Even I know enough about software development to know that's not good.</p>
+
+<p>CLIENT: Yeah, you test everything before you send it anyway. Hey, just like illegal syntax it's just so profoundly stupid, I don't even... I'm thinking of an analogy for how stupid that is. (sigh) So then they fixed it and sent out an e-mail to the whole team saying that it was fixed, so of course everyone pushed the button to restart their build and there weren't enough licenses to go around, because usually this stuff runs overnight and people start them at different times, like some people leave at 5, some people leave at 6. But now everyone started their builds at exactly the same time so there were not enough licenses for the tools that were purchased from outside vendors. So... </p>
+
+<p>We were all stuck, waiting for a tool that should take an hour to run. In my case it took 6 1/2.</p>
+
+<p>THERAPIST: Oh...</p>
+
+<p>CLIENT: One of my co-workers was still waiting for a license to get checked out for him when I left today. It was just... (pause) It was a mess. That happened three times with three different tools today. They change something out from under us while we were working and then everything broke. Like at one point, so many things were not working that a group of us were just like, "Fuck it, we're not getting anything done. Let's go down to the farm stand a mile down the road and get [inaudible] donuts." We just like took an hour off cause there was nothing, and when we came back it was still broken. Things finally started working again around 2:45, and then I left at 3:30 cause I had to come here. My boss was like, "You're leaving?" I was like, "I told you I leave at 3:30 on Fridays."</p>
+
+<p>[0:06:49]</p>
+
+<p>CLIENT: He was like, "But things were broken all day." I was like, "That's not my fault." </p>
+
+<p>[pause [00:7:12]—0:7:25]</p>
+
+<p>THERAPIST: Sorry, I just had a [inaudible], which I think I may be able to arrange a 5:15 time on Monday. Would that be better?</p>
+
+<p>[0:07:28]</p>
+
+<p>CLIENT: Yes.</p>
+
+<p>THERAPIST: Than the Friday time?</p>
+
+<p>CLIENT: OK Yep.</p>
+
+<p>THERAPIST: OK, I wouldn't have [inaudible] but I can confirm with you next week about it. After, is that OK?</p>
+
+<p>[0:07:40]</p>
+
+<p>THERAPIST: Alright. I didn't mean to drill you. I hope that'll be helpful.</p>
+
+<p>CLIENT: *laughs*</p>
+
+<p>That is helpful, thank you.</p>
+
+<p>THERAPIST: Good, sure.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>(pause)</p>
+
+<p>[0:08:05]</p>
+
+<p>CLIENT: So yeah, I'm just very angry at everything, because I'm... Well, they are legitimate things that I'm angry about but I [inaudible] angry at everything, but just everything is compounding it and making me angrier. Even little things that I know ordinarily wouldn't bug me.</p>
+
+<p>[0:08:16]</p>
+
+<p>[pause 08:26—08:55]</p>
+
+<p>THERAPIST: Are you saying that at the moment you're... (pause) Are you relieved to be able to be venting about being angry?</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: [inaudible] and appropriate and not the source of more difficulty and frustration?</p>
+
+<p>[0:09:22]</p>
+
+<p>CLIENT: Umm hmm.</p>
+
+<p>THERAPIST: Like, being angry at work which can make it hard. [inaudible]</p>
+
+<p>[0:09:33]</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>I don't think my anger was what was preventing me from being productive at work today. (laughs)</p>
+
+<p>THERAPIST: (laughs) No, no, absolutely, it does not sound like that was the thing getting in the way of...</p>
+
+<p>CLIENT: I don't know. It worries me, the kind of feedback [inaudible] that I can get into, where I start off angry. The little things just have a proportionate impact on me to the point where I am just nothing but rage.</p>
+
+<p>[0:10:03]</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: Like, driving here from work, the roads were terrible as always. There is nothing new about that, but, I was in the left lane and a car in front of me was going pretty slow and the car behind me kept tailgating and then passed me on the right, and I was just so outraged, like, "How dare they pass me? Don't they know I am going as fast as I can and there is a car in front of me?" And then... This is so ridiculous and stupid and also dangerous. So then I passed the car in front of me on their right, and just slammed on the gas to get in front of the car that passed me and then cut them off, it was just stupid and petty and dangerous and a total asshole thing to do, but...</p>
+
+<p>[pause 11:08—11:35]</p>
+
+<p>THERAPIST: Do you know what made you so mad about the car that passed you? Was it the safety issue that the car passed you on the right or was it the...?</p>
+
+<p>CLIENT: It was the, "How dare they be rude to me like that."</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>[pause 11:55—12:02]</p>
+
+<p>THERAPIST: So it's an insult.</p>
+
+<p>CLIENT: Yup. (pause) Which is completely irrational, to see it as an insult, but that's how it felt.</p>
+
+<p>[pause 12:12—13:05]</p>
+
+<p>THERAPIST: Does anything come to mind with it?</p>
+
+<p>CLIENT: No. (pause) I don't know. I'm drawing a blank.</p>
+
+<p>(pause)</p>
+
+<p>THERAPIST: Does it feel shitty partly because it feels like your dad?</p>
+
+<p>CLIENT: Does what feel like my dad?</p>
+
+<p>THERAPIST: Feeling insulted and angry when you sort of haven't been or at least haven't been in proportion to how much you feel that way.</p>
+
+<p>CLIENT: Uh huh.</p>
+
+<p>THERAPIST: I say it because I imagine that's partly what was yucky about it for you, or was it just more that you were irrational? Or maybe it was more just feeling insulted, I don't know.</p>
+
+<p>CLIENT: Well, at the time it was feeling insulted, but in hindsight the thing that is disturbing to me is that I allowed something very minor to provoke me into doing something dangerous and stupid.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: I haven't put together that that behavior's similar to my father's. But it really is. I don't know that I was thinking of it that way, but... I can see why you drew the comparison. It's pretty obvious now that you point it out.</p>
+
+<p>[pause 14:44—15:48]</p>
+
+<p>CLIENT: Sorry.</p>
+
+<p>THERAPIST: It's OK alright. Are you upset or getting a cold?</p>
+
+<p>CLIENT: Uh huh. Cold, allergies, I'm not sure, but I've been sniffling all day.</p>
+
+<p>THERAPIST: OK.</p>
+
+<p>CLIENT: I guess, so...</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: Part of why I get so upset when my anger reaction gets out of control is because I don't like feeling out of control. </p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And part of it is that, I do things that, when I'm calm [inaudible] are destructive and hurtful and possibly dangerous, not literally physically dangerous but also kind of emotionally damaging to the people around me.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: And that's not good for obvious reasons.</p>
+
+<p>(pause)</p>
+
+<p>THERAPIST: Do you feel [inaudible] or is it being a loose cannon?</p>
+
+<p>[0:17:04]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>(pause)</p>
+
+<p>THERAPIST: Which is something you really don't like to feel.</p>
+
+<p>CLIENT: Right. (pause) I suppose my parents, and both my grandparents when they were alive— I say 'both' because I never met my father's parents. They died before I was born. But my parents and my grandparents all had completely out of control anger problems. I wouldn't get the physical end of it as much as my sisters did because my parents were better controlled when I was younger. You know, I've seen my mom grab my younger sister by the throat and slam her against a wall. Yeah.</p>
+
+<p>THERAPIST: That's fucked up.</p>
+
+<p>CLIENT: Yeah. You know, my grandfather would beat us when he was watching us. So I certainly learned how to be violently angry, and I'd like to unlearn it because it's not OK. </p>
+
+<p>THERAPIST: Have you gotten physical before, when you're angry?</p>
+
+<p>CLIENT: I used to. I haven't actually hit anyone in anger since college, because one of my housemates took me aside and told me that was unacceptable and I'd get kicked out of the house if I didn't get that under control. So I learned to keep those physical reactions under control. But I'll still yell or say deliberately cruel or hurtful things, and that's really not OK. (pause) I try very hard not to do that, but...</p>
+
+<p>THERAPIST: It gets away from you.</p>
+
+<p>CLIENT: A little. Instead of controlling the behavior, I'd like to get a handle of why I get so angry so easily, because... (laughs)</p>
+
+<p>THERAPIST: We're working on it.</p>
+
+<p>CLIENT: Just the roots of that. (pause) Yes. I don't want to end up like my parents. It scares me.</p>
+
+<p>THERAPIST: OK, my ambition is that at least one of the [inaudible] initiated that what you struggle with is to do with becoming excessively angry, whether at inaudible] now, or implicitly in ways that shut you down and which, I guess, are sometimes obviously anger and sometimes just obviously shutting down.</p>
+
+<p>[0:20:21]</p>
+
+<p>(pause 20:55—21:53)</p>
+
+<p>CLIENT: I suppose this is something that everyone deals with to some degree or another, but it's really... Not unsettling, but maybe closer to confusing to me. People that I've met recently, like in the last three or four years, all describe me as very kind and very confident and very sweet, and that's not how I see myself at all. I try to tell them, my friends, that I actually struggle like crazy with anger management problems and self-confidence and all of that, and they just flat out don't believe me. Inside my head, it's just always angry at someone or at me or at something or... </p>
+
+<p>THERAPIST: That's not an easy way to live.</p>
+
+<p>CLIENT: No. I suppose everyone has an external face they wear to the world, and there's some dissonance between how other people see you and how you see yourself. </p>
+
+<p>THERAPIST: Do you know what bothers you about... I mean, I can imagine a variety of things that could make that gap unpleasant.</p>
+
+<p>(pause)</p>
+
+<p>CLIENT: Part of it is kind of a fear that if everyone knew, they wouldn't want to be around me and they wouldn't want to be my friend anymore, that if they have this distorted picture of who I am, one day they'll realize that their image of me is distorted and figure out who I really am and be disgusted and run away.</p>
+
+<p>THERAPIST: I see. So the problem is that they don't see the real you now, because when they discover it you won't have friends anymore.</p>
+
+<p>CLIENT: Right. And part of it just makes me feel like the relationships are fraudulent. I don't know. It makes me feel invisible.</p>
+
+<p>(pause 24:52—25:21)</p>
+
+<p>THERAPIST: Something that seems to be the circle around some of this is that, I'm not aware that it's happened yet, but... So what's going to happen when something goes on and you get very angry with me?</p>
+
+<p>CLIENT: I don't know. It hasn't happened yet.</p>
+
+<p>THERAPIST: It has to be clear, it's not something I'm going to try to manipulate or evoke, but it could happen. We're talking about how it often does, and I guess I imagine that on some level it's something that you kind of wonder and worry about. I would suspect both in terms of how I will react and in terms of how I would be something like letting you down for doing whatever the thing was.</p>
+
+<p>CLIENT: Yeah, I don't know. Ideally, I'd like to say that I would bring it up and discuss it, but in reality that didn't work out so well with my last therapist. I wasn't able to bring it up so I just left.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: But I gave my reasons for why in the letter I wrote her to say why I was severing our doctor-patient relationship. Yeah. (pause) Actually no, I didn't even do that much, now that I'm thinking about it.</p>
+
+<p>THERAPIST: You just didn't explain.</p>
+
+<p>CLIENT: Uh huh. I wrote a couple of very fake sentences about it being a mismatch in worldview and values without going into the specific things that were pissing me off.</p>
+
+<p>(pause 28:03—28:36]</p>
+
+<p>THERAPIST: I imagine you remain pretty hurt over the way she let you down.</p>
+
+<p>(pause)</p>
+
+<p>CLIENT: I don't know that I would have said I felt hurt by it. (pause) I think it's more... Yeah, so the attitude she portrayed was one that definitely I consider harmful to me and to people like me. Especially the thing about how [inaudible]. That kind of gender [inaudible] and gender policing is very harmful in a broader sense. But before you brought it up, I don't think I would have said that I was hurt. I think I would have said that I was annoyed or angry or insulted. </p>
+
+<p>[0:29:55]</p>
+
+<p>THERAPIST: I guess the reason I thought of it was, and I really do think it makes sense, that here's somebody that, as I understand it, you felt pretty close to in other ways and had been very helpful to you around other issues, and then she's going to pull that kind of crap.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Ya know, that stuff that really matters to you. And [inaudible]. I guess that...</p>
+
+<p>[0:31:19]</p>
+
+<p>CLIENT: That's all true and all not a framing I would have thought of on my own.</p>
+
+<p>(pause [00:31:31]—0:31:48)</p>
+
+<p>THERAPIST: Do you know why not?</p>
+
+<p>CLIENT: Because I was still stuck on the being angry and insulted.</p>
+
+<p>THERAPIST: OK. (laughs)</p>
+
+<p>(pause [00:31:57]—0:33:40)</p>
+
+<p>THERAPIST: The way you would have framed it, I guess I immediately [inaudible], but I suspect that in addition to being angry and insulted, you are also sad about what happened.</p>
+
+<p>[0:33:45]</p>
+
+<p>CLIENT: Yeah. Yeah.</p>
+
+<p>(pause [00:34:03]—0:35:36)</p>
+
+<p>THERAPIST: What's occurred to you?</p>
+
+<p>CLIENT: (pause) Not much.</p>
+
+<p>(pause [00:35:52]—0:36:26)</p>
+
+<p>THERAPIST: Have you lost a lot of relationships with people because of the way things they've done have pissed you off?</p>
+
+<p>CLIENT: Yes, but not recently. I guess more because I've started keeping new people I meet at arm's length until I know them well enough to know whether they're going to say something insensitive to me. I think the whole long saga of my priest, which has been going on for five years now, she was the last person I really trusted based on a gut instinct when I first met her. I've been much more skittish about becoming emotionally close to people quickly since then, because that just turned out so appallingly badly. I can't cut her out of my life because she's the priest of my parish and I'm not willing to leave my parish, and so it's like they just keep coming. But yeah, when I broke up with Phil, the creepy ex-boyfriend, I lost a lot of friends because they just said stupid things about us, about our relationship. Yeah. (pause) I think most of the relationships I've lost because I got too angry to be able to deal with them anymore were people who I met when I was in college and was with friends with anyone who was in my dorm and remotely interesting.</p>
+
+<p>THERAPIST: Yeah. It becomes, sort of, more discriminating.</p>
+
+<p>CLIENT: And also, my values have changed a lot since then. There's one guy, his name is also Ethan (laughs), who I've known since our senior year of high school and we both [inaudible]. We were good friends for a very long time. There's lots of unresolved sexual tension, and I think, even in spite of everything that's happened in the last two years, if I had an opportunity to sleep with someone I would take it. But he just kept being wildly offensive, deliberately offensive to people I care about, like deliberately using the wrong pronouns for a transgender friend of mine or saying stupid homophobic shit ironically, even after people told him that's not funny.</p>
+
+<p>[0:39:35]</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: I think the last straw was when he said something about how he hoped Occupy protestors all got their heads bashed in by police batons. That's when I was like, "Ethan, I'm sorry. This is too much. I can't take it. We're done. I'm not talking to you anymore." And in that case I actually did tell him that, you know, "This is the final straw for me, I'm sorry. I can't continue to be close to you." And he was pissed off about that, but you know. We had more conversations where I left the conversation just furious than not. It wasn't worth it to me anymore. Even though we've been friends since we were 17, that was... Some friendships aren't worth keeping, I guess. I'm definitely sad about that. I'm also mad at him for being such a jerk.</p>
+
+<p>THERAPIST: Right. Yeah, it sounds like it wasn't at your end. He was deliberately provocative.</p>
+
+<p>CLIENT: Yep. It was woeful.</p>
+
+<p>THERAPIST: [inaudible]</p>
+
+<p>[0:41:48]</p>
+
+<p>CLIENT: (laughs) I mean, we still have friends in common, we still go to the same parties. And like I said, if the opportunity came for a one-night stand, I would take it. [inaudible]</p>
+
+<p>[0:42:10]</p>
+
+<p>THERAPIST: (laughs)</p>
+
+<p>(pause 42:11—42:58)</p>
+
+<p>CLIENT: I guess part of that in particular is I had a crush on him when we first met. We met on the debate circuit in high school. We lived in the same state and went to schools in different cities, and we ran into each other at tournaments.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: But, like I said, my values have changed a great deal over the last twelve years, and I was very much into the whole cult of virginity, I call it, this idea that virginity was magical and special and should be saved and protected and guarded at all costs, and Ethan very much was not. So when we went to school, we went on a couple of dates together, but because I was very much loud and vocal about how sex before marriage is a sin and you're going to hell if you have sex before marriage, he was like, "I can't keep dating you."</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: I've always kind of regretted that and wished that I had grown up a little earlier.</p>
+
+<p>THERAPIST: We have to stop there.</p>
+
+<p>CLIENT: OK. Thursday right?</p>
+
+<p>THERAPIST: Alright, talk to you then.</p>
+
+<p>END TRANSCRIPT</p>

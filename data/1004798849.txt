@@ -1,0 +1,534 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Hi.</p>
+
+<p>CLIENT: Hi. </p>
+
+<p>THERAPIST: How are you doing?</p>
+
+<p>CLIENT: I don't know. Work has been profoundly frustrating the last two weeks. I was given this task. It was really kind of impossible, given the tools I know how to use. So I've been going around and asking our engineers for help. And I told my project lead that there was no way I could do this thing you've asked me to do because I was in a unique situation, in that we have two types of blocks. And blocks can be in one of two states. You can have either a sapper (ph) block or a PX block. Your block can either be in pre-ECO or post-ECO mode. And I'm the only person on the entire 50-person team who has a PX block in post-ECO.</p>
+
+<p>[00:01:04]</p>
+
+<p>THERAPIST: Both of those characteristics are unique to your block?</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: I mean, there are people who have PX blocks that are pre-ECO and people have post-ECO blocks that are sapper (ph).</p>
+
+<p>THERAPIST: So it's that combination that—- </p>
+
+<p>CLIENT: Right. That combination is unique. And so I kept running into all these difficulties because of the way these two features were combining. I couldn't figure out how to do it. I told my project lead this, and he went and asked other leads of other—- because blocks belong to components and there like eight components, so there are seven other leads. </p>
+
+<p>So he went and talked to the other leads, and no one had any suggestions for how to fix this. So I've been spending weeks on this when I should have been working on other things, and I'm behind on all of these other metrics. And then yesterday afternoon at like 5:30, I accidentally stumbled upon the solution that no one I had asked about had mentioned, was not documented anywhere.</p>
+
+<p>[00:02:00]</p>
+
+<p>It was just a matter of—- I was trying to run help on a particular command, and I mistyped the indication to the help tool, and the help just spit out like eight pages of crap instead of the two paragraphs I was looking for. I read all of it and I found the thing. I was like "Hmmm, maybe this will work" and I tried it and hey, what do you know?</p>
+
+<p>THERAPIST: (laughter)</p>
+
+<p>CLIENT: Everything worked. </p>
+
+<p>THERAPIST: I don't mean to make light of your frustration, it's just really ironic—- </p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: —- that you got a solution in this way, although—- yeah.</p>
+
+<p>CLIENT: And so I had a meeting scheduled with my component lead this morning. I had to go over all the different metrics and timelines and what needs to be done when, and he spent all day having a meeting with each member of our team to review their blocks, so I wasn't being singled out.</p>
+
+<p>[00:02:56]</p>
+
+<p>But I told him, "By the way, it turns out that if you do the schematic changes the way everybody else has been doing them, we get all these problems because I have a PX block that's in ECO mode, but I found out there's this final diff tool and it works differently than what I had been doing because"—- it's complicated. But I explained to him all the technical reasons and he was like "Huh. I didn't know we even had that." It's just—- I don't know. So rationally, I understand that, you know, this is not my fault at all and no one is blaming me for it, and my—- </p>
+
+<p>THERAPIST: Did you get a gold star for finding this solution?</p>
+
+<p>CLIENT: No. The reaction from Jordan, my component lead, the one who—- "It's just so stupid that we have the PX blocks in the first place. I'm sorry you had to deal with this."</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Which is not quite a gold star. (chuckles)</p>
+
+<p>[00:04:02]</p>
+
+<p>THERAPIST: Right. Sympathetic, but not—- yeah.</p>
+
+<p>CLIENT: Because the sapper (ph) technology is newer and industry standard, and the PX stuff is just legacy—-</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: —- bullshit, that is being phased out but not fast enough.</p>
+
+<p>THERAPIST: Really.</p>
+
+<p>CLIENT: But like I understand that no one is blaming me for being behind and it's not my fault, but I still feel really stupid and small and helpless and worthless. And I was so upset yesterday when I figured it out. I went home and just had a meltdown over the state of my block. Because it's two weeks that I've spent spinning my wheels when I could have been getting work done, and now all of my deadlines for all of the other work that needs to get done are two weeks closer—- </p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: —- and it's just—- yeah. </p>
+
+<p>[00:05:04]</p>
+
+<p>THERAPIST: I have two questions. One is, I'm aware the reality is you know it at one level doesn't match how you're feeling. I got it. But I'm curious whether, on the reality side of things, your project lead relaxed some of your deadlines or offloaded some of your work, but didn't just say "Oh, it isn't your fault. Isn't this too bad?" But did he sort of give you any more breathing room on your deadlines, or are you still—- </p>
+
+<p>CLIENT: I mean, they're not deadlines that he sets.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: They're deadlines for—- I mean, we are literally sending physical media with all of the data to the foundry in Europe to actually fabricate the wafers.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: They have to have that data by November 15th if they're going to produce wafers by December 31st.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>[00:06:04]</p>
+
+<p>CLIENT: We have to have those wafers back in our hands by January 7th, and so on and so forth. Jordan said that he could, you know, recruit people to help me if I really can't meet the deadlines.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: He's willing to help me out, but like he can't waive any of the work and he can't change the deadlines.</p>
+
+<p>THERAPIST: Right. Okay.</p>
+
+<p>CLIENT: So—- </p>
+
+<p>THERAPIST: Question two is, so you went home and melted down sort of after you got this thing working? Do you know why then?</p>
+
+<p>CLIENT: Because I was so mad at myself for not finding the solution earlier, because it was right there in the help file. If I had just read the whole eight-page help file instead of only searching it for the specific things I thought would help me, then I might have discovered it earlier.</p>
+
+<p>[00:07:13]</p>
+
+<p>THERAPIST: Right. Which, I'm sort of understanding to be like, you know, like if you turn over all the rocks next to the parking lot outside, you might have found the answer, but (inaudible at 00:07:26).</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: I mean, I'm stretching a little bit.</p>
+
+<p>CLIENT: (pause) So it's not so much that I stumbled upon something that I had no idea existed at all. Like this final diff tool someone mentioned in an e-mail three weeks ago, and so I searched our internal wiki for final diff, and I asked my mentor "How do you use final diff?" and the TWiki had nothing.</p>
+
+<p>[00:08:04]</p>
+
+<p>So like doing a search on the TWiki turned up literally zero pages. Going to—- so final diff is a component of a tool called BB. So going to the main BB page, nothing about final diff. My mentor didn't know how to use final diff, and he's been at the company for eight years, so I was like maybe this tool doesn't work. Maybe it's been taken out of production. I don't know what's going on. I don't know how to use it. But hey, I know how to make changes to the schematic. </p>
+
+<p>So I focused on that for three weeks, and it just happened to turn out that documentation in the TWiki is incomplete, but if I went and used the help BB, whatever, on the command line—- it's different. It doesn't match what's in the TWiki, so having not found it in the TWiki, maybe I should've, you know, gone and looked what was in the man (ph) page first instead of—- </p>
+
+<p>[00:09:06]</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: —- throwing my hands up and saying well, final diff doesn't exist.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Of course, given that my mentor and my component lead both don't know how to use it and didn't know it existed either—- (chuckles)</p>
+
+<p>THERAPIST: Yeah, right. I mean, clearly you're sort of having to do some major contortion to make yourself responsible for the—- like to make it your fault, to see it that your having fucked up. </p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And I guess, you know, my next question is why you would do that. I'm not posing that as like "tell me the answer," I'm just sort of—- (pause)</p>
+
+<p>[00:10:44]</p>
+
+<p>What else comes to mind? I think I'm pretty clear about all that. I'm just not quite sure what to say.</p>
+
+<p>CLIENT: I know. (pause) There's yet another chapter in the ongoing saga of (inaudible at 00:11:06) at church, but [I'm done talking about it]. It makes me tired, but maybe I should talk about it. (pause) </p>
+
+<p>So, a guy in my church, he's a choir director and (inaudible at 00:11:28). He's an older white guy. He's in his 60s. He's a good friend of mine and a good ally. He and I were presenting to the vestry—- that's what we call our board of elders.</p>
+
+<p>[00:11:42]</p>
+
+<p>We were presenting to the vestry on Tuesday night a proposal that—- so our anti-racism team has a couple grand of grant money. We've applied to a couple of organizations and we got grant money to do facilitated learning sessions about racism and classicism and homophobia, to try to deconstruct all of that. </p>
+
+<p>And so we decided at our last team meeting that we should give some of our grant money to the vestry and have the vestry do one of these trainings because they're the ones making the decisions for the church. So we went to the vestry to present this. Our vestry structure is there's 13 members. Both our priests go to the vestry meetings, but they're not voting members. The vestry's leadership are the warden and the junior warden, so they're kind of like the president and the vice president. Not quite a good analogy, but close enough.</p>
+
+<p>[00:12:48]</p>
+
+<p>So the junior warden is on the anti-aggression team, and she has been a thorn in my side from day one. She gets very defensive, takes everything personally, refuses to listen or learn. She's white, obviously. You know, you can say, you know, "Institutionally, privilege is a problem in the US." "Are you calling me racist? How dare you call me racist! That's so mean!" It's—- </p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: So she was just really hostile to the proposal, even though she was there at the meeting when we presented the proposal. The senior warden is a white woman from the South who thinks that all of this race stuff is completely stupid. "Why do those black people have a problem? They can vote and our church is integrated, so what the hell is the problem anyway?" So she was just outright, openly hostile and rude to me.</p>
+
+<p>[00:13:44]</p>
+
+<p>At one point, our junior warden said something racist (chuckles), in the middle of talking about anti-racism, and I called her on it. I did it very gently. I said "You know, it's funny that you say that, because that sounds a lot like some of the examples that Erica gave us at our last team meeting."</p>
+
+<p>THERAPIST: (laughter) You were being very gentle. Yeah.</p>
+
+<p>CLIENT: Or maybe passive-aggressive, not gentle. I'm not sure.</p>
+
+<p>THERAPIST: I'm not (inaudible at 00:14:16) passive-aggressive. I'm not saying that. It's just one of those things that's like—- (pause) Anyway, what did she say?</p>
+
+<p>CLIENT: Oh, she was talking about how she finds the anti-racism team meetings frustrating and a waste of time because there are no goals. All we do is talk and there are no statistics and no measurements.</p>
+
+<p>[00:14:46]</p>
+
+<p>And in fact, at our last team meeting, we talked a lot about how historically majority white institutions use an obsession with statistics and metrics as a way to discount the experiences of people of color.</p>
+
+<p>THERAPIST: I follow.</p>
+
+<p>CLIENT: Because, you know, if you—- for example, an example that's relevant to our church, there are no children of color in our Sunday school classes, even though a third of our congregates are people of color, and half of the children in our congregation are children of color. But the families of color have more kids than the white families. So that's clearly a disparity, right? </p>
+
+<p>But you send out surveys to the whole congregation asking "Are your kids in Sunday school? If so, why? If not, why not?" and the families of color just don't respond. So now you have no data saying why they're there, so we don't have a race problem because the families of color aren't telling us that there's racism.</p>
+
+<p>[00:15:42]</p>
+
+<p>And so, we talked a lot about the use of statistics to minimize concerns of people of color and to make institutions hostile to people of color, and so that's what I said. And she like literally threw her hands in the air, turned her head to the side, and just started snickering.</p>
+
+<p>THERAPIST: This is the senior warden, right?</p>
+
+<p>CLIENT: Yeah. To which our priest was like "it looks like you're having a reaction. Would you like to share?" She was just like "No. I want to move on with this meeting." Seriously? </p>
+
+<p>So it was very frustrating and very challenging, especially since we just last week had the meeting with the bishops where the bishops talked about race. I can't remember if I told you about this, but we had a black woman bishop and a white male bishop come and talk to us.</p>
+
+<p>THERAPIST: Yeah, you were saying they were—- </p>
+
+<p>CLIENT: And they were very open and honest</p>
+
+<p>THERAPIST: —- awesome.</p>
+
+<p>CLIENT: Although the break-out groups after were just so frustrating. </p>
+
+<p>[00:16:43]</p>
+
+<p>So yeah, the vestry voted in favor of this even though both the wardens voted against it, which is not entirely unprecedented but is definitely unusual and kind of noteworthy. Usually the vestry follows the lead of the wardens. But it was a close vote. Like they barely had quorum. They had seven voting members show up Tuesday night, and the vote was four-to-two with one abstention. (pause) </p>
+
+<p>But yeah, it was disheartening and I was just very upset. And I left as soon as I was able and skipped my workout and just went home and kind of sacked out on the couch, and was like I'm going to take the rest of the night off and just relax because [of the madness].</p>
+
+<p>[00:17:36]</p>
+
+<p>So my priest has been text messaging me a couple of times a day since then, saying how horrible she feels, and is she a bad priest, and can we meet so that she can talk about her feelings. It's just—- I don't want to talk about her feelings. Her feelings don't fucking matter to me. Maybe they'd matter if she hadn't screwed up in so many ways over the last four years, but really, like I can't summon any kind of caring at all. I feel a little bit bad about that. Like—- I don't know. I feel like maybe it makes me a bad person that I don't care that she's upset. Because she's clearly trying harder than the others. (pause) </p>
+
+<p>[00:18:54]</p>
+
+<p>THERAPIST: I think you seem to feel like there's sort of this (inaudible at 00:18:57) running through a bunch of this. I mean, some of it is very clear, but just overall like you're fucking up.</p>
+
+<p>CLIENT: Yep. That's how I feel about a lot of things. </p>
+
+<p>THERAPIST: Including, I think, is the reactions you have to these situations. Like, "Well, maybe I was passive-aggressive with them." I may be wrong on this, but maybe that you skipped your workout and went home and just—- </p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: You know, took the rest of the night off.</p>
+
+<p>CLIENT: I don't feel bad about that. I needed the rest of the night off. (chuckles)</p>
+
+<p>THERAPIST: Okay, good. I'm glad.</p>
+
+<p>[00:19:58]</p>
+
+<p>CLIENT: Possibly I should've drunk more water along with the beer I had. That might have been a better plan. But for the most part, I'm not upset about taking the rest of the night off.</p>
+
+<p>THERAPIST: Good. (pause) How about in terms of how—- [it also sounds like] you're upset about the gap between the way you know the stuff at work not to be your fault and the way that you feel like it is.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>[00:20:58]</p>
+
+<p>THERAPIST: Like not just that you feel like it's your fault, but also that you're reacting irrationally.</p>
+
+<p>CLIENT: Yep. </p>
+
+<p>THERAPIST: (pause) And I get the impression that you really don't know what to do about this kind of thing.</p>
+
+<p>CLIENT: No, I don't. </p>
+
+<p>[00:21:57]</p>
+
+<p>THERAPIST: Not your favorite scenario, not knowing what to do about something that's causing you trouble.</p>
+
+<p>CLIENT: No (chuckles), not my favorite scenario at all. That's quite an understatement here. (chuckles)</p>
+
+<p>THERAPIST: Yeah. (pause) </p>
+
+<p>[00:23:00]</p>
+
+<p>Yeah, I mean, you always, I think, have the feeling that you really should know what to do.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And without that, yeah, I do think you feel quite small and quite vulnerable. It's probably more accurate to say without knowing what's probably the best thing to do. (pause) And this makes impossible situations very difficult, I think.</p>
+
+<p>[00:24:04]</p>
+
+<p>Situations in which there's likely nothing you could do that would help you deal effectively with people or the problem at work. (pause) And maybe that's something that is very frustrating and infuriating. (pause)</p>
+
+<p>[00:25:07]</p>
+
+<p>And—- (pause) I guess what I'm trying to sort out at the moment is where I fit into this as the person you're talking to about it.</p>
+
+<p>CLIENT: (chuckles)</p>
+
+<p>THERAPIST: I don't have the impression, although I'm bringing it up because maybe I'm wrong, that you feel sort of really uncomfortably vulnerable in talking about this at the moment with me.</p>
+
+<p>[00:26:06]</p>
+
+<p>CLIENT: No, I don't.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: (pause) I don't know why I don't. It doesn't make a whole lot of sense to me, but—- </p>
+
+<p>THERAPIST: My one hunch I have is that you have a sense of like task-orientation to it here.</p>
+
+<p>CLIENT: Maybe, yeah.</p>
+
+<p>THERAPIST: (pause) That—- (pause) </p>
+
+<p>[00:27:02]</p>
+
+<p>To analogize myself to like somebody who, you know, happens to know about some obscure, strange technology.</p>
+
+<p>CLIENT: (chuckles) (inaudible at 00:27:17) are totally obscure and strange.</p>
+
+<p>THERAPIST: (laughter) You know, that you might go to with a particular type of question, and it might be easier not to know, knowing there was somebody to kind of talk to or appeal to about it. (pause) </p>
+
+<p>[00:28:13]</p>
+
+<p>Yeah, or it's a little like bringing in a car to be fixed or something. (pause) But I guess the cost of that is the way that it pigeonholes me somewhat.</p>
+
+<p>CLIENT: Mmmm-hmmm.</p>
+
+<p>THERAPIST: I'm not saying—- and sort of—- (pause) it exoticizes, in a way, or I think formalizes in a particular way like our relationship.</p>
+
+<p>CLIENT: Mmmm-hmmm.</p>
+
+<p>THERAPIST: I mean, it makes me a bit less of kind of just a person you are in a relationship with.</p>
+
+<p>CLIENT: Mmmm-hmmm. </p>
+
+<p>THERAPIST: You know, in that—- (pause) Clearly I'm kind of running with this, so I'll check in with you about it at some point. But like to the extent that you're talking to the amygdala circuitry expert or something.</p>
+
+<p>[00:30:20]</p>
+
+<p>CLIENT: (laughter) Right.</p>
+
+<p>THERAPIST: You know, it makes it easier to talk about something that's very scary, but at the cost of not quite like having the kind of, you know, relationship contact, in a way that you would with somebody (inaudible at 00:30:46). Does that make sense?</p>
+
+<p>CLIENT: It does in that I understand what you're describing as the phenomenon.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: What I don't understand is why that's a bad thing. </p>
+
+<p>THERAPIST: I'm not saying it's a bad thing.</p>
+
+<p>CLIENT: Uh-huh.</p>
+
+<p>[00:31:14]</p>
+
+<p>THERAPIST: But I think in a sense the problem—- it's sort of a—- (pause) In a way, the point is that you don't need to feel so bad about not being able to do something about an impossible situation, you know. Or being helpless in the face of something that's actually kind of impossible, or that you couldn't reasonably deal with. Or even, for that matter, if I really want to go to town on this, that you could deal with, you just happened to mess up that time, you know? (chuckles)</p>
+
+<p>CLIENT: (chuckles)</p>
+
+<p>THERAPIST: The point, it seems to me, is that those things aren't so bad as they feel in some sense, right?</p>
+
+<p>CLIENT: Mmmm-hmmm. Right.</p>
+
+<p>[00:32:08]</p>
+
+<p>THERAPIST: But it feels very dangerous and scary and overwhelming to you, but in another way, we can both say they're kind of not, generally—- </p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: —- in the present. And so—- (pause) It's sort of—- (pause) It's a way of like, sort of, pigeonholing me this way is a way of managing an anxiety that's very present in your life.</p>
+
+<p>CLIENT: Mmmm-hmmm.</p>
+
+<p>THERAPIST: With other people or sort of [imagining in your head] from whom you can't protect yourself in a similar way.</p>
+
+<p>CLIENT: Mmmm-hmmm.</p>
+
+<p>THERAPIST: Or where that sort of anxiety gets very overwhelming. It's not that I'm saying that it's a bad thing.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: It just sort of—- I think it's kind of a self-protective thing.</p>
+
+<p>[00:33:11]</p>
+
+<p>CLIENT: Mmmm-hmmm.</p>
+
+<p>THERAPIST: That sort of attenuates your experience of a very real problem you're having. Does that—- </p>
+
+<p>CLIENT: Yeah, that makes sense.</p>
+
+<p>THERAPIST: —- make sense. I'm sort of searching for a different analogy but not finding it. (pause) Like a goofy analogy that I can think of is, you know, if for some reason like you're a kid or something and scared of teachers because they're going to be judgmental or opinionated or whatever.</p>
+
+<p>[00:34:11]</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: So what you do is you kind of cook up this fantasy in your mind that, you know, teachers assign homework and other assignments and tests, like teachers are input-output machines.</p>
+
+<p>CLIENT: (chuckles)</p>
+
+<p>THERAPIST: You know? (chuckles) They give you this stuff, you have to give it back to them, and then they give you grades.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And this is like all transactional and that's it. And that helps, but it sort of doesn't address the—- it changes the issue, but it sort of doesn't help you deal with it. It doesn't address the anxiety.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Like it may be a good strategy. There's nothing wrong with that. It's not like I would say that's bad.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: But if, let's say, it leaves unaddressed problems with other authority figures, then you can't do that in the same way.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Then that's what I—- </p>
+
+<p>CLIENT: Okay. (pause)</p>
+
+<p>[00:35:20]</p>
+
+<p>THERAPIST: I guess a question I have is, does it feel like you do that with me, sort of see me as somebody who has a very particular type of role or—- </p>
+
+<p>CLIENT: I don't think so.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: Maybe subconsciously, but—- (pause) I think the more important thing that lets me kind of be open here is that—- well, I've spent a lot of time over the last several years working on [trying to internalize] shame around mental illness and being able to talk about it and de-stigmatizing it. And so I try to talk about at least the biological side of what's going on in my brain relatively openly with everyone.</p>
+
+<p>[00:36:22]</p>
+
+<p>So, you know, it's not a secret that I take psycho-pharmaceuticals, for example. So that was a lot of work and quite—- </p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: —- a journey to be able to talk about it without feeling ashamed.</p>
+
+<p>THERAPIST: Yes, I can imagine.</p>
+
+<p>CLIENT: But also, you're a complete stranger, really. I mean, that doesn't—- you're obviously not a stranger because I've been coming to you for, you know, six months or however long it's been and you know all these intimate details of my life. But we don't have a relationship outside of these appointments, right? And you don't know any of my friends or my family, and you're not going to be able to tell stories about me or make comments about me to other people. And, you know, there's that code of professional ethics and confidentiality and all of that.</p>
+
+<p>[00:37:22]</p>
+
+<p>THERAPIST: Sure. Absolutely.</p>
+
+<p>CLIENT: So, yeah. </p>
+
+<p>THERAPIST: So in addition to the work you've done, and it sounds like a lot of it and a lot of work—- </p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: [I know how intense some of this stuff is], but there's also the (inaudible at 00:37:53).</p>
+
+<p>CLIENT: Yeah. (pause) When I was a teenager, whenever I did anything my parents didn't like, whether it was something big like getting in a screaming match with them over, you know, I want to be able to date and they wouldn't let me, or small like, you know, I missed a spot when I was mopping the floor or something, it was always "We don't know what's wrong with you. There's something wrong with you. You're broken as a person. If you don't straighten up your act, we're going to take you to a psychologist."</p>
+
+<p>[00:38:31]</p>
+
+<p>Like that was the threat. And you know, I think in the long run, my life would have gone very differently and probably better if they had sent me (laughter) to a psychologist or a psychiatrist when I was 14. But yeah, there's a stigma in my family against mental health treatment. </p>
+
+<p>THERAPIST: Sure.</p>
+
+<p>CLIENT: Yeah, my dad yelled at me a lot and told me that I was stupid and brainwashed the first time I told him that I was seeing a psychiatrist and taking antidepressants. And then it was just really horrible and ugly and unpleasant all around, but I'm glad I told him. I don't know. It was just one more of a multitude of ways in which I established that I'm not under this thumb anymore, damn it. (pause)</p>
+
+<p>[00:39:43]</p>
+
+<p>THERAPIST: Yeah, and I think you have fought and are fighting really hard for that. </p>
+
+<p>CLIENT: I don't want to go on this trip with them. I really really don't. (pause) </p>
+
+<p>THERAPIST: Why are you going? I mean, I have some idea, but—- </p>
+
+<p>CLIENT: Because I feel obligated to. (pause) My dad has been talking about doing a big family vacation for 10 years and keeps not doing it because it's too expensive or he changes his mind or there's some, you know, medical emergency that forces us to cancel the trip or something.</p>
+
+<p>[00:40:49]</p>
+
+<p>And I don't know why he actually bought the tickets this year, but he did. And you know, when we were still trying to pick dates and I thought that this wasn't really going to happen, you know, my sister and my mother kept harassing me like daily with calls and e-mails for about three weeks saying, you know, "Come on, we need dates from you and Dave. We need you to phone in to family phone meetings so we can pick dates. We need you to do this because dad is going to die soon, and this is going to be his last vacation, and he wants the whole family together." And I know that that was an emotional manipulation and I know that it wasn't fair, but I still fell for it. </p>
+
+<p>[00:41:44]</p>
+
+<p>THERAPIST: (sighing) I'm not sighing because you fell for it. I'm sighing because it's awful.</p>
+
+<p>CLIENT: Yeah. I understood that.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: (pause) Of course, dad's been saying that he only has another year or two to live for the last 20 years. (chuckles)</p>
+
+<p>THERAPIST: Is there anything medically wrong with his body?</p>
+
+<p>CLIENT: Apart from the fact that he thinks that having a 600-calorie-a-day diet of mostly rice is an adequate treatment for diabetes, and he's frail because he refuses to exercise, and his balance is shot because of two subdural hematomas he had 15 years ago.</p>
+
+<p>THERAPIST: What's that? Those are bruises, right, hematoma?</p>
+
+<p>[00:42:39]</p>
+
+<p>CLIENT: In the brain.</p>
+
+<p>THERAPIST: Oh, okay. Got it.</p>
+
+<p>CLIENT: He was in a car accident and he was rear-ended, and it caused bleeding in the brain.</p>
+
+<p>THERAPIST: Oh wow.</p>
+
+<p>CLIENT: Because he's a stubborn ass, he refused to seek treatment until he literally passed out in the middle of doing rounds.</p>
+
+<p>THERAPIST: On a neurology unit?</p>
+
+<p>CLIENT: Yeah. (chuckles)</p>
+
+<p>THERAPIST: (laughter)</p>
+
+<p>CLIENT: Ironic, right? And it just so happened that he had asked a friend, who is a neurosurgeon, to consult on a case and his neurosurgeon friend was standing right there and was like "Oh shit, we need to get him into an OR right now." Yeah. (pause) Because he didn't want anyone drilling into his brain. So instead of doing it in a controlled manner where he could plan for it and take the time of day and have the surgeon be prepared, he waited until it turned into an actual emergency. (sighing) But no, there would be nothing wrong with him if he would fucking take care of himself. </p>
+
+<p>[00:43:51]</p>
+
+<p>THERAPIST: He eats 600 calories a day?</p>
+
+<p>CLIENT: Yep. He has lost a ridiculous amount of weight. He is under 100 pounds.</p>
+
+<p>THERAPIST: Oh wow.</p>
+
+<p>CLIENT: My sister and I both think he's actually anorexic.</p>
+
+<p>THERAPIST: How tall is he?</p>
+
+<p>CLIENT: He's five-six, five-seven. He's pretty short. </p>
+
+<p>THERAPIST: And he weighs under 100 pounds?</p>
+
+<p>CLIENT: Yeah. It's terrifying.</p>
+
+<p>THERAPIST: I bet.</p>
+
+<p>CLIENT: Yep. But he thinks that being fat causes diabetes, so if he just stops being fat, he can stop being diabetic. But, you know, white rice isn't exactly the best diet for diabetes. He eats white rice and beef.</p>
+
+<p>THERAPIST: And they're incredibly high—- </p>
+
+<p>CLIENT: And that's about it.</p>
+
+<p>THERAPIST: —- on the glycemic index.</p>
+
+<p>[00:44:45]</p>
+
+<p>CLIENT: Yep. He doesn't eat vegetables. He doesn't like vegetables. He doesn't like bread. He doesn't like pasta. He likes white rice and beef curry and that's it. (pause) And apples. Another excellent thing for diabetics to eat, apples.</p>
+
+<p>THERAPIST: (pause) We'll stop for now.</p>
+
+<p>CLIENT: On that cheerful note. (laughter)</p>
+
+<p>THERAPIST: (laughter) [I'll talk to you tomorrow].</p>
+
+<p>CLIENT: Yeah. Good night.</p>
+
+<p>THERAPIST: Good night.</p>
+
+<p>END TRANSCRIPT</p>

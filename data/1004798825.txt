@@ -1,0 +1,220 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: How are you?</p>
+
+<p>THERAPIST: Pretty good. Thanks. [Pause].</p>
+
+<p>CLIENT: My lab work is stressing me out. [Pause].</p>
+
+<p>THERAPIST: Sorry to hear that. [Pause].</p>
+
+<p>CLIENT: I feel like ignoring it, so I don't really want to talk about it because it's just like it goes up and down, up and down and when it's like in the middle or up, I don't really pay much attention to it. [Pause]. But I am chasing this piece of data that is not straightforward to get for me. So Thomas, who just graduated, sort of pioneered these experiments in our lab and has had better success with them. I'm doing something a little bit harder than he is. [Pause].</p>
+
+<p>[00:02:24]</p>
+
+<p>So it's a matter of figuring out the experimental plan that works for what I'm trying to test and also that works for my own life. So the order of events is you start a culture of the normal strain and the strain that hasn't been wrong with it that I made and then a day later, you use a starter culture bacteria to start 24 parallel cultures for each strain. And then it takes anywhere from 24-48 hours for those 24 cultures to grow up and then you play each of those cultures on a semi-solid auger plate with antibiotic on it. And most of the bacteria will die, but the ones that have gotten acquired random mutations in their time of growing up in the 24 culture stage will live; random mutations that confer resistance with whatever antibiotic. So it's a way to measure mutation rate. Essentially you count the number of bacteria that grew up and you can use the distribution among the 24 cultures to estimate mutation rate.</p>
+
+<p>So it's a very very exciting project that I started in January and I like it and Kelly really likes it. The general idea is that there's all of this drug resistant TB all over the world and we don't know why it's so common because the mutation rate of TB as we measure it in the lab is very very low and shouldn't be. It would just be impossible to observe as much drug resistance as we do if the mutation rate were really as low as we think it is.</p>
+
+<p>So my project is essentially to figure out if there are conditions in the actual host along environment that favor or drive a higher mutation rate. So if I were to find something it would be a pretty big shift in the field's thinking and a pretty nice start to a whole other set of questions. </p>
+
+<p>And this particular experiment is not hard. Technically, it's not hard, but when you're working with...</p>
+
+<p>[00:05:45]</p>
+
+<p>THERAPIST: I'm sorry. Is there something in the affected strain, not the control strain, like of the two that you start with that has something to do with the environment or the...?</p>
+
+<p>CLIENT: Yeah, so the mutant strain is forced to metabolize its carbon like, you know, there's like lots of sugar in the media. So it's forced to metabolize the sugar as if it were metabolizing fat. And in the host, it only eats fat. Why we grow it on sugar, that's like part of what the paradigm shift would be.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So we grow it on sugar because it grows faster on sugar, but...</p>
+
+<p>THERAPIST: But that's not the environment it occurs in out there.</p>
+
+<p>[00:06:37]</p>
+
+<p>CLIENT: No. So one of the ways to replicate that is to just grow it on fat, which is what I'm also doing. But then another way to do that is to use a mutant that is incapable of doing with sugar what it can do which is quite fast and...metabolism is so complicated.</p>
+
+<p>THERAPIST: That's alright. You don't have to...</p>
+
+<p>CLIENT: Arrows and arrows going here to there and eventually they make ATP. The fat pathway could be really cool because we think it might be making by product that are mutagenic to its DNA when it metabolizes fat.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: So it's like another arm where I'm working with a collaborator at the university to do really fancying in that aspect that only he can do and understand to test whether this fat pathway actually makes immunogenic species and like is my mutant; does my mutant have more of this species than the normal strains. </p>
+
+<p>So my like little box right now is like to do this experiment well enough so I can say is here a higher mutation rate in the mutant or not. And the mutant grows differently from the control strain, so what I...the procedure that I just described is not timed the same for the mutant and the control. So like they take...the mutant takes longer to go from the one culture to the 24 culture stage. </p>
+
+<p>And so it's just...it's like a story of me having like a bad experimental plan followed by a slightly less bad one followed by a slightly less bad one. And not really knowing that these plans weren't like really going to get me really great data. I first started out with the mutant and the control and like four different types of fat and like a different type of sugar, like all doing these parallel experiments at once. And it is physically impossible to do the last step for more than two strains in a day for more than like two commissions in a day. The like part where you plate an antibiotic because my like wrist would just fall off and it would take much longer than eight or nine hours to do more than two. </p>
+
+<p>So why I've been like trying to do like all six conditions at once, I don't know; but I was. And they would like be ready on different days and essentially I have gotten some interesting data that suggests that there is a higher mutation rate, but never have I gotten the normal strain and some weird strain like in one day in a way that I can compare them directly. Because part of the point of all of this is that everything is highly controlled and I did with the normal strain, exactly what I did with the mutant or the fat growing strains and I can say that the conditions were the same and yet we see a higher mutation rate. But I didn't have that. On Monday I did the fat strain. On Tuesday I did the normal strain. So it was like; there was like a week of that and one of those days the mutant strain looked like it had a completely normal mutation rate, not a high one, and that was a really sad day for me and I don't know why I'm so emotionally invested in these results. I guess I always have been emotionally invested in or attached to a certain hypothesis. </p>
+
+<p>[00:11:36]</p>
+
+<p>So I went to Kelly that day and told her that I think that I have a contradictory result to my first one, but I can't really be sure because like everything is happening on different days and I can't like compare it directly. I actually didn't have it that eloquent of an interpretation. I was just like, I'm stressed out. The set and the...she was great with me and sat down with me and looked through the data and said, okay, there's just way too much going on here. You care about the normal strain and the median right now. You need to like do those two on the same day. And I was like well; I have to cut out all the other conditions then. She was like okay, that's fine. And do that like four times in a row. So get like four replicates of this experiment and whatever the result is, that should help you feel a lot more confident about it. </p>
+
+<p>So I was like really really fired up. I made this whole plan about like what time I would do what so that they would both be ready on the same day. And like the first try worked and it has been six tries since I've tried the second replicate. So various problems have arisen. Like the starter culture didn't grow for the normal strain one day. The normal strain grew faster than I expected twice—and by the way, the plan that I devised had me coming in at 7 a.m. to catch the normal strain at the right time, and at like 4 p.m. to catch the mutant strain at the right time. And it turns out I could not get to lab at 7 a.m. [Pause]. And like why not? Just get up. I can't. I just can't do it. </p>
+
+<p>[00:13:36]</p>
+
+<p>So those days...I mean I probably can do it in like a matter of weeks of like slowly going to bed earlier and slowly getting up earlier, but in terms of like Tuesday, Wednesday, Thursday, getting out of bed and yeah; that didn't work.</p>
+
+<p>Yeah, so I got there at 8:30 the first two days and missed the normal strain, so it was overgrown.</p>
+
+<p>THERAPIST: I see. </p>
+
+<p>CLIENT: And this is like another example of that, how I'm like trapped I guess. Like in my own like little storm and it requires like a very—first of all like doing the same thing like three times in a row and having it not working, and then a big like emotional response and then it requires someone like Jeremy to be like change your plan. Don't come in at 7. </p>
+
+<p>So we talked that day for a while about why I thought I could come in at 7 and his observation is that I'm a very wishful thinker sometimes. And I have like...I'm invested in getting up earlier than I have been, so this is an ongoing thing for me where it's like, it's sort of an attractive challenge to set up things to come in at 7:00 because I would feel really good about being able to...</p>
+
+<p>THERAPIST: I see. In general, you would rather be getting up earlier because it felt like a way to kind of get yourself to do that.</p>
+
+<p>[00:16:04]</p>
+
+<p>CLIENT: Yeah, so consistent with that when actually it's really bad to like link to important goals when actually what's a lot more important is that I get the experiment done.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: And not that I try to wake up at 7:00.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Like it doesn't really matter for the experiment that I woke up at, or that I got up at 8:30, which was very good. A big improvement because like I missed a normal strain those two days. So like okay, those were like the first three failures and then it's like the fourth and fifth failures. And I see them telling that I'm like counting these things because I think when I look at people in the lab who are sort of more robust emotionally about their experiments, there's sort of a rigorous awareness of why things didn't work, but there isn't this like obsessive, "I tried 17 times to do this and that was so many times..." </p>
+
+<p>THERAPIST: I see. Like they may be tracking why things didn't work so they can put that information to good use. But they're not tracking how often they fail, which is pretty much just leaves you feeling crummy.</p>
+
+<p>CLIENT: Yeah. [Pause]. So it's so frustrating. Like the last two times the mutant strain was growing faster, a lot faster than it used to, and I think it's because my growth media was at room temperature those times and not cold. And you think back on that and you're like yeah, well that makes sense. Isn't that something that scientists keep track of? And they're like, no, not at all. I didn't ever write down the temperature of my media. And no one else in the lab has ever observed such a dramatic growth difference like from cold to warm. Like when I asked around, people were like, eh. I don't ever remember what temperature my media was at. </p>
+
+<p>[00:18:40]</p>
+
+<p>Because like you put it up 37 degrees or 97 degrees Fahrenheit...</p>
+
+<p>THERAPIST: Body temperature.</p>
+
+<p>CLIENT: Yeah. So...</p>
+
+<p>THERAPIST: I was just thinking about that like, what does that make a difference, because yeah. </p>
+
+<p>CLIENT: So whether it starts at room temperature or you know, being in the fridge putting it at 98 degrees for 24-48 hours shouldn't really matter. So that's where I am now is figuring out if something is going very wrong and I'm like getting contamination of some fast growing thing.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Or if, really, it's just the temperature. </p>
+
+<p>THERAPIST: Right. </p>
+
+<p>CLIENT: So ...[Pause]. I have this like itty bitty voice that wants to give up and I have like all of these other voices that are saying various other things. That's very stressful. [Pause].</p>
+
+<p>THERAPIST: Oh boy. [Pause]. What is the voice saying that wants to give up?</p>
+
+<p>CLIENT: The voice is saying...[pause]; well sometimes it says like take a break from this. This has been a pretty rough grind for the last two weeks. Clearly you're hanging on to failures much more strongly than is healthy or that feels healthy. And like you have other experiments to do and it will be nice to have a refresher...to have a change from this like string of trying to do for replicas in a row and only having done one and having like six failed things. </p>
+
+<p>And then the other voice...so that voice is sometimes like nurturing and like come back to it, you'll feel a lot better. And then sometimes, like last night, I was so tired and kind of sort of felt a lot less robust than I identify, that I usually identify with myself as being emotionally. </p>
+
+<p>THERAPIST: Yeah, I think you're much more affected by this than you want to be. And I think you feel like you're kind of a screw up for being as upset about it as you are. </p>
+
+<p>CLIENT: Well, it's more like, it's not, it's compared to like historical, kind of historical regimen; like I've been at this for a while and this isn't the first time that I've had sort of a crummy couple of weeks, but this is the first time that I've sort of felt like a, as I explained to Kelly and Thomas, like chipping away at my soul. </p>
+
+<p>[00:23:12]</p>
+
+<p>You could argue that well, I'm in a different emotional state and also a different scientific state. I'm doing work that is potentially very exciting. Kelly is much more invested in it than she has been in any other work that I've done. And it's not a really like cryptic thing that I'm doing; like I'm tweaking the system. And everyone goes through that and it's going to be fine eventually. You know, it's not like it's going to take six months, which like has happened before for something; for this to work. It's like I'll figure out the temperature and the timing and the growth and all, and it might require a lot more trial and error than I'm willing; that I have patience for. And then I think you're right about the screw up thing in that I feel like other people don't have to fail for the same reason like three times in a row before making a change. </p>
+
+<p>Like the 7 a.m. thing or...that's the main one. Or like the whole thing. Like that is taking so long and then I'm still not there. I'm still going in after this and trying to ride with the room temperature media thing and saying okay, that's my new experimental...that's going in to the procedure and everything is going to be at room temperature and I'm going to do it based on that. So today will be the first time that I like planned to do that and that I'm hoping or expecting the cells to be ready at a certain time, but something else could go wrong. [Pause].</p>
+
+<p>[00:25:47]</p>
+
+<p>So I didn't finish the major quitting voice. It just sort of came up last night when I was trying to go to sleep, which is like...so it really wasn't quitting. It was like take a semester off. [Pause].</p>
+
+<p>I have a very hard time imagining quitting altogether. So that was inaccurate. And then all the other voices are like Kelly will be so happy when you finally come to her with the data. You will be so relieved when you finally have an answer, yes or no. I really hope it's yes. I'm going to be so...it's going to be really really really hard if it's no. What are some coping mechanisms, scientifically, or what are some like next steps that are...that I can have ready if it's no, because that's going to be a really hard thing to deal with already. [Pause].</p>
+
+<p>THERAPIST: What did you envision for the semester you would take off?</p>
+
+<p>CLIENT: Going home, hanging out with my parents. [Pause].</p>
+
+<p>I did not envision staying here, but then finding something else to do. Like if I'm going to be here, I want to be doing this. And it's not that I like love it so much. I don't know if that's been clear or not. It's just something that I'm doing and that I really want to finish. </p>
+
+<p>Sometimes I like the day to day aspect of it and I really like the acclaim and recognition and praise. And like prospect of publication. I'm working on a publication right now and I don't like that process because I don't think it's a very good publication, but for this big project it will be very very cool to contribute in the way that we potentially can. [Pause].</p>
+
+<p>And then I just like the people. I like Thomas and Joanne and I'm mentoring an undergrad and that's kind of cool. It's sort of just a nice warm environment, but I don't really have a career goal. [Pause]. </p>
+
+<p>Usually I'm pretty secure about that, even though I'm in the minority among my peers. [Pause].</p>
+
+<p>THERAPIST: And I guess the other thing that you explained that I wasn't so clear on because you talk a lot about your work before...a bit about things in the lab, but not so much about the work itself. Is that often in the past you've had stretches of a few weeks like this where things haven't gone well or have been pretty frustrating. [Phone rings]. Shit! I'm so sorry. </p>
+
+<p>CLIENT: That's okay. [Pause] </p>
+
+<p>THERAPIST: Um, that it hasn't affected you as much as it is now. It hasn't been as...</p>
+
+<p>[00:31:04]</p>
+
+<p>CLIENT: Some of it comes on [inaudible 31:06] like I was a younger student or like a less far along student. So there's the like a little bit of time pressure.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Like okay, it's sort of time to do what I got to do. Kelly has always been interested in my work and is in everybody's work. She's very good about that, but there wasn't the sense that she's going to be writing grants based on the outcome. She's talking to me every day about new ideas and talking to collaborators about the potential of this work. So like all of that structure has never been there before. </p>
+
+<p>One thing that makes it really bad is that Kelly has this tendency to run with data that isn't so confirmed. So she has repeated to lots of people that this mutant strange has a higher mutation rate even though I found it once under those conditions where I had nothing to compare it to. So that's been really bad for me because I'm not confident in that result and if it turns up that it's not at all that and even it sucks for Kelly, because she's the one who's said it to people, it sucks for me too. So that's the other thing that's different. </p>
+
+<p>And I felt like in the past I've had more reserves. [Pause].</p>
+
+<p>THERAPIST: Because it feels like it's partly a function of this time?</p>
+
+<p>[00:33:14]</p>
+
+<p>CLIENT: Uh huh.</p>
+
+<p>THERAPIST: Or just it's been tougher.</p>
+
+<p>CLIENT: Yeah. I proposed that to my dad last night who I talked to a little bit about this. He said I don't know about that. He said your Ph. D. is going to push you to your absolute edge no matter where you are on the mountain. And if you are feeling really really confident and strong and whatever, you would still be pushed to your absolute edge. And he thought that the end result would be the same. This sort of like desperate out of control emotionally very trying time. [Pause].</p>
+
+<p>I mean he agreed that maybe I'm not...he just thought that like wherever you are you're going to feel horrible for a little while.</p>
+
+<p>THERAPIST: Yeah, because my impression is that he was majorly supportive by that.</p>
+
+<p>CLIENT: Yeah. I felt maybe...</p>
+
+<p>THERAPIST: Okay, you know, don't feel like this is partly a function of just the hard time you are having. This would be happening no matter how you were doing in general because there are times when doing your Ph.D. just sucks.</p>
+
+<p>CLIENT: Yep, that's what he was saying. He had a long winding road when he did his Ph. D. and is a great person to talk to in general about...</p>
+
+<p>THERAPIST: Remind me what field he was in.</p>
+
+<p>CLIENT: He started his Ph.D. in Engineering. Got a master's and worked for a year and then switched fields entirely to Research. Essentially math. And then finished in that...in Research on the day I was born. </p>
+
+<p>THERAPIST: Oh wow. Like he [decided—35:34] the day you were born. Wow. </p>
+
+<p>CLIENT: Like two hours after I was born. And then we moved three weeks later and he's been a Researcher ever since. [Pause].</p>
+
+<p>THERAPIST: Does he like the lab...?</p>
+
+<p>CLIENT: Yeah, he's there at their [inaudible 35:59]. Very neat. It took him ten years from start to finish and he has always described it as a slow burn. [Pause]. Which has normally been sort of funny to me, but now it really does feel like a slow burn. And I can't get it out of my head that if Kelly just like weren't here, if she were just at the Olympics, that it would be a lot better. [Pause]. And that's bothering me. Because I don't think she should have that much power.</p>
+
+<p>THERAPIST: To be affected like that. It does seem like the kind of, the secondary or kind of middle level of upset where the reasons you're upset can make you more or less upset. </p>
+
+<p>CLIENT: Uh huh. [Pause].</p>
+
+<p>THERAPIST: And it does feel like lousy, but in another way okay to be upset with your advisor like perched on your shoulder.</p>
+
+<p>[00:37:20]</p>
+
+<p>CLIENT: Yeah, and she's not...I might be making some of that up. She's not like coming to me every day asking how it's going. She does that sometimes. But I think I've made it clear to her that this is really crummy right now and she's always said, for the like the last two times that I talked to her about. She's always said, "Just do what you have to do. You don't know where the good data is coming from. It may not come from this experiment." She has a pretty good attitude. But then she also has this other side that's like telling everybody about the data that doesn't exist. </p>
+
+<p>THERAPIST: That's a pretty different...</p>
+
+<p>CLIENT: So it's...she has this strange confidence that's coming from somewhere; certainly not coming from me right now. </p>
+
+<p>THERAPIST: Right, right. </p>
+
+<p>CLIENT: So she's able to like sort of try to put me at ease, but yeah. </p>
+
+<p>THERAPIST: We should stop for now, but we'll talk more tomorrow. </p>
+
+<p>CLIENT: Okay. </p>
+
+<p>END TRANSCRIPT</p>

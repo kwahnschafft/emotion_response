@@ -1,0 +1,289 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: I'm glad you made it.</p>
+
+<p>CLIENT: (Sighs) (pause for .08 seconds) I sat in that horrible intersection, at the Parkway—</p>
+
+<p>THERAPIST: Ew.</p>
+
+<p>CLIENT: For half an hour. Usually it doesn't take quite that long to get through.</p>
+
+<p>THERAPIST: Yeah, that is a bad one.</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>THERAPIST: Right, and especially coming this way.</p>
+
+<p>CLIENT: Well this time of day any direction is terrible. (sighs) (pause for .05 seconds) And then I foolishly ran up the stairs instead of walking so I'm out of breath. </p>
+
+<p>THERAPIST: You're out of breath.</p>
+
+<p>CLIENT: (laughs) But I'm here.</p>
+
+<p>THERAPIST: I'm glad you're here.</p>
+
+<p>CLIENT: (laughs) (sighs) (pause for .10 seconds) I'm really frustrated with my job, cause there are so many tools we use. [00:1:05]</p>
+
+<p>Today I learned yet another completely different tool chain that I need that allegedly no one told me about but they've just been assuming I've been using for the last week. So at least now I know why my new technical lead is in my cubicle every day saying, "You know—how's your design work going? Why haven't you done this? (laughs) When are you getting that done?" Because he thought I was using this tool chain that makes everything faster than the by-hand crap I've been doing.</p>
+
+<p>THERAPIST: Oh. </p>
+
+<p>CLIENT: And it's just—there's no—(pause for .02 seconds) I've been assigned a mentor, and my mentor has been very happy to answer my questions. And he's never turned me away –</p>
+
+<p>THERAPIST: Is your mentor still the same after you switched groups?</p>
+
+<p>CLIENT: Yep. There's a lot of things he can't answer on my new designs that I'm on, but for anything that is not design-specific I still go to him and then for design-specific things I've just been going to my new manager. [00:02:03]</p>
+
+<p>Neither of them have ever turned me away or told me that they didn't have time for me or told me that my question is dumb.</p>
+
+<p>THERAPIST: Good.</p>
+
+<p>CLIENT: That I could go read the fucking manual or whatever. But, (sigh) it's still really hard to bring myself to go ask instead of wasting hours digging through the (inaudible at 00:02:24) for non-existent information. And there's also just stuff I don't know that I don't know.</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: Like with this tool chain– I didn't even know that existed so I didn't know to ask how to use it.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Especially because the thing I was trying to do can also be done using a completely different set of tools, except much more slowly and less efficiently and more likely to cause errors for other people.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: (sigh) So I just assumed, no I have to use these other set of tools and they kind of suck for this problem that I'm working on, but they worked for all these other classes of problems. [00:03:04]</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So clearly that's what I'm supposed to be using. It didn't even occur to me to ask—it's just so frustrating. (pause for .03 seconds) And I feel so stupid. Like every time something like this comes up, it's just a horrible head-death (ph) moment. (pause for .05 seconds)</p>
+
+<p>There's just so many things to remember and I've filled up almost an entire lab notebook already just scribbling down notes when I have conversations with more senior engineers. I've got this huge text file on my home directory and it's like a thousand lines now of notes to self about how to do things. [00:03:46]</p>
+
+<p>And yet there's still (sigh) (pause for .03 seconds)—for example, we got this passed down from the powers-that-be a week ago: "You're no longer allowed to use cell-type [inaudible at 00:04:00] books because we decided. So remove them from your design, swap them out, put in something else."</p>
+
+<p>And they told us to, the entire core, which is a team of probably 50 engineers, and they didn't provide any standard solution for how to do this. So each component has been tossing together their own, slap-dash –</p>
+
+<p>THERAPIST: Using those components in a sort of conventional way –</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: To do something.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And they said, "Don't do it that way anymore."</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: And so now because there is no centralized recommendation everybody is making up other ways to do it?</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Which is a problem?</p>
+
+<p>CLIENT: Right. And so everyone in my group has all [inaudible at 00:04:50] blocks except me. I'm the only one in the group who has a block. And so the guy in my group who wrote a program to do the swap-out consistently across our component at least, only works on [inaudible at 00:05:03] blocks, doesn't work on blocks. So I go over to our sister group—the group I used to belong to—and I'm like, "Hey, old boss. Can anyone in your group tackle this for blocks because I don't know." [00:05:19]</p>
+
+<p>He was like, "Oh yeah, yeah, yeah. Dave did that. Go use Dave's script." So I go talk to Dave and I find out how to use the script, and I run the script. And then halfway through he has a 20-line read-me file that says do this, then do this, then do this. At about line 10, the step didn't work. It said to click on this menu and that menu didn't exist for me.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: So I was like, "Hey, Dave. (laughs) How do I do this? Your thing says click on this menu and that menu doesn't exist for me." He says, "Well, did you first CH-mob (ph) the file to make it writable because you have to make it writable before you can open it. " No, that didn't even occur to me. [00:05:59]</p>
+
+<p>I felt really dumb because, you know, (sighs) (pause for .02 seconds) I don't know. I feel like, (pause for .02 seconds) for any technical person, like if you can't do something the first thing in your tool set should be to check the file permissions. And there were just so many other moving parts that I completely forgot –</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Square one.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: It was just such a forehead-smacking moment of—right, I can't edit the file unless I have write permissions on it. So—</p>
+
+<p>THERAPIST: Right, because being new (ph) and anxious your brain is working on the 50 moving parts that you've only spent a week with or something, and so it doesn't think of the obvious things.</p>
+
+<p>CLIENT: Yeah. But it's really, it's really frustrating.</p>
+
+<p>THERAPIST: Sure.</p>
+
+<p>CLIENT: I just (sighs) [00:07:00]</p>
+
+<p>I let some other thing break. Things have been breaking for the last two weeks, pretty much every day at least four different things break. And so something broke and I went to my mentor and I was like, "Brian, this thing broke and I don't know what to do," and he just started laughing. And I was like—what the fuck? And when he finally caught his breath he was like, "Yeah, that broke for me this morning and I didn't know what to do about it so I had to go and ask Gary." </p>
+
+<p>But by that point, I was fighting back tears because I thought he was laughing at me and it was just (sighs) (pause for .04 seconds)</p>
+
+<p>THERAPIST: I see. So (pause for .03 seconds) this stuff is just kind of raining down on you.</p>
+
+<p>CLIENT: Yeah. And it's like if Brian is having problems, and he's been with this company for eight years and he knows—not everything but a lot—and if he's running into problems where fuck if I know what to do, I've got to go ask someone more senior than me, then clearly this isn't me being dumb. But that's how it feels. [00:08:03]</p>
+
+<p>THERAPIST: Right. Yeah, sometimes it can just feel that way when things go wrong.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: And it's kind of worse if you know the reality isn't you being stupid, (ph) because then I imagine you feel bad that you're feeling stupid.</p>
+
+<p>CLIENT: Yeah. (pause for .02 seconds) I just (sigh) yesterday I ran into a bug where I referred it to my manager, who referred it to two other people in the group who then went and got help from a manager from a different group, and it took like five engineers the whole day to figure out what the hell was going on. It's just (sigh) I don't know—I think I'm having buyer's remorse on taking this job. (laughs) </p>
+
+<p>THERAPIST: Uh huh. [00:09:00]</p>
+
+<p>CLIENT: Because it's literally every day something different has turned up bugs. And it's not just me tripping over them. Like I trip over them more than other people because I think other people, when they encounter bugs, just go, "Eah, I'll wait 4 or 5 hours and see if anyone else trips over it and I'll go work on something else."</p>
+
+<p>THERAPIST: (laughs)</p>
+
+<p>CLIENT: But like other people are also reporting bugs, and it's just, it's just (sighs) unbelievable. </p>
+
+<p>THERAPIST: (pause for .07 seconds) Frustrating and demoralizing and sort of embarrassing in a way.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: (pause for .08 seconds) I know that image that just popped into my head is like (pause for .03 seconds) kind of like little kids are just learning to skate and stand up and can't get their balance and fall down –</p>
+
+<p>CLIENT: Yeah. [00:10:00]</p>
+
+<p>THERAPIST: And try to stand up again and fall down. Like people around them are skating and they're trying to stand up and falling down again and again.</p>
+
+<p>CLIENT: Yeah. (pause for .03 seconds) That sucks.</p>
+
+<p>THERAPIST: That's right, yeah. (pause for .12 seconds) Yeah, ice is hard and it's cold.</p>
+
+<p>CLIENT: Yeah. (pause for .09 seconds) Yeah. (pause for .14 seconds) I just, it's so hard to stay focused on the task at hand when everything is frustrating and everything is hard and everything is demoralizing.</p>
+
+<p>THERAPIST: Absolutely. [00:10:59]</p>
+
+<p>CLIENT: And so all day it's just this constant kind of battle of wills between me and me, really. You know, the responsible grownup part and the part that says, "Fuck it. I'm just going to play now." (pause for .03 seconds) And I think I've over-booked myself for the fall. I've got commitments four days a week—well, six if I count these sessions. </p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: Which doesn't leave a lot of time for just relaxing.</p>
+
+<p>THERAPIST: Sure.</p>
+
+<p>CLIENT: And I'm also—on days where I don't have an appointment to get to—I'm likely to just stay at work until 9 or 10 o'clock at night, fighting with the tools until I feel like I've accomplished something, which isn't very good in terms of long-term staving off burnout.</p>
+
+<p>THERAPIST: I see. [00:12:00]</p>
+
+<p>CLIENT: Taking care of myself. But it's just so tempting to say I didn't get a lot done today and I need to just keep working until I finish something. Even if, the reason I didn't get a lot done was because I spent all day on the phone with the CAD team instead of doing my work, versus, you know, fucking around on the Internet.</p>
+
+<p>My brain kind of perceives both of them as not getting enough work done.</p>
+
+<p>THERAPIST: I see. Even spending a lot of time with the CAD team or getting some bug fixed is not actually checking off things on your to-do list. Is that right? </p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: It doesn't feel like it counts.</p>
+
+<p>CLIENT: (pause for .03 seconds) So like there's a big scoreboard on the [inaudible at 00:12:49] that scrapes data from all of our work areas at the end of the day and there all of these metrics for things that have to be zero percent before we can take out.</p>
+
+<p>THERAPIST: Like bugs? [00:13:00]</p>
+
+<p>CLIENT: Yeah. Not bugs, I mean we don't call them bugs in hardware land, but things like your signals are propagating too slow, or your fan-out is too high, or you don't have enough noise margin: all of those things have to be zeros. They have to be clean for takeout.</p>
+
+<p>And when I look at the scoreboard and I don't see my numbers going down, even if I've actually been doing something work-related instead of screwing around, I still feel the need to get one of those numbers lower before I can go home.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: (sigh)</p>
+
+<p>THERAPIST: (pause for .05 seconds)Yeah, it's kind of shitty to have a scoreboard like that, I would think, especially when you're new.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: It must feel like it's, ah, clearly I'm not saying this is true, but I would imagine for you it feels like it broadcasts your incompetence. [00:14:05]</p>
+
+<p>CLIENT: Yeah. (client sounds upset) (pause for .05 seconds) I mean, I know why they do it because it allows—like, if someone's out or if someone needs help, it lets the manager see who needs help really quickly. And you can also see, you know, I know so-and-so's block has a lot of problems similar to mine. Maybe if I go talk to them we can come up with a solution.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: And also there are just so many metrics to track that it's really hard to keep track of them on my own, so the scoreboard is really useful to say, you know—okay, my noise is looking good, I've still got a couple of errors but noise isn't anywhere near as bad as electro migration so let me focus on knocking those down first. Because every change affects everything else, and so changing one number can cause another number to jump up and it's just, everything is tightly coupled. [00:15:05]</p>
+
+<p>So, I mean, it's useful in terms of practical terms—just knowing how to prioritize what I'm working on on any given day.</p>
+
+<p>THERAPIST: Uh huh. I see.</p>
+
+<p>CLIENT: (pause for .10 seconds) Yeah. (pause for .24 seconds) On the bright side, we had a health screening at work yesterday and all of my metabolic numbers are in the low-end of the healthy range, so—</p>
+
+<p>THERAPIST: Oh good.</p>
+
+<p>CLIENT: Woo hoo. [00:16:00]</p>
+
+<p>THERAPIST: (pause for .03 seconds) Are you being facetious or what? Sorry, I can't tell.</p>
+
+<p>CLIENT: I'm still really pissed off about the whole health screening thing because the nurse who did my health screening started in with a lecture about how I should not eat processed food and I should exercise, blah, blah, ways to keep my cholesterol low and blood sugar low before she drew my blood. </p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: So I was like, "Why don't you run my numbers and then if it's necessary we can talk about lifestyle?" cause I expected my numbers to be good, but I wasn't sure, because I haven't had a physical in like five years. So I don't know, it was possible that I could've had terrible numbers, but the fact that she just went straight into the lecture before running the numbers—and then when she got them she was like, "Wow. These numbers are really low. How'd that happen?" Fuck you.</p>
+
+<p>THERAPIST: Yeah? [00:16:56]</p>
+
+<p>CLIENT: Yeah. (pause for .05 seconds) A friend of mine told me that I should have brought a brochure about healthy at every size and left it with them. (laughs)</p>
+
+<p>THERAPIST: (laughs) Good idea.</p>
+
+<p>CLIENT: I was just, (pause for .03 seconds) yeah.</p>
+
+<p>THERAPIST: That's horrible. (pause for .25 seconds) Did you have a thought I might say that? You have a sort of a look that you have a reaction or something?</p>
+
+<p>CLIENT: No. Just (pause for .12 seconds) the same old, same old, wishing I was skinnier.</p>
+
+<p>THERAPIST: Oh. [00:18:11]</p>
+
+<p>CLIENT: And being pissed off that the culture we live in doesn't allow women to be heavy and insists on shaming people who are heavier than the ideal. Like even though according to the stupid, fucking device that sends an electric current down your arms and measures your body fat percentage I'm in the healthy range, but (pause for .08 seconds) but I suppose that lecture about being too fat—even thought my body fat percentage is in the healthy range according to their stupid widget—which doesn't even work and has completely skewed results for a woman because you know breasts are fat mostly—and the little electrical hold-in-your-hand device only measures the top half of your body and not the bottom half. And just -</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: (sigh)</p>
+
+<p>THERAPIST: Dumb widget. (ph) [00:19:14]</p>
+
+<p>CLIENT: Yeah. (pause for .10 seconds) I'm annoyed at myself that even knowing that my body fat percentage numbers are in the healthy range, and my cholesterol and blood sugar and all of that—also in the healthy range—(pause for .02 seconds) I still think of myself as fat and disgusting and unhealthy.</p>
+
+<p>Even though all of the evidence says otherwise because societal mass says that thin is good and it's just so, (sigh) so demoralizing. [00:20:00]</p>
+
+<p>THERAPIST: (pause for .30 seconds) [inaudible at 00:20:30] I'm wondering (pause for .11 seconds) Let me be clear—it is, of course, absolutely fine to be talking the way you're talking about what you're talking about. Not saying there's any problem with it.</p>
+
+<p>CLIENT: Um hmm. [00:20:57]</p>
+
+<p>THERAPIST: I'm wondering, though, like—and also this is kind (ph) of number two—I'm aware (laughs) that these are things you're, you know, to do with your own frustrations with your weight –</p>
+
+<p>CLIENT: Uh huh.</p>
+
+<p>THERAPIST: And how you look, with the way you personally have been treated and how society treats women in general—people in general. Um, with work or various things that other people are doing –</p>
+
+<p>CLIENT: Uh huh.</p>
+
+<p>THERAPIST: And yourself. I know these are things you spend a fair amount of time being very frustrated and upset about. With the way you're kind of starting to get rolling here a bit about them, I wonder if there's something here that somehow pulls for that? I don't know if this is how it works when you're out in your day?</p>
+
+<p>CLIENT: Um hmm. [00:22:00]</p>
+
+<p>THERAPIST: Or whether there's also something here, I don't know—maybe today or at other times, that pulls for this somewhat. I'm not sure what that would be. And again, I'm not saying it because it's a problem. </p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: I'm just trying to figure out what's going on. I'm afraid we have to stop for now.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: But we'll talk more tomorrow.</p>
+
+<p>CLIENT: I'll try to be on time. Actually, I'm working from home tomorrow so I'll be coming from within town and –</p>
+
+<p>THERAPIST: Oh good. I'm glad you'll have a shorter commute.</p>
+
+<p>CLIENT: [inaudible at 00:22:40] better route. (laughs)</p>
+
+<p>THERAPIST: Take care.</p>
+
+<p>CLIENT: Thanks.</p>
+
+<p>THERAPIST: Yeah. [00:22:45]</p>
+
+<p>END TRANSCRIPT</p>
+______________________________________________________________________________________</p>
+
+<p>1004798725 B 9-27-12 Page 1 of 10</p>
+
+<p>END TRANSCRIPT</p>

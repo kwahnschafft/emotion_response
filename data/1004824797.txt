@@ -1,0 +1,266 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: (inaudible at 00:00:05) </p>
+
+<p>CLIENT: Yea, to me. So he has not. He's not only going to pay (ph) (inaudible at 00:00:15) </p>
+
+<p>THERAPIST: Excuse me, I'm going to give you some cash out of my desk. (pause) Where is it? (pause) </p>
+
+<p>CLIENT: So this is going to cover the last two times but let me (inaudible at 00:00:29) something from (inaudible at 00:00:30) take a check to pay the balance.</p>
+
+<p>THERAPIST: Thanks. (pause) </p>
+
+<p>CLIENT: Well, well, I thought it was—wasn't it three hundred? </p>
+
+<p>THERAPIST: I'll double check. </p>
+
+<p>CLIENT: Double check. </p>
+
+<p>THERAPIST: Maybe it was. I'll check on it though. (pause) (inaudible at 00:01:08) </p>
+
+<p>CLIENT: So I have this little quiz in my class, right? It's a minor, little five percent of your grade thing. (pause) And I feel like the problem is, in general, not just this but if I don't feel 100 percent, I feel like—(pause) I don't know. [00:02:03] It's not like going in to take an exam where you write. It's going in and you are either able to think very clearly, logically because it's all about—well, I mean, that's what math is but especially this, because it's all proofs. So, not only you have to get it right, to have to get it right for the right reasons. And logic is weird. </p>
+
+<p>When you look at something mathematical, you say, "OK, I'm not going to attack it, saying "A implies B". I'm going to attack it, saying well, "Not-B implies Not-A." Therefore, I'm going to do the math that way and prove the opposite which then needs the emergent (ph) (inaudible at 00:02:51). And that's sort of twisting, or thinking, "OK, I know what I'll do. I'll look at something and I'll do it by contradiction. I'll assume something that's false and then back itself into a contradiction. And therefore, the opposite of false must be accurate. It's these weird little riddle things and you're doing math. (pause) </p>
+
+<p>THERAPIST: Yea. Both those things that we talked about—I think, a couple weeks ago—about the meaning of grappling with a riddle and not getting it right away and math, too, yea.</p>
+
+<p>CLIENT: It's tiring and there's something tiring about having to—like yesterday I wasn't feeling good. I was all snuffling and headache and fighting (ph) all day. And I woke up with a headache today. And I don't know what, I must have ate something or something sweet, something. So, it was giving me a headache, I don't know what. </p>
+
+<p>So the feeling of thinking, it's weird. It's almost like in my brain. I can see this empty spot. [00:04:00] I can see myself thinking around this empty space and I'm aware of the fact that there's something missing that I can't think that way. It's almost like it's by relief. (inaudible at 00:04:11) I thinking, thinking, thinking, thinking and there's a way that I can't think and I'm because more acutely aware of not being able to think that way. </p>
+
+<p>There's a thing you can prove things by induction which is, I find, troubling. You can say some property value numbers and then you can say, "Well, if it works for A = 0 and n = 1, let's just say it works for any arbitrary k. And if we assume that, let's say that it also works for k + 1. And so, you then start solving this where it's used in number theory where you can prove all kinds of things about a set of all natural numbers. So [I did] (ph) then. </p>
+
+<p>And so you cannot prove anything. You just can't go through example, after example, after example because then you'd be proving it infinitely, right? So you say, "Well, assume it's true." If you assume it's true, we can prove that it's true, which is a very weird way of thinking, like a chocolate bar. A chocolate bar that's tied up into individual squares, it's always the case that no matter how many squares there are it will always take you one less than the number of squares to break it up into its constituents squares. Clearly, that's true. But then going about bending—you say, "OK, all right, let's make sure we can prove all cases." [00:05:57] So that if we had to part with 50 million pieces, you can take 50 million minus one break to break up into a square. And again, [start life off course.] (ph) That works. Yes, it makes sense but having to think formally about, "OK, how do you do that?" So it's a mathematical proof. (pause) See, so I'm (inaudible at 00:06:22) counting and indexing and counting. (pause) I don't know. It's gris (ph). It's oaksome (ph).</p>
+
+<p>THERAPIST: And this may be a funny thing. That's what—how does it feel?</p>
+
+<p>CLIENT: Well that's the thing. Yes, it doesn't feel good. It feels very much like all of this is taking place in my head. I can feel it in my head as I think it as opposed to it's not yet gut loved; it's not yet intuitive. [00:07:02] Maybe calculus didn't feel that way either but now I can sort of feel it. I feel its truth because you can see velocities and accelerations, and changes in velocity, and changes in accelerations. And you can graph things out and you can—(pause) I don't know. </p>
+
+<p>There's something about the intuitive notion of continuity that calculus (ph) about there. You can't have gaps. Whereas the stuff I'm doing now, it's all about number theory and you're dealing with different sizes of infinity. [00:08:02] (pause) The number of positive numbers is equal to all the positive numbers and all the negative numbers. They're the same size infinity. (pause) And yet, if you then start taking numbers between the whole numbers, well that's a larger infinity. </p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And so, that is sort of where I'm at and yet, thinking about it in terms of chocolate bars. (chuckling) And (inaudible at 00:08:48) positive numbers and still actual squares of a chocolate bar which is the simplest example to think of. [00:08:54] And so, there's no—there's the thing—it feels very much like—well it's like a horse thing, right? And the horse image of where—</p>
+
+<p>THERAPIST: Pólya's (ph) (inaudible at 00:09:12) </p>
+
+<p>CLIENT: Yep. [And so it's this outside notion you call induction.] (ph) (pause) And so it feels almost like I understand why I was frustrated as a kid sitting there at the table because it felt like this purely mental thing. And it wasn't like I was visualizing anything because there's—the whole point is the riddle didn't allow you to visualize. If you could visualize it, you could solve it. But then it's a matter of playing through word games if you're—what is the image. </p>
+
+<p>THERAPIST: Yea, yes. [00:10:01] </p>
+
+<p>CLIENT: What's the image? You think, "OK, I can see a chocolate bar but an infinitely large chocolate bar?" Then that's tougher to think about. </p>
+
+<p>THERAPIST: Yes, yea.</p>
+
+<p>CLIENT: Or proving—(pause) proving things that I always found a little weird. (inaudible at 00:10:20) I think it's my basic like—maybe there are just lots of gaps in understanding of algebra. Maybe I just wasn't all that fully grasping that when it was being taught that like (inaudible at 00:10:39) irrational. And you can prove that. And it's a tricky, odd, non-intuitive proof—(pause) which is the idea, thinking, "OK." (pause) It's so purely abstract. (pause) [00:11:02] </p>
+
+<p>THERAPIST: Yea just like a calendar, its days of the week. (pause) </p>
+
+<p>CLIENT: Well, that's right, yea, as a kid, right? I mean—(pause) there's something to it, I must say—</p>
+
+<p>THERAPIST: Or fireman and firemen.</p>
+
+<p>CLIENT: That's it, there's gifts (ph) for take on board. Definitions in the—and you have to—math is especially in the proof room. Math, where you sort of begin true abstract mathematics, you have to be able to use definitions, (crosstalk) (inaudible at 00:11:53) definitions, but you have to accept the definitions. </p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: And so there's a formal way to talk about even numbers as opposed to odd numbers. [00:12:04] And see, you have to be able to say, "OK, an even number can be expressed by two times an integer. In odd numbers, two times the integer plus one." So you begin your proofs saying, "Well all right, that's just how we are going to find these. Which is fine, that's fine. But all of sudden, simple little things become these sort of long abstract things where you're introducing all kinds of letters to say something very basic that an odd or what's not a redeeming.] (ph) We can't just say that. (inaudible at 00:12:44) I mean, we've got a proof for all cases. </p>
+
+<p>But the thing about this whole (ph) sort of—the thing that bugs me most about this inductive sort of thinking and proving of things, is that it's closed in the sense that we live our lives thinking, "Well, it's remarkably different." [00:13:19] Next minute, it could be different. You never know what's going to happen. And the idea, well, it's been the case for the past 300 days, five million years, whatever. But something new might happen. In math, they're saying, "No, you can't give 5 million examples because that's true, something different can happen. So you have to prove that for all cases. So the weird thing about math is you prove things for all cases past and into the future including the limit infinity. [00:13:56] </p>
+
+<p>And there's something weird about being able just to say, with absolute certainty, you have a chocolate bar fits a million pieces. And it's going to take one less than that to break up. It's like OK, that's easy to visualize but more subtle things—It's weird, sure, when you're presented in something that's sort of a statement of fact about all numbers. I think, "What does that mean?" There's no flexibility. There's no flexibility. (pause) </p>
+
+<p>THERAPIST: Yea. What about that one thing? </p>
+
+<p>CLIENT: Yea. Well, I guess it's weird because like I feel like in a pure realm of math, (inaudible at 00:14:54) number theory. And you're dealing with: set of all integers, set of (inaudible at 00:15:03) numbers, set of real numbers, set of whatever, set of rational numbers. [00:15:06] </p>
+
+<p>There's a calculus—it's like well, there's something dynamic. And you're thinking, "Well, OK for this period of time, you want to get a rocket to the moon, there are all kinds of variables." But if you can figure out what all of those things are, then you can get the rocket to the moon. (pause) And you know it's a big distance. It's kind of cool because you can absolutely go from point A to point B. Go on a curve. (pause) In number theory, I'm not talking rockets going to the moon. It's just saying something larger about something (inaudible at 00:15:59). You're saying something definitive about numbers which is itself an attraction. (pause) </p>
+
+<p>In Algensheuse (ph)—I guess, it's awful talking about and I know it's probably not satisfying to hear something because it'd be awful to actually like have pool from where you could sort of draw this stuff up. And say we imagine, sort of take what I say, and then visualize it. But in the Algensheuse (ph) induction is that, "Well, imagine something you want to say about a set of numbers, some proposition about numbers, is like a staircase." [00:16:54] And so, you don't have to prove that you can go up every single step instead, right? Just show you can get to the staircase and you can get from the first stair to the second stair. And if that's true, then you know how to get up one stair. And therefore, you can get up all the stairs (inaudible at 00:17:25). </p>
+
+<p>[There's another side] (ph) of the notion—a stronger notion—this uses sort of Fibonacci numbers where you have to presume the truth of several stairs behind or some arbiter in number of stairs behind. And if that's true, then you can claim that you can go up to the next stair. So for instance, Fibonacci numbers a pattern, so it's adding the previous two numbers once you've defined the first two. So it starts off, zero, one, zero plus one is one, one plus one is two, two plus one is three, three plus two is five, eight, thirteen, etcetera. [00:18:10] (pause) </p>
+
+<p>So to make some proof about those numbers, you have to say, "Well, I could talk about the Fibonacci that came before, and the one that came before that, because they have to exist for the present one to exist because it's the sum between these two.</p>
+
+<p>THERAPIST: [So when you throw them in the staircase?] (ph)</p>
+
+<p>CLIENT: I can find the next one. I can where I'm at but I have to know the previous two so (inaudible at 00:18:45). It's weird because you have to assume—(pause) something. You have to assume something exists in order to prove that it exists. [00:18:58] And I find this to be—(pause) you know that this is the nature of recursion. And I find it peculiar. I found it peculiar with the programming as well because the recursion is seminal recurring. (inaudible at 00:19:17) but—(pause) </p>
+
+<p>It's just odd, maybe those things you see love experience with and then become so much worse and very natural and so forth. But it feels like fractals in a way because I see and imagine. You sort of say, "OK. Well, but there's one (inaudible at 00:19:45) and assume that they're there and just come forth and go forward. </p>
+
+<p>And so how does it feel? It feels like a low grade headache, that's what if feels like. [00:20:05] It feels like I don't know quite where to begin, to begin in the presence. (pause) I meant, there's something, Zeno's paradox, right, is—and that you—(pause) and you've a notion of time and displacement. Can something truly move? Has time really passed, right? Those are the paradoxes and they're very troubling. And so, quantum physics, it's the case that you don't need time, you don't sequence, things can happen out of order, right? (inaudible at 00:21:02) that's not our experience. (pause) </p>
+
+<p>And yet there's something odd. And I keep talking about the calendar as a kid, right? A maze having colors and so forth. It's odd. And you think about days as rectangles. And like, "OK, didn't I come (inaudible at 00:21:28) next rectangle." (pause) So there's abstract way of seeing days but that is not our actual feeling of time.</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: So we can do these recursive things in math and we can see rectangles, whatever I'm dealing with. (pause) That's not the feeling of it. [00:21:54] (pause) Maybe I wouldn't be so troubled if it was—(pause) so easier. But I feel like whatever is happening in this course is the thing that is always above being about math. It's—(pause) the weird, little, small things in logic that the definitions are built on and using them, manipulating them, and building up from them. And I feel like I get stuck even though I can do all the stuff and I'm doing very well, and I—it's not easy for these people (ph) who don't study math. [00:23:01] (pause) There's a feeling of staring at the oasis of (inaudible at 00:23:13). (pause) </p>
+
+<p>THERAPIST: What does it mean to you that it's so hard?</p>
+
+<p>CLIENT: Yea. Well—(pause) </p>
+
+<p>THERAPIST: I have an interesting image of a gap in the brain or how did you (inaudible at 00:23:42) </p>
+
+<p>CLIENT: Yea. It really does, especially a brain that's such a strong induction to the notoriously (ph) difficult. I'm happy to know that at least it's something that's troubling. But it's weird to feel like sort of these five proof messes that we've learned. [00:24:05] It's like I can sort of think OK I can do them. It's this other strange method where recursion is used all off the g numbers. But that's a simple example which is a notion of eating stuff that came before you to assume it exists. (pause) </p>
+
+<p>Yea, it's in my mind. I feel like I'm sort of walking around this hole. Thinking, "How strange, I am aware of the fact that I don't get it and I can't generate it unless I'm looking at it. If I look at it, I can write out longhand and begin to see the logic of it." That's the thing about math too. It's so economical that this proof is given without explanation. [00:25:02] And so what I did, for this proof—there's a proof, it's called a division algorithm. It's just a proof that division works but for all cases, right? Division works no matter how you do it. (pause) </p>
+
+<p>Looking at it, and so all stuff it introduced—(pause) so it says n equals md plus r. So n is our arbitrary integer, d is a divisor, r is the remainder and n is some number, fine. And you can prove this all day long just by filling the numbers. Division works, division works, division works. But then how it's defined and the proof of it reading and all of a sudden there's greater than or equal. And you have four different things that are greater than or equal? So then inequalities are difficult. So once you begin to sort out how foreign equalities actually relate to each other. [00:26:09] So how it's sort of like this nested thing. This is less than that. And this is greater than that. And this is greater than zero. This is one or greater.</p>
+
+<p>And I'm thinking, "OK, exactly how do these things fit because seeing how they fit together is key. And you just see one line." (pause) So now you like, write it out and like draw squares. And it took me forever trying to figure this out. I was so delighted. Sarah and Carrie were equally flummoxed and they're both engineers so I was very pleased about that. (pause) </p>
+
+<p>THERAPIST: Yea. I mean, I think that's a kind of an important observation, your feelings about it. [00:27:07] That what I always imagine that this—it's kind of like it's asking you to enter into a system of logic and rules. And that isn't very, as you say, intuitive or easy to feel like this comes naturally or readily to me. In fact, there's a kind of, I guess, a psychologically, an uneasy kind of relationship with it in some way. [00:28:00] It's like, "Wait, I don't understand what this thing is trying to talk to me about. I don't feel like we're on the same page almost." (chuckling) </p>
+
+<p>And yea, and yet I see you really wanting it to be a smoother relationship or something like that. What actually was coming to mind to me was something about last week as we were talking about what makes a good boyfriend a good boyfriend. And what happens when you're not inside that definition, a set of definitions and principles. How that means about who you are as a person. (chuckling) [00:29:01] </p>
+
+<p>And, in here, I think you're talking about what kind of—it's asking me to relate to a way other people have thought or some way of thinking. And it's like, "Yea this is more visual," or more "I don't relate as easily to it." And that's kind of simplistic way to look at it but it captures something about. And to find these other partners struggling with it too. I would imagine it would almost like open up the space for you to not be that person and still be so belonged, in some sense. Not only is somebody intellectually capable but as a man in mathematics even. [00:29:57] (pause) </p>
+
+<p>CLIENT: I often reference, I think, those books in juxtaposition to mathematics and the issue of trying to think about ideas and hold onto them and—[00:30:55] (pause) I don't know. I mean, when you learn new subjects, it's about organizing big ideas and little ideas and how big ideas relate to other big ideas. And where's the intersection of some things. And just creating in one's mind Venn diagrams and flow charts and sequences. And in terms of the language, things like that, being able to decipher when something doesn't follow. And being able to glean good ideas and need to know where to find and link them up with some other idea. [00:32:12] And—(pause) I'm sure, I feel like I was—(pause) I don't know. </p>
+
+<p>THERAPIST: Yea. (inaudible at 00:32:44) </p>
+
+<p>CLIENT: Well, I'm just thinking like there are people who read and they get really hung up on if they're reading something that was graphed. (ph) And they get really hung up on little things and they really sort of stick it to a thinker. And they try to think, "Well, you said that here and you said that there and this doesn't jive with this person over there so there's conflict and everybody is wrong and let's sort this out, right." [00:33:10] And being sort of finding contradictions and being suspicious. And as opposed to my approach to things which is give persons credit. They follow (ph) about this. And sort of just see where it goes. Just read it all, right? Just accept it, let it—digest it. Let it sit with you a bit and its real crazy mood. What mood do you have when you read Freud? What mood when you read Jung? As opposed to tearing each apart, thinking, "Well, it's literal." (pause) [00:33:56] </p>
+
+<p>And feeling like maybe I should've been for—or that feeling of, "I could be wrong."—being more critical as opposed to everybody watching over me. Now I'm doing something where every single word or symbol matters and it is not metaphorical. (pause) It is accurate, precise, and exact. And it is deceptively powerful. That a little sentence in math-speak (pause) says something massive and true. And it's not available. (pause) </p>
+
+<p>I'm especially weird about that because here there's lots of flexibility. There's a sense somebody can ask for it. You can look at the person's own psychology: where they're coming from, what were they in response to, what were they trying to correct in their tone. Were they speaking with a notion of absolute conviction of a certain topic? Or was it said in passing, right, that's how we (pause) can see social theory (pause) because there's so many unknowns that you can bend it to your own liking. </p>
+
+<p>Those who don't like Freud, don't like Freud because they're offended by certain parts of Freud. And so therefore, everything is seen through that lens of "Ugh. I don't like that part. So therefore, I'm going to have to an axe to grind," while actually (inaudible at 00:36:42). Of course, you can't do that in math. You can't have an ax to grind against a certain theory. "Well, because I don't like that theorem. That's wrong. I don't like it." [00:36:55] </p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: I don't like that mathematician. No. That's not part of it. So it's oddly or quintessentially a person, which is weird. Because the rest about his person—</p>
+
+<p>THERAPIST: It's completely abstract. It's like a—yea, removed from a person. Removed from a—(pause) </p>
+
+<p>CLIENT: I don't know. Maybe statistics is more satisfying to read. I mean, I remember theories. It's just irritating because it's purely abstract. [00:38:16] </p>
+
+<p>THERAPIST: (inaudible at 00:38:16) (pause) </p>
+
+<p>CLIENT: So now, in number theories, it's really cool because there's pattern and the pattern continues. Well, statistic allows for—a team went down, touch down, two touchdowns and then come back and get 52 points. It's sort of like, "Wasn't expecting that," sort of, "Oh, well." But (inaudible at 00:38:51) (pause) And then so we—statistics (inaudible at 00:39:03) Maybe unlikely, but it can happen. Whereas in number theory it like, "Oh, if this can't happen it's won't happen. That's it. It's foreclosed." (pause) </p>
+
+<p>Which something is sterile about it and—(inaudible at 00:39:29) right? There's that feeling of like, "Well, maybe it's grey a little bit here but you never know," right? Maybe he's right, maybe they can prove him correct in the future. We just don't know enough, right, where it's always incomplete. And now in math—especially with (inaudible at 00:39:44) something right now—no, it's complete. It's a weird ideal that really, in the literal world, been completeness. Well, (inaudible at 00:39:51). Well, we'll see, all pure. In the past few weeks, I've been just focused on saying, "No. Never, ever, ever, ever, ever, ever, ever, ever true" which is strange.</p>
+
+<p>THERAPIST: Yea. [00:40:07] (pause) Yea, it's like truth. I mean, just about it sounds like it's being able to really hold onto something true and certain in a way. It's kind of like God. (chuckling) </p>
+
+<p>CLIENT: Yea. But then what is it? I mean, to say, "OK, two infinities are the same." (pause) All right, OK. I guess I can wrap my head around that. But so what? I mean, what, what? It's like, "It's true," but it's true in my brain, it's not true. </p>
+
+<p>Well, so here's this little thing we do. So this was like this very vexing little problem. And it's stupid how little things can be so irritating. [00:41:09] So in game theory you have to—so we had this problem to solve where a little game is played, things are in two stacks and there are rules in which you can take things away from stacks. And then any one size of stacks that you have to determine a pattern and then be able to figure out which player should win depending on who starts. So when does player one win, when does player two win, and mapping out the possibilities. And it quickly becomes massive, quickly becomes this thing you can't—and you need a computer sorting it all out. </p>
+
+<p>Before you get to that level of having stacks really big and needing a (inaudible at 00:41:56) you should be able to just see a pattern. And then figure out, "OK, player one should win, player two should win." [00:42:02] And think, "OK, in what case will it be big?" And (inaudible at 00:42:11) can often play something. And then prove it, prove the case. Prove it that player one will always win given these conditions. (pause) </p>
+
+<p>See [I'm sorry that I bring that up.] (ph) (pause) I forget why I brought it up. Other than it was—(pause) something that was just dynamic and yet it—maybe it's the thing where I don't like playing cards. [00:43:05] Here's why I never really got into—I don't know. (pause) It's sort of like playing checkers or something. I guess, growing up, it's fun playing Hearts and Rummy. And maybe I enjoyed Checkers. I don't remember really liking Checkers. I don't remember playing it that much or Connect 4, it sort of felt like there's something algorithmic about it. And I don't feel like using my brain in that way because it feels like, "Well, if I were analytical, I could always win and I don't really enjoy this." </p>
+
+<p>I remember sitting—and at the time I remember being very distracted and just very unhappy. [00:44:03] But I went out where my friend's girlfriend lives. So I went out to her house, and we're sitting at the table and there's some card game being played. And I didn't feel like playing. And then I [got to be the fourth] (ph) person and just not being at all being able to pay attention, and just not getting—and then looking at me like why don't you get this? (pause) And I guess that it was because I didn't have—I was just thinking about other things. But it felt like this purely arbitrary thing where you could just—(pause) I don't know. </p>
+
+<p>Let me shed some of the light. There was a phase where just did not like taking pictures because it reminded me of death, right? [00:45:08] A snapshot of something and realizing that that moment has passed and then it's like, "Poof, highlights (ph) time." It's just sort of divorcing oneself from a feeling and just looking at cards and then trying to calculate but still on the table in the deck. You're thinking, "I don't care." (pause) </p>
+
+<p>We were playing at a studio at Parks some time ago. Gear Up, it's one of this thing called, "Gear Up." So about two over there and the kids finished (ph) at homework they could then play games. [00:46:01] So the idea (ph) (inaudible at 00:46:02) they get 15 minutes of the game, because they loved playing Connect 4, right? So I'm tutoring them on this stuff right and then like it cuts back Connect 4. I always lose. </p>
+
+<p>THERAPIST: Really?</p>
+
+<p>CLIENT: And it's sort of like they didn't (inaudible at 00:46:19) but a teacher should win sometimes. The teacher is supposed to be the smart one, right? (pause) And then there's something like just staring at it thinking, "I don't get it." And then thinking like, "Something about this I'm not getting. I know you're supposed to get four, I understand that. I know it's like I'm just dropping things randomly but it's like I didn't figure out quickly enough perhaps, or ever." [00:46:56] Like the answer to where you always win. I feel like that's sort of the way the game is. Connect 4 is a game that if you really know it, you should always win. If you know how to play Checkers, whoever starts ought to be able to always win. (pause) There's an awful way to do it. I mean, slim to slamming. There's whatever, who knows, sixteen black, sixteen red or something. (pause) Yea, so it sort of leaves me cold. (pause) </p>
+
+<p>I much rather just draw a picture or something. I have to think about Connect 4. [00:47:56] (pause) Yea, Monopoly is great. I mean, it's stochastic in sense that there's guise. But there's an element of randomness and so because it's random—sort of like why the replacement refs were fun, right? There's an element of randomness. Teams who should win didn't win because they're just sort of this wild card on the grid. It's the joker. And now it's sort of like, "Well, the refs are good and things should go a certain way." (pause) I don't know. [00:48:57] (pause) </p>
+
+<p>We talked on this before but poker—never played it, have no interest. Zero interest. I see a—flipped the channels sometimes, you see that the hats are low and the sunglasses and I'm like, "Come on." I mean, (pause) people getting revved up and talking smack, right? This machismo of this whole slang that's been developed and—(pause) I don't get it. You know, my dad, right. Growing up, we'd talked about playing poker. Not actively playing like he used to, no, before I was born, playing poker. [00:49:58] And also thinking he has this remarkable, uncanny ability to when he played cards—I mean, good luck. I mean, he'll win.</p>
+
+<p>THERAPIST: Is that right?</p>
+
+<p>CLIENT: He just—and my mom is that way. </p>
+
+<p>THERAPIST: Really?</p>
+
+<p>CLIENT: But my dad is better. My mom is this mathematical person and my dad, somehow has this weird ability. (pause) And he's also just lucky but—(pause) </p>
+
+<p>Yea. And I don't know, I guess with playing cards, I wasn't—(pause) I don't know. I guess I wasn't revved up trying to figure out the cards that remained whereas my dad, that was on the front of his mind, always remembering. Just playing—and every game we're playing. It's like that stupid game, Memory, growing up. [00:51:05] Concentration, right, or whatever that name (inaudible at 00:51:09). You always (inaudible at 00:51:12) associated to your memory. </p>
+
+<p>THERAPIST: You've got to make the pair.</p>
+
+<p>CLIENT: Feeling like, oh brother. So maybe I don't know. So maybe that's just a weakness on my part so therefore, I'm against it. But I am not naturally that way.</p>
+
+<p>THERAPIST: Yea. (pause) </p>
+
+<p>CLIENT: No, I'm not.</p>
+
+<p>THERAPIST: Well, I wondering, do you feel sort of defeated? </p>
+
+<p>CLIENT: Well, yea. I feel defeated, yea. Well, I know why I brought the whole game theory thing because I was trying to solve this. So I took a bunch of paper clips—we went to the store, bought some paperclips, and I was going to bring them and set them down and like begin to play with it to show Barbara, because it's not like it's rocket science. [00:52:04] It's an easy little game. But I was going to think about how to actually prove how the game works. And she's all, "No, I just want to enjoy my wine." In a funny way, like, she's goes, "I'm not that complex." And I thought, to her—I was thinking, "I'm trying not to care really either." But she's willing to just sort of say, "You can sort it out. That's fine. Good for you but I don't want to be playing this game." And I think I don't want to either, really. I have to because I know it's one of the five problems I've solved. (pause) </p>
+
+<p>But some people, perhaps, would have this real high energy toward this, and try to be competitive, and psych out the game, and figure it out, and immediately win it. Whereas me—(chuckling) you've heard the stories where Tom (inaudible at 00:53:02) competitive about everything and I think, "Well, what if I'm that person?" I don't know if I (chuckling) care enough to always win if I'm not interested. (pause)</p>
+
+<p>It irritates me if I don't know how to win and that does bug me. Like, feeling usually pretty unsuccessful at Connect 4 which delighted the kids but I was like, "Hm," (pause) because with sciences we can say—I was walking along and I did a double take. I'm like, "I know this person." And I kept walking. And I thought, "Oh." Dr. Oz was his last name, some conference. [00:54:07] And so as I was walking—of course, I'm in my mind trying to solve these problems—and I'm thinking, "Maybe he's a person who just sort of looks at things and just sort of..." I remember seeing a show that you'd see (inaudible at 00:54:22). He was just sort of like, "Oh, OK. That was great." Or the people who sort of—and I'm not saying anyone who knows, right, when you see these (inaudible at 00:54:31). You see these simple (inaudible at 00:54:38). Simple kinds of things, maybe American culture apparently but—you manage and people who they say them to, if they choose to just to solve the problem. If they just choose to put their mind to it, they do it.</p>
+
+<p>THERAPIST: Right, right. [00:55:01] </p>
+
+<p>CLIENT: So then it puts you in a position if you actually choose to pay attention to something and then can't.</p>
+
+<p>THERAPIST: Yes, yea, yea. (pause) </p>
+
+<p>CLIENT: Yes, so I was—</p>
+
+<p>THERAPIST: Yea, yea. </p>
+
+<p>CLIENT: I just feel like it's right back into the—and I'm saying something as opposed to simply seeing and reading correctly the first time and sort of OK, OK, it's one of those eye (ph) problems. </p>
+
+<p>THERAPIST: Yea. (pause) Well, yea, we've got to stop in just a minute but it does kind of just get into that notion of like yea, what it means again to struggle and grapple with something. It sounds like when you do, there's an association to the idea that there's people out there who look at it and just do it. And it sounds like that kind feel very defeating to you. [00:56:02] (pause) </p>
+
+<p>And then, it also can lead to an experience, "Well, what is this mean about me and who I am?" I mean, it's kind of like I think the Connect 4. The card example is such an illuminating kind of metaphor because it's kind of like, "If I can't play it well, should I even bother playing the game at all?" And especially when there's somebody who just know how to win right away. It's such a—and then there's like a loss of an enjoyment out of the game. It loses the opportunity and the space for kind of like fun and enjoyment. [00:57:05] It's kind of (slaps hand together) collapse. </p>
+
+<p>And I was thinking, yea and that must mean that sure—I mean, struggling with these proofs, for instance, is like structured along the experience, it's structured along the same lines. It's not like there's an easy, open space for you to kind of—I mean, it sounds like there can be. It's not unilateral or this way, it doesn't seem to me. But is there room for—if you're struggling with it—is there room for it to be interesting and enjoyable? Like a brain teaser. It's like if a brain teaser is such an evaluation of whether or not you're smart. Like it's not fun to do a brain teaser then. [00:58:01] (pause) </p>
+
+<p>CLIENT: They too (inaudible at 00:58:19) setting this—It's always a shame of how much setting limits (inaudible at 00:58:22). They have a hard time explaining what's happening. Like they just sort of—they struggle and struggle and struggle and then they just sort of (inaudible at 00:58:38) clearly and it's just they want the proof. And in other words, that's why it is that my homework is so massive because every problem is written with a preamble of thinking each step is done in detail. And then it's like an explanation of why I did this. [00:59:01] And, I have to do it. So it's one problem that could have taken one page. It took me two pages of just writing it out. Writing, writing, writing and they're so baffled. So I read it to them and they were like, "Oh, man." It's like, I mean, it was great. They're sort of like, "Oh, we should've written that." Ha, and I'm thinking, "I wish I didn't have to write that."</p>
+
+<p>THERAPIST: Interesting.</p>
+
+<p>CLIENT: I wish I didn't have to.</p>
+
+<p>THERAPIST: Interesting.</p>
+
+<p>CLIENT: (chuckling) Expansive—</p>
+
+<p>THERAPIST: Interesting.</p>
+
+<p>CLIENT: —in order to like back into something. (pause) It's like, yea, a word person doing math as opposed to a math person trying to come up with words. So there is the people who are struggling to actually use English whereas we are struggling to use equations. [00:59:58] We get to the same point (pause) because you need both, that's why you need both. (pause) Anyway—all right. </p>
+
+<p>THERAPIST: All right, yea. </p>
+
+<p>CLIENT: Someday, I'll come in here and talk about (inaudible at 001:00:22). </p>
+
+<p>THERAPIST: What is it like? What is it like this time?</p>
+
+<p>CLIENT: Well, I don't know. It's weird because it feels like I'm not sure—I know other things are going on in life. There's an open house tonight. We looked at houses yesterday. And so Barbara, all she does it looks at house online and—(inaudible at 001:00:38) a while been going on. (pause) She made chili which hasn't made before. It's pretty good. It's all these real life things going on. There's football games, there's being sick, there's having a headache, there's this, there's that. [01:01:00] And yet, I'm fixated on inductive proofs which are just exposing some sort of weird intellectual weakness. And I just let it go. I would say, "Oh, let's enjoy football." (pause)</p>
+
+<p>THERAPIST: I always get the feeling like you're also—I mean, that it's talking about math and it's also a way to talk about something else. Almost like math is a way to talk about something more universal (chuckling) which is what it's—I guess it's what it's set up to do. It's like math is kind of a universal language. </p>
+
+<p>CLIENT: Yea. Is it that I'm talking as a philosophy or are I'm talking about my own psychology or shortcomings or what is math a symbol of exactly? [01:02:01] Why am I drawn to it even though I'm clearly not one who can play Connect 4 or Rummy or Checkers (chuckling) or interest in any of it? And they are inherently mathematical. </p>
+
+<p>THERAPIST: Yea, yea, all right, I'll see you next Monday.</p>
+
+<p>CLIENT: Very good.</p>
+
+<p>THERAPIST: Yea. It's Columbus Day. I will be here.</p>
+
+<p>CLIENT: So next Monday?</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: Oh. </p>
+
+<p>THERAPIST: Well, yes, it's this second Monday.</p>
+
+<p>CLIENT: Oh, that's right, that's right.</p>
+
+<p>THERAPIST: I'll be here.</p>
+
+<p>CLIENT: OK. In California, it's not Columbus Day. It's Indigenous People's Day. </p>
+
+<p>THERAPIST: (chuckling) Is that right? How about that? Why doesn't everyone come on board? (inaudible at 001:02:52) </p>
+
+<p>END TRANSCRIPT</p>

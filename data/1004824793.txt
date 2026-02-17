@@ -1,0 +1,232 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: Great fault.</p>
+
+<p>THERAPIST: All right. Praise everyone for our culture.</p>
+
+<p>CLIENT: This one?</p>
+
+<p>THERAPIST: Yes, there's, they call it the I-Talk. The various [inaudible at 00:00:15] uses the same microphone. </p>
+
+<p>CLIENT: So we went and saw it. Did I tell you that? Did I tell you about the movie Searching for Treham?</p>
+
+<p>THERAPIST: Yes.</p>
+
+<p>CLIENT: So we went and saw that recently. It's playing at the local. We met him.</p>
+
+<p>THERAPIST: Oh is that right?</p>
+
+<p>CLIENT: He's phenomenal. So I have all these pictures of Barbara and him talking to us.</p>
+
+<p>THERAPIST: Oh is that right?</p>
+
+<p>CLIENT: So during the concert we went there. It's a small venue. He's a phenomenal who's playing a small venue.</p>
+
+<p>THERAPIST: How big was it?</p>
+
+<p>CLIENT: It's called the Iron Horse so I don't know. It's a dinner, you can have dinner and just watch. So, we were at a table second from the stage and, I don't know, 300 people and you can stand there. So it's really intimate. So anyway I recorded the whole thing in chunks. So you of course you saw this session of the song and you have discreet little packages so you can fine tune and then slate one of their songs instead of one giant, hour long [inaudible at 00:01:20] concert. [00:01:22]</p>
+
+<p>THERAPIST: Oh, okay.</p>
+
+<p>CLIENT: So you record and stop record, and stop. So all together you have the entire concert but by the packages.</p>
+
+<p>THERAPIST: And how is it—is it pretty good sound quality?</p>
+
+<p>CLIENT: Yes. Now granted you're 12 feet from the stage, so yes. The speaker's [inaudible]. And another thing, it does pick up everything, especially clinking sort of things. So people were eating so in the background you hear the sound very much. You also hear the forks hitting plates, which gives a certain patina to it. It's not just—with the natural ear, of course, you tune those things out. [00:02:15]</p>
+
+<p>Same thing. So upstairs Jordan he has a hard time sleeping and he has a really hard time getting up in the morning. And of course, his bedroom's directly above ours. So he has one of these giant Bose things. So the problem is because it generates so much sound when his alarm goes off which is just talk radio, all we hear is boom, boom, boom, [inaudible at 00:02:48] speaking. So it's an ongoing thing and then Barbara fires off these angry texts because it goes off at 5:30, and we wake up at 5:40 and for ten minutes...And of course when she's not working she wants to sleep until nine. So what I wanted to do was just get a small radio and saying now you can make this as loud as you want, we can't hear it. It's just the size of the bass so you go ahead and sleep. [00:03:20]</p>
+
+<p>Oh, so I use that. If I can record that and I can send it to him and say this is what we experience. But it doesn't pick up bass very well so I'm like holding it right to the ceiling standing up on the bed and all it is, is just white noise, it doesn't pick up the bass.</p>
+
+<p>THERAPIST: Okay, okay, yes.</p>
+
+<p>CLIENT: So, I guess the other things to discuss is always [inaudible at 00:03:49]. I just ran cleanly as enough to buzz this math as someone might. And so I'm trying to do proofs and I think I went over it this last time to see if there is the logic that exists in proofs. I mean you have to not only understand the mathematics of what's going on but understand logical arguments. And it's not easy. [00:04:31]</p>
+
+<p>So for one wrestling now of sale (ph) of the week. I've been real solvent of the things on the move. So one, this is the easy one. This isn't math, although you can solve it mathematically. This is just a little bit of the fun little riddle of the sort that my mom would read to me in third grade. So this is nothing compared to the option select, doing this sort of condensed—anyway, so simple, simple. Prove that in a long line of at least two people if the first person is a woman and the last person is a man, then somewhere in the line there is a man standing immediately behind a woman. [00:05:27]</p>
+
+<p>I solved that one fine. Now, this one. This I have so many issues with and I—so I'll just read it. And granted it's hard if you're just hearing it as opposed to seeing it but I'll read it. So let N—so N being any integer, one, two, three, four, five, a thousand, whatever—let N be the number of horses. When N equals 1, the same is clearly true. That is, one horse has the same color as itself whatever that color is. Assume that any group of N—horses—has the same color. Now consider a group of N plus one horses, so making this a [inaudible at 00:06:32] group. So we have N which is this one. Taking any N of those N plus one horses, the induction hypothesis states that they all have the same color, say brown. Now, the only issue is the color of the remaining uncolored horse. So if you had nine horses and you just pick eight, there's that ninth horse. What color is it? [00:06:58]</p>
+
+<p>Okay so consider therefore any other group of N of the other group of horses that contain the uncolored horse. So let's pick again. Again by the induction hypothesis, all of the horses in the new group have the same color. Then, because all the colored horses in this group are brown, the uncolored horse must also be brown. So you have nine horses, you pick eight, well you know what the Nth colored one is so pick another eight, you pick N of them, now you're including the uncolored horse but because all the horses are brown, that must be brown. [00:07:43]</p>
+
+<p>Now if it were a math problem—so for instance—so the lower right the previous problems and all the math I'm quite happy to do it. So if it's a math problem, okay, I can sort it out. But this one it feels like it's a verbal issue (pause) so yesterday and today I was on the [inaudible]. I mean it's clearly false; it's not true. That's the case but why? [00:08:25] </p>
+
+<p>(Pause) And the answer says well you start out with one horse. If you had started off with two horses, start out with N equals two and then N plus one is three. It's plain if you start off with two horses then it's fine. But the fact you're starting off with one horse, that's the issue. I don't get why it's the issue. So I'm going to start this to necessarily crack this so I need to just go talk to... [00:09:28]</p>
+
+<p>THERAPIST: Yes, yes, yes. You want to find out what is it?</p>
+
+<p>CLIENT: But the thing is that it's the experience of thinking, there's that feeling of looking at something and not understanding it and not even knowing what the issues are to be discussed, which is perhaps a metaphor of something that—for instance, it seems to imply some sort of causation. Like being a member of the group can turn out, can turn a horse brown. A previously uncolored horse, whatever that is, can be able to become brown by being a member of the group. [00:10:14]</p>
+
+<p>Well, that's not true. But it's odd. I feel like it needs to be explained better but then is that the fallacy? I mean you can't just take, there is no such thing as an uncolored horse. Horses are taken from okay there are uncolored horses, there's a group of horses, and really, simply it's just the math issue. It's just a math issue. But somehow you inject into it because it's words. If it was formulas, like on previously, you can just manipulate them because there are rules and it's pretty clear.</p>
+
+<p>So it takes me back to the book of rules my mom would read and thus going around and around in that same way thinking well what is meant by that? And are they using that verb and this verb in this condition? So then just mapping it all out, all the possibilities, just to impact what's even being asked, because it will often hinge on a verb choice or something being gender-neutral. You know, classic? I cannot operate on this phrase emphasis. But the father  raise the child, how can that be? Did you have two fathers? [00:11:46]</p>
+
+<p>THERAPIST: Right but there's a, it's more than just a brain teaser in terms of the amusement or fun or interest of it. It also starts to be kind of a question of, starts to kind of be a kind of a question about your own mind and how well it works and does it get it or does it not get it. And if it doesn't what does that mean about you? [00:12:18]</p>
+
+<p>CLIENT: Yes, well that's exactly it because I feel like (pause) there are these mythical people, mythical being the correct word, but that exists who would read this and read it as it was intended to be read. And therefore just look at it and go okay I see what the authors intended. Well I'm not seeing what's being intended. So therefore I feel I can't even try to answer it. I have to go in and really it's been yesterday just ruminating just sort of on the back burner while doing the other problems in math. Just being aware of horses and doing other math problems thinking is this like the horse problem? Is that like the horse problem because there's subjectivity. It seems like there's subjectivity engaged, sort of entered into it. [00:13:23].</p>
+
+<p>And now looking at inaudible at 00:13:31] you can say okay the fact that I need investment management maybe I really do believe in [inaudible at 00:13:38] right? Sort of your classic SAT problem and it's like oh, God help me for thinking too hard on the SAT because you already graded, I mean. It's almost better to not be super smart in the sense that you don't get creative.</p>
+
+<p>THERAPIST: Yes, right, right.</p>
+
+<p>CLIENT: So I've asked my dad and he gets lost. So then either I'm putting too much into it, which gives myself some credit analyzing, whatever, or I'm undershooting it. I'm not rising up to the level to regard it. Whatever it is, I'm not reading it at the right level. So I'm missing the mark. Either I'm shooting over or not quite rising up to the level and I don't know which it is. [00:14:30]</p>
+
+<p>THERAPIST: So that's where the anxiety hits I think. It's like what does that mean if you're not? What does that mean?</p>
+
+<p>CLIENT: Yes, and I feel like it goes way back. I mean I wrote it down, the thing that I wrote, and I mentioned it many times here, that issue of first grade, firemon versus fireman and me being able to say firemon but she's saying let's fire a man those are the two words and I would say mon. Having this weird relationship to not only numbers and days of the week but words themselves, and not wanting to take them on in the way they're given to me. And I'm sure that that's not unusual, and too sure I'm sure there's a large group of the class that's experiencing the same thing I'm doing looking at this stupid horse problem. [00:15:37]</p>
+
+<p>But the issue doesn't jump out. The following of this does not jump out. I guess, so then there's the other thing. Well if I really understood, everything became really simple. If I really understood all my math, which I do, then I would see this. So I'm thinking well geez, I know the previous problems and a bunch of others and I get it and I did them but did I really get them because I really understood them, I would get the horse problem. It's the last problem in this little chapter. So sort of like the graduation problem. [00:16:32]</p>
+
+<p>THERAPIST: Yes, kind of the one that can make you feel like you got the chapter or you didn't get the chapter. And again it seems to hit not just about, of course it's not about math, but it's something much deeper and important existentially in terms of a sense of belonging and do you belong or not and what does it mean if you don't, if you're not getting it that way at the end. Where does that place you? Where does that place you in the world? Whether it's on a small frame of a class or in a broader, in first grade or math class or... [00:17:29]</p>
+
+<p>CLIENT: And then on another level—so Karen, Barbara's mom, is visiting. And that's perfectly fine. We don't, there's always a little bit of awkwardness and I feel like Barbara bridges the gap between working class England and United States whereas Karen really is in that. And so I feel like sometimes I feel awkward that she can't tell a story that's amusing, she laughs about things that I didn't find that funny but I'm laughing so I won't be rude but I don't get it. [00:18:37]</p>
+
+<p>And then in the morning she likes reading the paper. So Barbara sets her up on the—Barbara has Open Mac Air. So there's Karen there, coffee, sits there at the corner of the couch with the Air and reads the paper. And she wants to do crosswords but she can't do crosswords on the computer [inaudible at 00:19:10]. So she has this book of crosswords. She likes to do a crossword every morning. So I thought that looks good, doing a crossword. Then when they were gone, actually I saw the crosswords and some of them are sort of like partly done and none of them are complete. She started going through maybe 20 of them and just sort of started putting in a few words. And I was thinking well, they're different crosswords right, and so I thought I'll try to advance through this one. [00:19:52]</p>
+
+<p>And it's just so simple. So simple. And I feel like a feeling of looking at these crosswords and thinking if I just took three minutes I would just bang, bang, bang, bang, bang, bang work them all out. Three letter word for a female chick. [00:20:23]</p>
+
+<p>THERAPIST: [inaudible at 00:20:26].</p>
+
+<p>CLIENT: Yes, yes. Anyway so I thought wow. And what sort of hit me was I didn't—when talking to someone you don't sort of think. You sort of assume things about them. And that was the full thing; I wasn't expecting her to be knocking out super hard. I was thinking the Globe or something like that. She's doing ones in the mail, I have multiple ones in the mail that sort of thought alone. So then I thought yes, okay, these are always good. So, and then people could look at me and say well you don't do Saturdays, the New York Times. So people could look down at me because I peak out on Wednesdays and third of Thursdays and that's it. Give up Friday and Saturday. [00:21:29]</p>
+
+<p>THERAPIST: Yes, yes, I guess if Karen counter-captures maybe some kind of analog of what you can feel, you get to that question and it's like wait am I getting had? And then feeling maybe that same way, what do I do? Do people see me, how do people experience me, where do I fit in? Are people just smiling at me and kind of saying [inaudible at 00:22:11]?</p>
+
+<p>CLIENT: Yes, that's exactly right. (Pause) And the thing is, too, so—yes. You know I started out doing the real analysis course. And of course that was, that's the beginning of advanced math, which is just entirely proof oriented and we surround that with abstract algebra. Brain theory, fuzzy math, fuzzy (ph) algebra, which I would stay at it. So I'm sitting in on this class that's right beneath it that's sort of is supposed to prepare you for that because you've already had the math I've had, you also already had your algebra which I had not had, and then you can do this class. So it's still a bit of a reach for me because there's still things I don't know but I can get them. [00:23:25]</p>
+
+<p>So there's that. And then Barbara's keen that I just finish and get this Master so she said here, you're going to take this course, this other course. Take this course; it's all in proofs. So I'm in that and everyone who's in that class is either a math teacher or wanting to be a math teacher. And I like the idea of it but I don't say that's what my goal is. I don't say that. I don't say that I want to teach math (pause) because one it doesn't feel right. Also, it's a weird thing to know my current limitations and then to be in class and to tell your instructor that I want to be a math teacher when you when you know full well you're going to be having more kinds of questions that are very basic such as e-mailing him later in the day saying I don't get the horse problem. So how do you presume to want to teach something if you don't get [inaudible at 00:24:59]?</p>
+
+<p>So, so what I would say to him is, if asked, I don't presume to know to teach math. To be able to teach something you have to really know it. I feel quite confident being able to teach biology and I can do chemistry but math I don't presume to be good enough to do it. Until I get to that point where I have that confidence I'm not going to claim oh yes because I don't see myself as being good in math. [00:25:41]</p>
+
+<p>And yet the fact of the matter is my little study group that I formed Saturday the two people, so it's Carrie and Sarah, they're both in juniors. And totally onboard, totally insane. I was helping them; they were helping me. So, and they're mathy. So it's not that I don't know math, it's just that I'm feeling torrid. And so... [00:26:18]</p>
+
+<p>THERAPIST: Yes, well it's kind of what we've been talking about, about in some ways about being a teacher in other ways meant you had to be kind of afraid of certain things in one's personality or one's make up. And I was thinking of one thing you're talking about being a math teacher is you've got to be free of kind of a feeling of not knowing something. </p>
+
+<p>CLIENT: Yes, that's exactly right because in biology you go and say well it remains to be seen or let's look at the research. It's all, it's empirical based. Oh, I don't know; we can research that. Whereas in math, it's just pure logic and just with a piece of chalk you should figure it out. And you're totally on the hook. There's never an out. [00:27:14]</p>
+
+<p>THERAPIST: Yes. Yes and so the feeling of not knowing or being uncertain or doubtful is kind of incongruent with being a teacher but I was thinking in some ways in being a lot of things maybe you feel uncertain ways like, I mean maybe it's also the feeling of what it meant to take the MCATs or something like that. In some ways it felt like taking the MCATs would've really made you realize that there are things I just don't get. And then does that mean then that I'm not really ready or I shouldn't be, I'm not really that, I'm not really a med student or a... [00:28:11]</p>
+
+<p>CLIENT: Yes, well that was true recently because I was sitting in this class and it's all 1920 [inaudible at 00:28:29]. And kids sitting next to me and also interestingly of the 33 [inaudible] and of the 33, 18 are Asian. And all described back rows lap tops, and they sit there, watch whatever, in all each manner writing all in Chinese and they're looking [inaudible at 00:28:58]. </p>
+
+<p>So last time, Monday, sat there and a kid sitting next to me is working on his organic chemistry. So I'm sort of looking and remembering through the pleasure of doing it, I really enjoy organic chemistry. There's a certain art to it and it's fun drawing the molecules and it's fun just—it's like chess, it really is, just knowing the rules. I'm looking at what he's doing and he's doing a census problem, and he was doing it on a mercury surface which is glimpse do something to the resulting molecule. [00:29:49]</p>
+
+<p>So I'm looking at him and I'm thinking I have no idea. I used to. Usually you have a gazillion flash cards. This is how carbon [inaudible at 00:30:06] react, this is how nitrates react. And thinking now there's this electrophiles (ph), neucleophiles (ph), carbon oxygen, very basic. Something happening on Mercury, something happening on lunar, I read it. It was...[00:30:36]</p>
+
+<p>THERAPIST: Yes, what did it mean to you then that you were...</p>
+
+<p>CLIENT: Well, yes. So then, and then he was looking on his phone and I think now what happens, which is more of my case and I (pause) is that kids have answers. So then what I realized and wondered is how this is going to actually translate into kids really knowing things. But I mean when I was taking organic chemistry you really have to struggle and there wasn't an answer. But now everything's electronic. It was then too but now it's really electronic and you got it on your phone. [00:31:24]</p>
+
+<p>So from class to class when you're here if you know somebody then they send you the answers to the problems. So he's like fiddling, fiddling, fiddling, and then I [inaudible at 00:31:34] phone, it was a pdf, looks back, it feels good, excellent. Great and I sort of thought is that enough? Well just in terms of learning, I mean just thinking, well I mean is it just efficiency in terms of getting the process (ph) done so you can get the grade and think about it later because you can't really get organic chemistry like just look at the answer and plugging it in. To some extent you can but you really struggle to figure out why. That's pure math, right? That's problem math; the answer's in the back of the book. It's helpful but if you get used to the idea of looking at the answer in the takeaway oh that makes sense. [00:32:33]</p>
+
+<p>Like this one, there's isn't a complete answer; it simply says you need two horses. And the answer isn't complete in my mind, maybe it is. But I wrestled and wrestled and wrestled and I resisted other problems trying to find answers. That's really valuable but really wrestling because when you finally get it, wow, you really get it. But it requires time; it requires patience, the struggle. It requires discomfort. [00:33:19]</p>
+
+<p>[inaudible at 00:33:20] started saying other than seeing someone who is doing something I used to be very competent at and tutor and then looking at people I guess I devoted some time it'll come back to me quickly but then again I know I have in terms. And yet I know in the mirroring that when it comes down to it this kid might take the MCAT, that's a desperation. I took the MCAT and will he do better than I did even though he's looking at the answers because he naturally started to look up from one his problems and say I get it but I see that you're done with them. It seems to me you're really wanting to know it and really laboring with it and not being able to do it and that being a commentary on just on what is marked, and turning it around because I don't have proof to contrary. [00:34:17]</p>
+
+<p>THERAPIST: Yes, the only way to prove it is to do it, to get it. And it's, and not ever forget it too. I guess it's a ways (ph) too. Not for it will always be there as well. You know you talked about how you might revisit something like organic chemistry but I don't remember how to do that. What does that mean then? Did I get it in the first place or how much did I get it?</p>
+
+<p>CLIENT: Yes. Last night I was watching briefly—I didn't care to much for the game but as much [inaudible at 00:34:58] I can—and Ely was standing on the sidelines, standing with his back-up, I forget the name, but when he came on call he was this [inaudible at 00:35:07] guy. I forget his name, Ely's back-up. So he's standing there and the quarterback coach is talking to him and they're both nodding. And I thought what does a back-up quarterback do? In near terms of I know what they do, you watch [hard knocks] (ph) you know what they do. They're working just as hard; they're in every meeting, it's just that they're not getting the reps on the practice field. [00:35:44]</p>
+
+<p>Back quarterback's are good quarterbacks so having back quarterbacks around 40, 50 back-up quarterbacks? You have 32 starters? So yes, pretty good to be back-up quarterback in the NFL. But, so I'm thinking like when he goes out in life and introduces himself...</p>
+
+<p>THERAPIST: Yes, I'm the back-up quarterback. </p>
+
+<p>CLIENT: And Ely's really good but of all the cases perhaps, there's a back-up and starter isn't that great but still there's a difference of one's a starter and one's a back-up. There's a massive chasm starting for a back-up. Anyway...[00:36:42]</p>
+
+<p>THERAPIST: What's your fantasy of what the back-up quarterback says in field experiences?</p>
+
+<p>CLIENT: Quarterback has to know internally that he's really good but he's also has to carry around with him that he's not good enough because if he were good enough he'd be starting. </p>
+
+<p>THERAPIST: Yes, yes. What do they do with that? What do they do with those two things?</p>
+
+<p>CLIENT: They have to carry it around.</p>
+
+<p>THERAPIST: Yes, yes. I'm very good in some ways. I can tell I'm obviously one of 32 to 50 people that back-up, but I'm not good enough to start. What does that mean about me? I've got the whole chapter up until now but this one I'm grappling with and some guy in the back of the class gets it right away. What does that mean about who I am? [00:37:40]</p>
+
+<p>CLIENT: And what does it mean to—let's say you really get it and do the best, and in my case helping those students. So what happens when the back quarterback actually starts, there's an injury, and does well? Does he carry around the notion of being internally well I'm doing well but they didn't want me to be starter in the first place so maybe I'm just a really good back-up. I'm happy to be doing well and really I'm always a back-up. And even if I wanted to have a very good career, I was a back-up, I am the back-up. If it weren't for a lucky break, excluding Tom Brady because he was on the rising edge, but—and I'm sure there are examples like that. I mean there was the example Dale Rogers back-up but now he's a starter and who wasn't paid a gazillion dollars to start and then he didn't? [00:38:54]</p>
+
+<p>THERAPIST: Oh with Matt Flynn?</p>
+
+<p>CLIENT: Matt Flynn. Matt Flynn?</p>
+
+<p>THERAPIST: Was a Seahawk, yes.</p>
+
+<p>CLIENT: Seattle, that's right. Now [inaudible at 00:39:05] an accident. Thirty-nine years in and now he's back-up because of two or three or four good games.</p>
+
+<p>THERAPIST: No, right, yes and how does he see, what does he think of all that? What does he feel about all that? Right. [00:39:18]</p>
+
+<p>CLIENT: In his case, yes, he sort of looking him up, he sort of you lucked out. He never was a starter and then he all the sudden got a ton of money and I'm sure he's suffering the ire of Seattle fans from now that Tattoo got hit [00:39:39]. But it's the psychology, that's a peculiar thing. Someone who actually becomes good, not great just good, they're 9 and 17 and can barely miss or barely make the cloud so they're at the cliff. So... [00:40:04]</p>
+
+<p>THERAPIST: Yes, what, yes.</p>
+
+<p>CLIENT: So the back-up quarterback coming over to be quarterback but knowing that you're not Aaron Rogers, you're no Tom Brady, you're not Eli Manning, Brees or...</p>
+
+<p>THERAPIST: Yes, it's a whole question I guess in what way can you have a sense of legitimacy and what do you need for that? I was just thinking if you're a back-up quarterback and you replace the starting quarterback for a few weeks are you still the back-up quarterback or are you the starting quarterback? Who are you? How do you see yourself? Obviously this guy's got so much relevance to what threads in your life story around. The thing that comes to mind is you were remarking about where you were kind of projecting yourself in terms of med schools and there was, it was that the university might have been a real possibility. All that stuff, but if you're not Berkeley or you're not Harvard what does it mean then? Who are you? What's your claim to legitimacy? [00:41:34]</p>
+
+<p>CLIENT: That's right. (Pause) So I'm watching, I hadn't watched but now I'm sort of beyond it, but—which is interesting too—but there's a class and it's a pure [inaudible at 00:42:16] class and it's all on numerical analysis and discrete mathematics. So it's a class from 2002; it's recorded in someone's house. And the instructor, and it's a [inaudible at 00:42:48] motion video cameras like up and static in corners and the person's sitting there recording in the class. It looks like students who are maybe graduate students or returning students so it's people in their 30s. [00:43:12]</p>
+
+<p>So she's teaching. And then sometimes people ask questions and I thought no one asked that question in this class. And I thought that's a pity, but there's a difference because my first routine (ph) in many (ph) classes, especially most recently, is that half the time there isn't a lot of them paying attention and then when a question is asked it's by someone who really is keen and it's a question that is pretty intense. Whereas [inaudible at 00:44:14] they don't have a problem asking what I think are pretty elementary questions that might even be thought of as a dumb question. It's not a question because there is no dumb question. [00:44:29]</p>
+
+<p>But maybe it's simple crossword versus high-level crossword and thinking there's something refreshing about watching this course because it's a high-level course although the first six weeks of that course were covered in five minutes in the first math class I took. That's fact. I told you this, for six weeks of this course it was kind of save and it was covered truly in the first five minutes of this Math 23. Just sort of assuming it was covered. [00:45:03]</p>
+
+<p>Anyway, so it's nice to be able to watch, or was nice being able to watch this at a slow level and have people go can you think of sets like suitcases and bags inside suitcases? And I thought that's the kind of question I would want to ask because it makes perfect sense—exactly how you want to think of sets. Yes, luggage inside of luggage inside of luggage and you count suitcase inside of an empty suitcase, and you use the set containing the empty set. That's what you'd say, instead of races, current races, do, do, do. It's a [inaudible at 00:45:43], a real analogy. </p>
+
+<p>But no one in school is going to—you used to talk about it like luggage? Instead the question would be the question by the ditzy girl, ditzy in terms of just appearance, and she asked, again first five minutes, for set AB, if we were to take all of the subsets would that be both an injected and surjected question? And the teacher's like oh yes you'd call that bijective. She said oh yes, that's right. What? Okay, [inaudible at 00:46:34] inject subjected functions. Right. She was well beyond suitcase analogies. [00:46:42]</p>
+
+<p>So there are other classes I might need a [inaudible at 00:46:56] they call on me for questions, C -level prompt or level-appropriate but in math (pause), there's office hours, those notes tell us when to visit the teacher and when I teach I feel quite competent and I have a certain command and charisma and I'm on show and onstage. But in this you can ask questions. Like I'm not afraid of just acting completely bigger, so going in even though he hasn't talked about set theory yet, just saying I don't get the multi-functions and one-to-one functions. And the picture makes sense but then he stopped looking at the picture, it doesn't make any sense. [00:48:17]</p>
+
+<p>So having him explain it and him talking about inverse functions and so forth and spending a lot of time, he's very good so having me do stuff on the board, but I thought—so now I thought he's probably thinking I hope this guy doesn't want to be a math teacher because this should take one minute to understand and I'm having to spend 20 minutes trying to explain multi-functions versus one-to-one functions versus one-to-one correspondence and this is clearly tough. Yes the fact is I'm asking questions that he's going to be teaching a month from now but I'm realizing it's not easy so I want to get a jump on it. And I do all his courses but... [00:49:10]</p>
+
+<p>THERAPIST: Well I've got to stop in a minute but I mean that right there is the whole, the whole feeling of legitimacy. What does this make me if I'm asking this question and I don't know? </p>
+
+<p>CLIENT: I'm a math teacher and I'm somehow I'm struggling with it. </p>
+
+<p>THERAPIST: From the math teacher I need to be able to know it and not have doubt about it and not...</p>
+
+<p>CLIENT: Get it quickly.</p>
+
+<p>THERAPIST: Yes, get it quickly. So you, just to say one last thing is that there's something about—my thoughts about it aren't completely formulated but I was thinking about it's so interesting that you really like and enjoy grappling with these questions and yet it can also be the source of a lot of anxiety and kind of self-doubt. And I was thinking about the nature of a brainteaser. Well brain \teaser's not really a brain teaser unless you're really puzzling over it. It's no good it you just get it right away. If the riddle's apparent there's no riddle, there's no fun in it, there's nothing in it. You just look at it readily, oh I get it, that's not a riddle. There's something about that. [00:50:30]</p>
+
+<p>CLIENT: Yes, and it's initial love though right? So for Karen those crosswords are challenging. For me, this class is challenging but six months from now hopefully it won't be challenging because I'm planning on getting it. It's internalized, I get it, I thought about it, I've done the work, which is the nature of learning, right? First it's hard, then it becomes clear, and then you hold on to some key element of that that you can use later on. So in the case of organic chemistry, I did all the hard work and even though I don't remember how to do that one, I know that it can be done and that if I were to think about it and learn those rules real quick I could do it. (Pause) But there's the speed issue. How quickly could I relearn it? How quickly could I do it? [00:51:41]</p>
+
+<p>THERAPIST: And that too being a gauge of a legit speed, right? </p>
+
+<p>CLIENT: Sort of like power or something. Not only being able to do it but do it quickly. I don't know. I don't know why this plagues me so much. Why is it that the ability to think is such a source of concern for me? Sometimes it's my back that hurts, sometimes it's my knees that hurt. Okay. The thing that really bugs me are these issues of omnission (ph) and limits of it. [00:52:24]</p>
+
+<p>THERAPIST: Yes, I think it has a lot of kind of ramifications about how you perceive yourself in the world and I think in some fundamental ways a man, an adult man. Competency [00:52:44].</p>
+
+<p>CLIENT: Well that doesn't help me around 19-year-old men who are currently fast in their thinking and possibly faster than I was. And given who they are, likely faster than I was at that point because I mean they're there doing math. And I was at that point avoiding all of that. I was doing other things. I was writing, I was doing philosophy and I was doing social theory. I was not doing analytical math. I wasn't doing organic Chemistry; that came later. [00:53:38]</p>
+
+<p>And there's a leveling I think to that. There's a leveling system. To be able to do math well means something to me. [00:54:00]</p>
+
+<p>THERAPIST: Yes like a used indicator...</p>
+
+<p>CLIENT: All of this is my contest, that's what I feel like. </p>
+
+<p>THERAPIST: Yes, it's just so much in what it signifies. </p>
+
+<p>CLIENT: Maybe all this math, maybe I'll take a constant [00:54:23] and turn to the arts. Maybe I'll be primed to think oh I can map this all up. I can see the [00:54:34]. From what you say I can. Maybe I'll have that refined level of abstraction where I can just draw it up. </p>
+
+<p>THERAPIST: Yes, good luck. (laughs). </p>
+
+<p>CLIENT: I have to wonder what the end game is on this. I feel like okay all of this has allowed me to think a certain way. It's not to do math. But that's what I get without the aspiration. But somehow being able to think in a clearer way which would allow me to do something else, because after all ... [00:55:12]</p>
+
+<p>THERAPIST: Yes, that's totally it, that's totally ...</p>
+
+<p>CLIENT: ...doing that would begin the process a long time ago and then it became confusing and overwhelming. Maybe being able to be very clear with this would allow me some distance and be able to work with symbolically and draw pictures and draw ven diagrams and be a little more objective about something which is apparently subjective and not be drawn into it to the degree that I was.</p>
+
+<p>THERAPIST: Yes, and yet I mean I guess there's also the point of these things are there so you struggle with them.</p>
+
+<p>CLIENT: Yes, I mean it's the struggle. Like the horse problem because you don't understand what's being stated because it's not written well? Or is it because it's so difficult it's hard to rise up to that level of opinion. And thing of that reading is you don't know. Was it poorly written or is it just a troubling idea that's hard to fully grasp? [00:56:16]</p>
+
+<p>THERAPIST: That's why it's at the end of the chapter.</p>
+
+<p>CLIENT: That's why what?'</p>
+
+<p>THERAPIST: That's why it's at the end of the chapter. All right, Monday.</p>
+
+<p>CLIENT: Yes. [00:56:50]</p>
+
+<p>END TRANSCRIPT</p>

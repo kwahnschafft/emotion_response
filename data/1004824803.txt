@@ -1,0 +1,254 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Good. (pause) </p>
+
+<p>CLIENT: I love these. </p>
+
+<p>THERAPIST: What?</p>
+
+<p>CLIENT: (inaudible at 00:00:41) reading glasses. </p>
+
+<p>THERAPIST: Oh yea?</p>
+
+<p>CLIENT: Makes testing much nicer.</p>
+
+<p>THERAPIST: (laughing) Yea. Where did you get them from?</p>
+
+<p>CLIENT: A little place called CVS. </p>
+
+<p>THERAPIST: Is that right? Yea, then (ph) did you find them?</p>
+
+<p>CLIENT: Yea. Well, I need [point seven fives] (ph) and the lowest thing goes to one. So these are a little stronger than what I need but (inaudible at 00:01:05) </p>
+
+<p>THERAPIST: OK. (pause) </p>
+
+<p>CLIENT: I'm recovering from cold, feeling fine for a few days. And yesterday I walked to the gym and worked out and that was fine. I came back and I was sitting on the couch. Just sat down to turn the game and a half hour into it, I was sneezing like crazy. Anyway, the cold has come back. (inaudible at 00:01:33) </p>
+
+<p>THERAPIST: Yep. (pause) </p>
+
+<p>CLIENT: I was just e-mailing this guy who wants his daughter to be tutored in precalculus because our own realtor put me on the list here for the area (inaudible at 00:01:58). So I'm going to need Friday for a little pre-meet (ph) to see if they want to set something up. It's nice. I mean, it could be. </p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: So—(pause) </p>
+
+<p>THERAPIST: Getting into the math teaching aspect, yea, yea, yea.</p>
+
+<p>CLIENT: Well the weird thing, I must say, is that it's precalculus. So you would think, "Well, clearly that should be easy, easy." But there are things in precalculus that really never get dealt with. I mean, it's precalculus but I'm not sure why. So I mean, in calculus you need to know trigonometry really well. You do algebra really well. But there are aspects of precalculus that—So I just have to learn it or relearn I guess, to teach it. </p>
+
+<p>THERAPIST: Yea, isn't the best way (inaudible at 00:03:08) you notice by teaching it.</p>
+
+<p>CLIENT: (inaudible at 00:03:10) you're absolutely right. I find that—well, so this last problem said—I guess we know if people e-mailed him saying they're having struggles with it. That he's delaying it so it's not due today but it's due on Thursday. But I'm done. It was done on Friday. And then I went after the gym yesterday. There was one problem that I sort of hadn't already figured out. I went to the gym and then after working out, I sat at the table at the entry to the gym. I sat down and wrote off the next three pages of the proof. It was like, "Boom, done." It's like being on the bike and lifting weights somehow cleared my mind enough to see how to proceed. [00:04:02] </p>
+
+<p>Anyway, but on Saturday, it was our study session. And usually we are pretty even for our levels. But for the first time, I felt like I really understood the material and they were absolutely struggling. So that sort of felt good to me because I could honestly, genuinely teach the material and be helpful to them. And it was nice to feel like, "OK, for some reason—probably just a lot of hard work—for some reason this seems clear to me, this material." Everything is proofs now that's the thing. It's proof-based mathematics. </p>
+
+<p>So in calculus you write out lots and lots of work so you can get partial credit in case you don't get the answer right. Whereas a proof-based class, (inaudible at 00:04:55) of what little math if you are doing a proof-based math class. [00:04:59] But they don't want to see scratch work. They don't want to see any of that. They just want to see the logical progression from the claim and use of definitions and then using methods of proof which are many. Using contrapositive or contradiction or direct whatever and just, boom, going down, getting it and being as economical as possible in your language. So, no spare words. So I struggled with that because I'm very conversational and I want to be very sort of displaying the process of thinking. So even though I want to see that high score on the homework, his note is, "I'm looking forward to you keeping more concise. Please be more concise." So it's troubling there, isn't it? Anyway—</p>
+
+<p>THERAPIST: What are the benefits of being concise? What's the (crosstalk) [00:06:03] </p>
+
+<p>CLIENT: The benefit of concision is that you assume that your reader of the proof is as knowledgeable as you are in mathematics. As a teacher, that's totally false assumption, right? And I feel like everything I do is to be teaching myself so that I can be teaching to somebody else. Possibly that I need to think, "What were my thoughts going into this?" But the idea is if your audience is someone who is at least as clever as you are in mathematics, that you can leave a ton out because they'll fill in all the gaps. They don't need to see why you did something else algebraically. They'll be able to apparently do the ten steps of algebra that's missing. You'll see, "Oh yea, that just makes sense." So something that will actually take in algebra form truly has several pages, you should be able to right in possibly just ten lines. [00:07:05] </p>
+
+<p>THERAPIST: OK.</p>
+
+<p>CLIENT: Which leaves me a little cold because you can see it in this sort of like, "Well." Doesn't really capture it and then you have to do a lot of effort. And somehow I want to be able to look back on the work that I've done and think, "Oh yea, that's how I did it." </p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: The idea of a proof of this would somehow be the revelation of having figured it out. It's just left here to assume you're doing great. And you've sort of figured it out. And you don't need to show how you discovered it. You just, "Show me it's true." Which—(pause) </p>
+
+<p>THERAPIST: Do people end up doing the steps—I mean, if there is algebra to do that you end up not showing it in your work? Does everybody end up having to do that anyway and they just end up with a much more—[00:08:03] </p>
+
+<p>CLIENT: Yea, so for instance, if you have something like x + 1 over x—1, the whole thing cubed, well, and you want to take the inverse of that? Well, you have to expand the whole thing and then you've got to substitute in. And you do all this stuff and so that ends up being a lot of algebra.</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: Right? Which is, and I for one need to see, "OK, how do expand the (inaudible at 00:08:45) of cube root? And how do you do when you switch the x and y to make the inverse? And you substitute in the original equation." I need to see it. But it's sufficient to just write "f of x" equals x + 1 over x + 1, or x—1, cubed and then just write the answer.</p>
+
+<p>THERAPIST: OK. [00:09:04] </p>
+
+<p>CLIENT: And sort of assume that people can sort of do it in their head. </p>
+
+<p>THERAPIST: OK, I got it.</p>
+
+<p>CLIENT: Which of course, I can't. I can't do it in my head. (pause) </p>
+
+<p>THERAPIST: I see, yea.</p>
+
+<p>CLIENT: So (inaudible at 00:09:23) the stuff that did in terms of doing the proof. There's something pleasant about it once you understand it. And it's nice sort of having a thought to be able to think very logically. (pause) But I feel like I need to give the context. So what we're doing now (pause) are—(pause) [00:09:57] So that the goal of what we're doing, which I find intriguing, is going back to a place where we're going to build math from scratch. So saying "f of x" equals three y cubed, a function which we all—that's just how we do. We do a function in mathematics, right? I said, "Well, that's too specific." We're just going to say, "Well, we're going to take some real number and match that to a real number." And that's sufficient. Just sort of we're going to generally say domain, co-domain, there's an image over here. So we're generally talk in that way which I like very much because you can come up with a rule if you wish. [00:11:03] But we're just going to talk ballpark of where you go. </p>
+
+<p>So, that's been comfortable (ph) to me. And so, it's all about sets and composition of functions. And finally—so this will be a minute (ph)—so here, when I was talking about a real analysis in that first day of class, and that blonde, pony-tailed, gum chewing girl and then all of a sudden the teacher, half hour into class, was talking about injection, and bijection, and surjection, and blah, blah, blah. And she pipes in saying, "Oh no, that can't be surjective." And me, saying like, "I have no idea what that means." Well, now I'm a pro. (chuckling) So now I can do all of that. [00:12:01] So I feel like—</p>
+
+<p>THERAPIST: How is it?</p>
+
+<p>CLIENT: —first—well, I don't know. I feel like the first five weeks of this class have been the first half hour of that real analysis course. And so it's interesting to think that—it's just nature more than anything—that you can go from being completely confused and frustrated (pause) and just not even knowing why the words are the way they are. They're also called onto and one-to-one functions. And then feeling like, "Well, sort of making this progress." I sort of feel like everything we're doing is sort of chapter zero. </p>
+
+<p>Sort of like all of this is the preliminary stuff for advanced mathematics if you want to do abstract algebra, if you want to do real analysis. [00:13:09] All of those courses need this as an assumption. And yet how one learns this stuff, I'm not sure because people don't do proofs anymore. I mean, geometry related proofs which those are fun. But in calculus, you show two proofs. You just figure out its relationships and do it. You do derivatives, and integrals, and double integrals, and then triple integrals. And sort of do it and it is fine, although, if not and why not, when you're learning how do it. But I mean, you get confident with it, it's kind of cool. </p>
+
+<p>So if you never do proofs, and all of a sudden, just proving all kinds of interesting little numerical number theory sort of things and so feeling like, "Huh, all right." [00:14:01] The feeling is like, "Wow, it's sort of a launching pad to do interesting stuff. And sort of a launching pad to go and revisit other math from a totally different perspective." And so with a prospect of tutoring precalculus, I'm sort of looking at all of that material and sort of looking at it through the lens of how my own tutors perhaps look at it. Of just looking at it and it's just sort of an instance of a larger truth. </p>
+
+<p>Just like, well, sometimes you have a tutor who, for instance Josh, who's in the math help room. You're struggling with some concept and he goes, "Well, but just think." What? I don't have that general sense of sets, for instance, or images of things. "Images" is a technical term for mapping the function. [00:15:03] And not seeing that and being bogged down with details. And now I feel like I'm gaining senility just sort of look down and sort of see how lots of math feels like they've sort of fit in these rather useful little general categories. They have some deep meaning. </p>
+
+<p>So I'm thinking about tutoring. (pause) It's now thinking about how to teach trigonometry. And somehow I'm feeling like, "Well, yes there's sine and cosine but you don't have to take it like that." And I'm not sure why that's helpful or not. (inaudible at 00:15:54) like developmentally, if you're a sophomore or junior in high school, sometimes you just want to know the mechanisms. [00:16:05] You just want to know, "What do I do?" And that's sort of what I want to develop (ph). Just how do you do it, just show me an example? (pause) </p>
+
+<p>THERAPIST: Yea, what that's? What do you mean?</p>
+
+<p>CLIENT: Well (pause) sometimes I'm very award of the fact that I am sort of in this little, little space perhaps. Just in this little bubble of math which—(pause) well. [00:17:01] (pause) Sometimes I feel slightly self-conscious about it. Feeling like, "Well, why exactly am I preoccupied with this when there's not an obvious (pause) need for it." So—(pause) Anyway but—(pause) I guess—</p>
+
+<p>THERAPIST: It's like kind of being in like a bubble?</p>
+
+<p>CLIENT: Yea. Well, I mean it's—</p>
+
+<p>THERAPIST: (crosstalk) (inaudible at 00:17:56) </p>
+
+<p>CLIENT: It's sort of a—(pause) I mean, intellectually it's a focus. And then—(pause) and because it takes a lot of effort, it's not just a pastime. It's sort of—you can sort of think to yourself, "Well, I can just not do it for a few days. I have to do it because if I don't, I'll fall behind." It takes effort to keep up and then on rare occasions, be ahead of people in class. (pause) </p>
+
+<p>THERAPIST: So it's really like—it almost sounds like it's an immersion into an intellectual, really intellectual activity and very cerebral kind of place.</p>
+
+<p>CLIENT: Yea, without the headache though, right? I mean, sometimes there is that. For right now, I'm just being aware of the fact that I come in here, and it involves the many things that could and possibly should be sort of thought about in terms of things in life. [00:19:11] I choose to because I am usually thinking about this because I'm thinking about this all the time. (pause) </p>
+
+<p>Yea, and it's a—I don't know, it's a different way of—I mean, just in terms of the content of what (inaudible at 00:19:53) it's just in math you have the equal sign, right? And somehow, in life we have the equal sign. [00:20:01] And somehow it's a very useful idea. This equals that. There's a lot to that. And now just thinking, "Well, equal is just sort of an instance of something bigger going on. It's really just a relation." It's just a relation from this to that. And if it happens to have symmetry and reflexivity and transitivity, we can call it equal if we want. It's in these other properties, right, these other properties. I'm thinking, "Well, isn't that interesting." </p>
+
+<p>Math is all those great (sp) things. And I'm thinking about it, just the things with numbers. And well, is it reflexive? And all of a sudden, it's like the things that as a kid sort of bugged me, all of a sudden they're being explained in a very deep way. [00:21:04] And it's like, "Oh yea." It's not like people just said equals which left feeling a little cold. There's a lot behind equals. And it's nuanced. And if something is not equal but kind of equal, that's interesting, kind of equal. Sometimes equal? I'm not talking about natural function where I mean it's either equal or it's not, but sort of relationships. But if sometimes it works, sometimes it doesn't. And in math world, that is kind of neat. And so I like the flexibility of that. So that's sort of the head space I'm in right now. [00:21:54] (pause) </p>
+
+<p>It's all about—(pause) Right now, I'm like when you usually do mathematics, you just sort of assume that numbers work. You use the real numbers which includes rational numbers and irrationals, right, I mean everything. (pause) And now you get to a point where you sort of say, "Well, we can have a rule from this to that but we can't use the real numbers here." It doesn't really works. [00:23:03] We can use the natural numbers, we can use the integers. That's what you do. You're defining. You're somehow saying, "Well, OK this is interesting. But we have to sort of define where we're starting and where we're ending," which I think is really intriguing. Somehow this notion of, "Well yea, the rule works but only in these circumstances." And being able to somehow say, "Well, and I have the freedom to somehow say, 'I'm going to define where we start. And I'm going to define where we can end." And it seems much less absolute. It seems much more subtle. (pause) </p>
+
+<p>And somehow—and I haven't been writing lately now, so (inaudible at 00:23:48) I was writing about this, right? But now I feel so focused on worrying about math. I'm not actually writing about of learning math. But something is going on with that very notion of saying well, "Some infinities are greater than others. Some sets of numbers are greater than others." [00:24:12] So you have to sort of pick where you're going to start and where you're going to end. How big of a world can you start with? That's very interesting. That's very interesting. In life, how do you want to define where you're first step is going to start from, either the thought, or a feeling, or some activity, or some conception of the world religiously? Or if one was to think about psychological theory, right? Defining terms, thinking, "Well, this works but let's just very clear about for whom it works." As opposed to trying to make general statements about, "Well, this is a universal truth," right? [00:25:00] So you end up saying, "Well, no. You can have something that is really useful but for a subset." And yet, somehow, that is very helpful for me to think about. (pause) </p>
+
+<p>So I've been spending a lot of time just drawing these relationships out. So I'm making pictures which I find it immensely helpful. (pause) Which you don't need in a proof, right? The proof doesn't need the pictures. But I feel like I can draw a picture and it's like there it is. That's it. That's the answer. (pause) [00:26:18] </p>
+
+<p>THERAPIST: [What's that?] (ph)</p>
+
+<p>CLIENT: Well, this proof I can (inaudible at 00:26:21) for this problem. I'm really rather proud of myself because it feels like, "Wow. Really, I got it." (pause) I can't begin to—like, I could draw it out and it wouldn't make sense to you verbally. If I say it out, it's going to be incoherent. But generally, it has to do with the notion of: if two things are true, and three things are true, and four things are true for a certain mathematical pattern and sets and what type of functions they are, it can be true for any arbitrarily large number of sets as long as the biggest set is at least one bigger than the next set. [00:27:16] And that the last set has at least one element. </p>
+
+<p>And to having to sort of prove that, it feels like sort of this pigeonhole idea. Everything is sort of—you take all these numbers and all—which is they just follow through an infinite number of sets. And match up or they can gradually funnel and they go to a single point. And sort of proving that you can just have an infinite number of functions where as long as the functions are of a certain type, that it will just "Pow." Just go, just go, right? </p>
+
+<p>Which it's the same thing in calculus, right? [00:28:00] I mean, accomplishing the functions, right, a function inside of a function inside of a function, right? When you do a derivative, you do a derivative of something inside of then something inside of something inside. And you somehow think, "Hmm, well I guess that works because the book says it works." But now being able to draw pictures and having formal definitions of things and saying, "Globally it could be calculus, it can be any type of math that works." And coming up with it, it's kind of neat. No (inaudible at 00:28:35) on our homework so couldn't of been that hard, right? But feeling there's like, "Huh, I got it." (pause) </p>
+
+<p>Anyways, so there's a certain beauty to thinking about this stuff very clearly. [00:28:58] So on Saturday, right, I always bring colored chalk. I just drawing lots of pictures and teaching it. And it's taking things that were very confusing to Sarah (sp) and Carrie (sp) and then being totally bogged down with the language of it. And just drawing a picture and all of a sudden it's like, "Oh, that's it," and feeling to have that ability to work really hard trying to read that stuff, and it not being easy but then getting it. Turning it into a picture and then having that picture communicate the idea so someone else could get it. </p>
+
+<p>And so I might have told you this story a few weeks ago. I showed up to teach a class but they also wanted the first day component (ph). [00:30:00] And I don't think that they did so I didn't bring my computer. And then Friday I couldn't have the PowerPoint presentation.</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: And so it's an hour long, right? So then I thought, "Well, this might actually be much better." So they had a dry erase board and enough colored pens. And I do have the knack to be able draw really well which is helpful teaching biology, being able to draw things on the board really clearly and accurately. So just doing the entire thing like just drawing bleeding arms and hearts and brains and neurons and all of a sudden, realizing the class was the best ever. Because I was slowed down and I had to be drawing which is fun. [00:30:59] </p>
+
+<p>It took place in real time as opposed to looking at something in which it has its own time, the PowerPoint, and sort of speeding through because there's so much information. Distilling it down and you say, "OK, there's all that information that I know but I'm going to sort of focus and take a few things out because I have to actually draw this stuff as opposed to show a slide." And feeling like you're really connected to the people you're teaching. (pause) </p>
+
+<p>Because you're creating something and also I think this probably doesn't need to be said, but this whole notion of mirror neurons, right? I mean, people are in the act of learning, right? They're watching a person do something that they themselves can do which is draw a picture. So they're watching and they're thinking about drawing it as opposed to looking at a picture, not knowing where it came from. [00:32:07] So somehow I feel like the writing of stuff on the board, whether they draw it or not, is very helpful because it seems much more real, because a real person is generating it. As opposed to something that was sort of like from stock images being shot up on a screen using technology that they really don't understand, because how an LCD projector work? How does (inaudible at 00:32:35) might work? Who programmed it? Now it's just sort of like, "No, I understand pens. I understand whiteboards. I understand people can draw." </p>
+
+<p>THERAPIST: Yea. And no, and somehow you working your way—I mean, I imagine in a way you might have been working yourself in some way to learn the material and to use—because you had to kind of grapple with things. [00:33:03] How are you going to put this in an imagery? How are you going to distill all this stuff down? And in terms of mirror neurons they're kind of—there's not just the student learning, trying to think about it, but the instructor too, instructor too. </p>
+
+<p>And I was just thinking about that. Compared to what we were talking about last week. So sense of—I think about the relationship there that you're experiencing with struggling to understand or working to learn as opposed to this kind of how you—the sense of your father already knowing a lot of stuff. As if it was divinely placed or something or it's just like in him. Or in people, in people that get math. That they just kind of look at it and they don't have to struggle with it. They don't have to grapple with stuff. They just learn it (snaps fingers). [00:34:01] It's revealed. It's not worked at. It's almost, not quite priority knowledge or something, but close, something like that. They're not having to grapple stuff. (pause) </p>
+
+<p>In some way you're talking about the ease, I think, of what it feels like to have to really work at stuff to get it, that it's enjoyable or something. It's learning your own way. I mean, what I'm extrapolating from what you're saying. There's a certain satisfaction and fulfillment.</p>
+
+<p>CLIENT: Yea. Well and then too, the process of getting a problem set and looking at it. And not even being able to read part of it, right? It being—because math has its own set of symbols. [00:35:07] And I keep learning new symbols. At some point, you just sort of think to yourself, "Well, all right." You somehow accept that fact. But still, it's very upsetting when you feel like, "OK, before I keep answering anything, I have to learn how to read this." And that can be infuriating, right? The feeling like I can't even do one problem.</p>
+
+<p>THERAPIST: Oh, yea. (crosstalk) Yes, yes.</p>
+
+<p>CLIENT: I can't do the problem. And thinking—and then feeling like, "Well, once one can be more feel philosophical about it and sort of settling oneself down." You feel like, "OK, well. How do I do the first problem? Let me learn that language." And then, now six days later, I look at the entire problem set and I'm like, "Fine, OK," which is amazing to me. [00:36:03] It's absolutely amazing that—(pause) </p>
+
+<p>THERAPIST: It's great. I mean, it's very interesting because it's as if one of the starting points you launch from is the recognition that you don't know it. That it's not intelligible initially and you get frustrated. And it's almost like that actually is the spark that makes the learning happen. That's what you need to make the—as opposed to, I think, maybe the fantasy is that I should already know this. I should be able to look at it. And it's a fantasy I think everybody has, but it's almost like you've got to go that process of being aware that you don't know it. (chuckling) Start to know it and getting kind of frustrated (inaudible at 00:36:59) in some way. It's—</p>
+
+<p>CLIENT: And there's the sense of how you thought of like, "Well, people who are really good, they get all the concepts. It's just now they have to learn the language." And it's like, "Oh, yea, OK, fine. I thought of it that far. I get it. Right, that makes sense." Of course, for me, there's the feeling of not only don't I know the words, but then the concepts themselves are very difficult to hold onto unless you practice them a lot and really, in my case, draw, draw, draw, draw, draw. And now I feel good with it and I also realize I guess I have wondered about this. But I never really fully got it or really thought about it thoroughly, because there's no need to think about it thoroughly, because I didn't have the words to think about it thoroughly. [00:38:11] So then it's sort of like it's one of those things. It's like you're in complete darkness and there's a light on the other side. You sort of ship away and know you have a single little dot of light. And since you have that, it's almost this multiplicative thing where you need to see that little light. And you can choo, choo, choo, choo, choo, and all of a sudden, brrrrrrrut. And it comes clear very clearly. But you struggle it around and grope in the dark quite a bit—</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: —to get that first little—</p>
+
+<p>THERAPIST: Yea. </p>
+
+<p>CLIENT: —bit of light. </p>
+
+<p>THERAPIST: Yea, yea. It reminds of a feeling that you described before. I don't know how exactly you put it. But the image was of, in life, sometimes you feel as if you're in a dark room fumbling for the light switch. [00:39:00] How did you put it? You might have put it a bit differently than that but—</p>
+
+<p>CLIENT: Yea. I don't remember the feeling which (inaudible at 00:39:14) in my road. I mean, there's that dream of walking into this great dark theater. And all of a sudden seeing all these people watching me. I'm thinking that I wasn't alone. That I was welcomed even though I was—I felt like I was interrupting something, that they should have been an audience and they were meant to be watching up here. I didn't know either. I didn't know who these people were up there watching and I didn't know what it was they were watching. And yet, I was welcomed to be part of the audience and I was made to feel like what we're watching is something that we're part of. ]That the act was the audience was who were on stage.] (ph) [00:40:09] (pause) </p>
+
+<p>THERAPIST: Yea. What is your reasoning (ph)?</p>
+
+<p>CLIENT: Yea. I don't know. I mean, I guess I'm thinking about what I wrote and it feels a bit—(pause) It feels like I've pushed that down a bit or it feels a little distant to me because it's been awhile since I've written. And I feel like I've—(pause) Well, reading Euclid and thinking about how the Greeks thought about mathematics. And thinking about how other cultures thought about mathematics. And thinking how people have learn math and my experience of thinking about science and mathematics and that whole cultural attachment to vigorous thinking and the biases that have developed from that. [00:42:06] </p>
+
+<p>I mean—(pause) I mean, it's not new. It is nature which I sort of—well, because it is nature, nature is sort of—it's sort of determinism and inductionism and just (ph) some problems. Sort of in code in basic biology books in high school. It's leaves little wiggle room and then thinking about nature of all of—not just quantum—but the nature of probability and indeterminacy. And feeling like people kind of led astray thinking that what's true at some basic level. [00:43:01] And math is true about the entire universe. Because it's a leap, right? It's a leap to think that just because it works mathematically that it must be true in physics because it often does but it doesn't have to. </p>
+
+<p>And so now, I feel like but whatever was personal in writing, now I'm so—(pause) I feel like I'm sort of behind the scenes in some way. I feel like math, all of a sudden, is getting really genuinely interesting because it is not so set in stone as it always has been in my mind. [00:44:03] Now it feels like people really do create these ideas and the words that are used have to be thought about. </p>
+
+<p>So for instance, win-win—I heard those words in real analysis—surjective and bijective, injective—and I thought, "Oh my God. [What do those] (ph) mean?" So then in this class, we start having to deal with it. And I was anticipating this. So before the teacher even got to it, I thought, "I have to get a jump on this." And I'm like, "How can I keep this even straight?" because you are reading chapters and if you don't know those three main words and have an instant image of what means, you cannot learn anything about them. You have to know what those three words are and the concepts. [00:45:02] </p>
+
+<p>So I'm researching and researching and researching and I realize, "Oh, the guy mathematician who came up with these three words, French." So surjective is French. And the synonym for surjective is an onto function. So sur is on. And I'm thinking, "Oh." So I can hang my hat on that. And then reading what he wrote—and people were thinking about these three ideas, lots of mathematicians. And he wrote this paper and he said, "Can we all agree that surjective means this and injective means that and bijective mean this? And it was round the plotted as yes. Let's just all agree that these terms makes sense." 1952. </p>
+
+<p>And it's like, "Oh." [00:46:00] So people were struggling with like, "We have these ideas but this person uses that word and let's just modify (ph) this." And feeling like, "It's so helpful to know that sort of the ideas preceded these words and yet, somehow, these words now are sort of these coins as if they always existed. And it's helpful to know that they were French. And yet, now we just sort of say they are Latinized English words. But no, they were French. They are French. </p>
+
+<p>And so then, online, you can see all kinds of stuff. So I go and find this French math professor who's talking about set theory. So I'm watching this entire lecture in French, right? And of course, I don't know French. But that's the amazing thing on the facts, is that sort of I know enough French to hear words here and there. [00:47:06] But I'm watching him write math on the board and I'm realizing it doesn't matter what language it is. I totally understand what's going on because he's feeding me French. And yet he's writing the exact thing, saying the exact same thing I would write in English because it's all symbols and everyone agrees on the symbols. So I'd say, "g of x" and "g of x" (French accent). OK, I get it. (chuckling) And anyway—</p>
+
+<p>So anyway, it was weird. I sort of thought, "How strange." I feel like something is transcended me because now I'm just sort of watching this. And because there's a limited vocabulary, it's like I feel like I actually understand the French after watching for a half an hour. I'm like, "Oh yea, I guess I speak math-French because I hear math-French." (chuckling) because the entire universe is "g of x" (French accent). "f of x" (French accent) [00:48:02] (chuckling) </p>
+
+<p>THERAPIST: It's a lot of symbols, yea. (pause) </p>
+
+<p>CLIENT: So I don't know what (inaudible at 00:48:16) to other than—so learning those three words. So now I can actually make progress reading about all the subtleties, their interactions. And the fact that I did that three days before the lecture allowed me to be a week ahead of the other students, so I can actually teach them on Saturday because I knew the words. I knew the language. (pause) [00:49:01] </p>
+
+<p>So it feels using that as some sort of tool—like I'll prefer to—reading books such as these a long time ago and feeling entirely overwhelmed. And had I been able to calm myself down and do what I did in terms of learning surjective, bijective, injective—</p>
+
+<p>THERAPIST: Yep.</p>
+
+<p>CLIENT: —and say, "OK, there are lots of ideas." And then we're now mid-argument in terms of thinking about what certain things mean. [00:50:00] So not only are theories being developed, but there's—I'm sure along with it although I wasn't perhaps seeing it at the time—people trying to propose their own language, right? And if I knew that and if I was clear about, "OK, this person has these few words but it's this set of 20 words and this is what they're wanting them to mean. And some people agree with these and others don't." And to be very clear about, "So what are the inline ideas? What's everyone trying to talk about?" </p>
+
+<p>THERAPIST: Yea, yea. </p>
+
+<p>CLIENT: And yet, when you're 19, 20, 21, it's all like, well, they're the experts in this head (sp). Well, people are chanting sort of things. [00:51:00] People have their own sort of subtleties. A lot is resting on the success of certain ideas. And there's something—it's felt like in reading those things—any philosophy, whether it's philosophy, or psychoanalysis, or any sort of social theory—there's this sense of there being something very—discovering something which has yet to be fully contemplated deep, deep, deep inside the nature of things. And only a few people with special abilities and facilities can somehow elucidate these things. [00:51:58] And yet we all experience and feel whatever this is. </p>
+
+<p>Unlike mathematics perhaps, where you don't understand the language of it. And it's only if you're really thinking about math that you would even contemplate why there would be a need if you think about this. But in terms of philosophy and psychoanalysis and social theory, for the most part if you're a human being, the birthright is to experience at some level what's going on, right? And so there's that sense of like, "Well, we're all experiencing this, I think."</p>
+
+<p>THERAPIST: Oh, I see.</p>
+
+<p>CLIENT: And yet the authors somehow feel like they have a special insight into how things work. Whether it's Kant and the nature of truth and God or Freud and the nature of inner dynamics and struggles and feeling like, "My goodness, if I can't think -" Well first, I mean, in math I can somehow say, "Well." [00:53:10] I can always sit back and contemplate and say, "Well." And I find I can't say it's just math but I can also say, "Well, but this really is sort of a limit of certain type of logical thinking and it has all kinds of consequences if you don't understand it. Personally I think that, "Why don't I understand this?" </p>
+
+<p>But this, there's a sense of, "If I don't know how to read it and I don't know what the contentiousness is and why these theses are so strong." And they are sort of provisionally stated. [00:54:01] I mean, there are stated with a certain sense of, this is the way things are. And you have to somehow fight, is true, is it not? And meanwhile, it's taking place in your own heart and your own mind. It's not math in which you somehow find a piece of paper and you either get it or you don't. You can struggle to find out if it's a logical thing. It sort of sits in this sort of part of your brain. Now these issues are issues that are a little bit sensitive. And they're much more personal [to them] (ph) trying to deal with sort of subtleties in mathematics.</p>
+
+<p>THERAPIST: So if you don't get it, if you don't understand or comprehend, what's the—</p>
+
+<p>CLIENT: Well, the feeling is that you're less than or that you're not—(pause) you're not educated enough or natively smart enough to fully appreciate the life that you have. [00:55:10] And you might never able to be to ever be to fully appreciate the life you have. Therefore, it's that feeling of (pause) reading poetry, right, and having many different languages in the first page. You're feeling like, "I don't know these languages and someone just handed it to me to read poetry."</p>
+
+<p>THERAPIST: Yea, yea. I know. [00:56:05] </p>
+
+<p>CLIENT: But so there's that.</p>
+
+<p>THERAPIST: I see, I see, yea. </p>
+
+<p>CLIENT: And so there's that feeling of, so Proust examines this instance, right? This recollection of the Madeleine and there's that sense of starting from something personal. And you feel like, "That is how I probably approach things," right, as opposed to having the, I think, machismo of a Freud. Who at some point, gained or maybe always had the confidence to write very powerfully and extraordinarily. [00:57:15] And yet it's hard to resist it, right? Proust you can walk away from. You can think, "Oh, yea. I've had that feeling. I get it." Freud, there's argument that's being made. And so there's that feeling of, "Huh." He seems to have cornered the market on the inner world and if you don't agree with it, you've got to have some pretty good reasons. And that's a little alienating. </p>
+
+<p>If you don't agree with Kant, "Well, you'd better have some good reasons for not." And that's true for anything. So you can go onto the next class. And you read Marx. [00:58:01] And it's like, "Huh, all right. Well, sounds pretty good in a lot of ways." The only way we know it's not a good ideas is because it went a little too far somewhere but he didn't know that. And that wasn't his intention. He wasn't planning on Russia perverting the ideas and going nuts with it. That was not his intention at all. </p>
+
+<p>So if you just look at it as just a set of thoughts on their own, it makes no sense. So and you just keep reading people who have these arguments to be made. In math, it's simpler because the arguments are limited. And once the argument has been made, it's just adding to the list of mathematical truths. There's no debate anymore. [00:59:00] It's just like we're adding to knowledge. Well, I'm not sure how knowledge gets added to with philosophy and psychoanalysis and social theory, in the sense that the disputes get more subtle and presumes you have thought and are well versed in the history of the argument, but still an argument.</p>
+
+<p>THERAPIST: Yea, yea, yea. </p>
+
+<p>CLIENT: And it's not been decided. You still have camps of people whereas in math, you don't have camps. I mean, you can—I mean, depending on what runs (ph) math you can say, "Well, I don't use those methods. I don't disagree with them but I find these methods more useful." </p>
+
+<p>THERAPIST: Yea, right.</p>
+
+<p>CLIENT: But we all agree (chuckling) (inaudible at 00:59:57) mathematicians aren't fighting. [01:00:01] They're competing (ph) with each other but not fighting over the truth of things that have already been shown to be true. (pause) So somehow it feels that's sort of something very refreshing about math and science proper as opposed to the very murky sort of world of arguments and mood states and historicism that takes place in reading Freud. Well it was—well, he was a man of his age. And he wasn't alone in thinking that men of certain class were like that. And women were of a certain type. It's not—so maybe you sort of have to think, "OK, so move that forward 100 years. United States." [01:01:01] And thinking, "Well, I think he was still right about a lot of things." So I have no axe to grind at all. But how do you explain that to people who reflectively say, "Oh you've got it all wrong about women." Well, I don't know. I think you're not, right? I don't know. I mean, looking at life through that lens, I sort of think to myself, "Well yea, he kind of got it," right? (pause) But and you're sort of engaged. And all of a sudden, there's this thing that's contentious. People don't get angry about math. </p>
+
+<p>THERAPIST: Yea, yea. (pause) </p>
+
+<p>CLIENT: So these books give us all kinds of words and metaphors and useful ways of thinking about things that haven't been thought about for a very long time. [01:02:05] And the debate goes on and on and on and on. And so it's a matter of how well read and how self-examined one is. And how trained, in your case, how trained one is to really recognize and know when to shift from one way of thinking to another, and how to integrate thoughts, and have your own notions of what's useful and what's not. I think you have that you've studied, right? And yet, what you're commenting on is the experience that what we feel. </p>
+
+<p>So you see things differently because of what you've read and thought and considered like (inaudible at 001:03:00). (pause) But for the person who's—I don't know—has been perhaps, always been a sort of Jack of all trades, I suppose. It's like, well—it's sort of, expose your different ways of thinking. </p>
+
+<p>And so now I'm finding it useful, right? I'm finding it useful to think so clearly that it's beyond culture. That I can watch math in French and it's like, "Oh." [01:03:58] And if it were being taught in Swahili. And so it's not dealing with the psychology of the man in Africa or the man in France from 2012. And where he came from or where she came from and what's going on deep down. No, there is this common thing that is also universal which I find amazing, right? There's a notion of subjectivities and (inaudible at 001:04:40) like we really understand something, right? But in math, there's a sense of like, "There is this common thing [where it shouldn't.] (ph)" And it also is deeply human. And people are interested in it which I find intriguing. [01:05:02] Anyway.</p>
+
+<p>THERAPIST: Listen, so I won't be here next Monday. I'll let you know if something opens up. I suspect it will.</p>
+
+<p>CLIENT: OK, yep, very good.</p>
+
+<p>THERAPIST: If not, I'll see you in two weeks then.</p>
+
+<p>CLIENT: Very good. Good. (pause). See you.</p>
+
+<p>THERAPIST: Yea. See you maybe in two weeks. (background noise) </p>
+
+<p>END TRANSCRIPT</p>

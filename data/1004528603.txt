@@ -1,0 +1,240 @@
+<p>Transcript of Audio File:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>THERAPIST: Good morning.</p>
+
+<p>CLIENT: Good morning. I've been avoiding talking to my advisor because I'm ashamed of how little work I've gotten done in the last three weeks. I'm just, it keeps getting worse and worse and worse. And I have a meeting with her tomorrow at 9:30 and I have done maybe 40 percent of the work that I was supposed to have done two weeks ago. So, I don't know what's wrong with me. I can't get it done. It's just so (long pause) unspeakably tedious and I, I hate this work. It's (sigh)...</p>
+
+<p>THERAPIST: (inaudible at 1:04)</p>
+
+<p>CLIENT: Running simulations through the software mostly and then plotting things in Excel. It's just (sigh)...I mean part of the problem is (pause) my advisor is trying to prove something that I think is stupid and pointless, which is that these TOB's (ph) are actually causing a significant noise problem and, I mean, I've done, I've done the simulated experiments and all of them show that no actually, noise isn't a problem, but there's, there's no 'there' there. And she keeps coming back and asking me to do increasingly more ridiculous experiments and it's just (sigh), it's driving me crazy. So this latest batch of experiments is one I was stuck on last week, but the material description library, I finally just forced myself to sit down...[2:03]</p>
+
+<p>THERAPIST: To do it manually?</p>
+
+<p>CLIENT: Yeah, and do it manually. I just, I put on one of my favorite CD's and said, get it done before the CD is over and so I did. (long pause) But, that's still, you know, that's one step out of a 12 step process getting these simulations done because there's not a good pipeline because what we're doing is not — all of the tools are optimized for people who are doing a different kind of problem than what we're working on because, you know, most, most people using these tools, most people buying these tools are working on, you know, actual product design and not characterization. It's not the smoothest pipeline. It's just a bunch of just cobbled-together pieces.</p>
+
+<p>[3:00] I'm keeping track of all the pieces of this, this horrible, complex device with so many moving parts and keeping track of what's what. And, it's just, it's so frustrating because I keep tripping over, you know, "oh, you didn't save this file in the correct format," or, you know, "Oh, you forgot to turn on an option in the simulating software that you thought had set by default and you thought you had saved, but the software fucked up and didn't save it."</p>
+
+<p>THERAPIST : I see.</p>
+
+<p>CLIENT: It's so tedious and so frustrating and I just want to be done and (sighs) (long pause)...I'm also not sure I'm even going to graduate in May as opposed to September because I missed the deadline for subHarvardting my intent to graduate paperwork. So, that was like February third and I didn't realize this until about a week ago when I've just been avoiding going in to talk to my department head and see if there's any way to retroactively do that. (sighs)</p>
+
+<p>[4:08] Horrible. (pause) So, I still need to do all the transferring of credit that I mentioned a couple of weeks ago (sighs). I haven't even ordered the transcript yet because I just can't, don't want to think about it. (pause) It's hugely embarrassing and humiliating and (pause) (sighs) - it has to get done if I want to graduate, but I hate it, hate it, I hate it. (long pause) [5:00]</p>
+
+<p>THERAPIST: So, (pause) I'm surprised (inaudible at 5:54) say, you sound (pause), you sound quite enraged partly at yourself and partly at the project.</p>
+
+<p>CLIENT: Yup.</p>
+
+<p>THERAPIST: And I imagine the stuckness is in part (pause) a way of (pause) not getting even angrier. I'm not saying it works well in the long term completely...</p>
+
+<p>CLIENT: (laughs) Right. I'm also, so my advisor has found another sucker to take over this project after I graduate and I'm supposed to be transferring knowledge to him and it's just (sighs) (long pause). [7:00]</p>
+
+<p>I feel really guilty about that because, you know, no one needs an advisor who is as out of her depth as my advisor is on this project. Like, she is, this is not her field. She has no fucking clue what she's doing and it just (sighs) (pause)...I'm angry at myself for not realizing last spring that she doesn't know this subject area and I'm angry at her for pretending she's competent to supervise a project in this area when she really doesn't have the background and I'm incredibly mad that she's continuing to try to push this project forward, even though she lost her funding, with yet another student who's just going to have the same miserable experience, not the same experience. He probably doesn't have the same issues I have, but...</p>
+
+<p>THERAPIST : His own miserable experience? [7:55]</p>
+
+<p>CLIENT: His own miserable experience with this project. It's, it's absurd. (pause) (sighs) (long pause) And it hurts because, you know, there's a part of me that thinks that, you know, if I were a better student, smarter, more impressive, more competent, I would have been able to convince a professor who actually knows what they're doing to be my advisor. And, I couldn't because I'm a fuck up too and so I only deserve to have fuck up's as mentors.</p>
+
+<p>THERAPIST: I see. (pause) That's like kind of the learning (ph) aspect of all this (long pause). [9:00]</p>
+
+<p>THERAPIST: I think that often, I think you seem to come around that way when you talk, like it starts out as being angry with somebody else or about something else and then it kind of comes back to, "well but it's really your fault."</p>
+
+<p>CLIENT: Yup.</p>
+
+<p>THERAPIST: Because if you were really smart enough, organized enough, good enough, in one way or another, you wouldn't have been in whatev - the sort of situation that you're pissed off about in the first place.</p>
+
+<p>CLIENT: Yeah. (long pause) I mean, one bad situation, even two, could be ascribed to luck or chance with someone else's issues, but, you know, this is not one, two, three, four or five, six, the sixth kind of situation like this that I've been in where things just didn't gel and I ended up frustrated and miserable.</p>
+
+<p>[10:14] At some point, you have to say, what's the common denominator across all of these? (long pause)</p>
+
+<p>THERAPIST: And why is - I know it's you, I know that's what you're referring to, but what about you do you mention (ph)?</p>
+
+<p>CLIENT: (sighs) I take it you want something more than once that I'm a fuck up?</p>
+
+<p>THERAPIST: That'll do, if that's what you think. (laughs) [10:51]</p>
+
+<p>CLIENT: (laughs) It is what I think. (long pause) (sighs) I just, I'm trying to [more than once] (ph). I get bored easily and I get frustrated easily and (sighs) (pause) and I have a hard time finding and maintaining focus on something that I'm not in love with. And to succeed in the professional world you have to, or even in the academic world, you have to be able to maintain discipline even on the crappy parts of the project. And, it's just, (long pause), yeah, I procrastinate too much and avoid doing things that are frustrating or boring and then I end up having to scramble at the last minute and end up turning in half-assed work and that's not (long pause)...yeah.</p>
+
+<p>[12:08] My last therapist said that I self-sabotage.</p>
+
+<p>THERAPIST: Do you think it's true?</p>
+
+<p>CLIENT: In terms of a, a description of the, the end results of my behavior, sure, it's, it's descriptive. In terms of underlying truth, I don't know.</p>
+
+<p>THERAPIST: Yeah, in [terms of] (ph), you're not ruling it out, you're aware of a motive to cause yourself this kind of trouble. (long pause) [13:01]</p>
+
+<p>CLIENT: The reason this is scary is that, because I never rebelled in high school and resented my parents so much for (inaudible) anyway, but the part of my brain that, you know, that is the center of, you know, rebellion and all that stuff just, has just gotten completely out of control and (pause), and because I won't rebel in outward ways it just does so sneakily. (long pause) [14:00]</p>
+
+<p>THERAPIST: What do you think?</p>
+
+<p>CLIENT: I don't know what to think. I mean, they're saying, you're subconsciously doing "x" is you know is a great out for anything because if it's the subconscious how could I know.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Right. (long pause) I don't know. (long pause) [15:00]</p>
+
+<p>THERAPIST: Yeah, I guess those kind of interpretations can be (pause) more helpful when they actually help you get a hold of a feeling that you may have not, you, that you may have not been so clear about before. But it sounds like, from the one's you're describing, they sounded more like plausible hypotheticals.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: But not really, within your kind of, kind of experience. (long pause)</p>
+
+<p>CLIENT: My first theory is that I'm in the wrong field entirely and this is the spirit's way of telling me I shouldn't be an engineer. (sighs) [16:00]</p>
+
+<p>THERAPIST: (chuckles) You could think of it that way (laughs).</p>
+
+<p>CLIENT: I mean, I certainly (pause), I'm religious enough to think that the Spirit moves in mysterious ways, but, (pause) I don't know, I also believe that God works with the tools He has and it's (pause), I don't know. I feel like if there's a, an actually divine reason for me to not be in engineering and be in some other field it would be a lot more obvious to me. (long pause) [17:00] (long pause)</p>
+
+<p>THERAPIST: I guess what comes to my mind is that you're going to do something more like, kind of, (pause) coming out of the closet as not an engineer, but you've kind of known. But, it was very difficult to do and (inaudible at 17:20) or something like that.</p>
+
+<p>CLIENT: Yeah, maybe that, or even (long pause)...I don't know it's hard for me to talk about vocation because I only know about it secondhand; I've never actually experienced a vocation myself. But, from everything I've read from a number of different sources, if there's actually a divine vocation it's impossible not to follow it. Right, so... [17:58]</p>
+
+<p>THERAPIST: Like if one had the calling...</p>
+
+<p>CLIENT: Yeah...</p>
+
+<p>THERAPIST: One has to follow that kind of thing?</p>
+
+<p>CLIENT: Yeah...</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Like I've read about people who were utterly miserable doing, you know, what anyone else would consider a dream job until they accepted the fact that they had a calling and followed it over. Kind of a sense of perpetual restlessness which is not, I don't know, none of that sounds, none of what I've read sounds familiar to how I feel. I think it's mostly it's just, I'm crazy. (sighs) Really I don't know, I don't think that has any...</p>
+
+<p>THERAPIST: And alongside that, when you told me on a few occasions that there had been a dream career that you really like and has not the majority of your experience in engineering, clearly. But, (pause) even I think, to me, it sounds like, at least at times, it felt like kind of is or it could be you as opposed to your, like your feeling that you just couldn't cope.</p>
+
+<p>[19:16] (long pause) I'm not trying to say like I think you [want engineering] (ph) just because...</p>
+
+<p>CLIENT: Right, right...</p>
+
+<p>THERAPIST: I guess, as you said, it's not as simple as you're obviously doing the wrong thing.</p>
+
+<p>CLIENT: Right. I mean, I guess if I had a do over and change my career path, like going back to high school (pause) I might have picked math instead of architecture, like knowing what I know now. But... [20:00]</p>
+
+<p>THERAPIST: What do you imagine about doing math?</p>
+
+<p>CLIENT: Well certainly not (pause), not trying to become a professional mathematician because those jobs are few and far between and, you know, there's like a one to one thousand ratio of jobs for professional mathematicians and people graduating with PhD's.</p>
+
+<p>[20:24]Yeah, it's a harsh field, but (pause) I don't know, maybe doing applied math and like single processing or statistics or something (long pause), but yeah. It's awfully close to engineering, much closer than the priesthood at least. (laughs) (long pause)</p>
+
+<p>[20:57] I would make a terrible priest. I'm sure the church wouldn't want me.</p>
+
+<p>THERAPIST: How come?</p>
+
+<p>CLIENT: (sighs) Priests kind of fulfill, at least in the Episcopal Church, my denomination (inaudible at 21:12) there. Scholars and teachers and administrators and counselors and, I don't like people that much. I don't like interacting with people. I have a really hard time dealing with the sorts of, you know, counseling families in crisis situations that priests are often called upon to deal with. (long pause) And, and, wrangling a body as political as a, an Episcopal Church board of elders, no thank you.</p>
+
+<p>[21:51] Like, the only part of that job that appeals to me is reading lots of books about history and theology and giving sermons, which is a very intellectual exercise and one that I can do without making that my career since there are ample opportunities in my denomination for lay people to give guest sermons. (long pause)</p>
+
+<p>[22:50] I don't know why I self sabotage so much. (long pause) And I've tried so many methods of dealing with the procrastination and the avoidance. You know, I've tried imagining that the part of me that wants to procrastinate and avoid doing work is just, you know, an angry child, an angry teenager, I've tried reasoning with myself. I've tried bribing, I've tried cajoling, I've tried just...</p>
+
+<p>THERAPIST: Oh, I'm sure you've tried...</p>
+
+<p>CLIENT: Offering, you know, imagining myself as a child and saying you know, I understand you want to play, I'm so sorry you didn't get a chance to play. I've tried, you know, I've tried timers, the, you know, I think I told you this, the work for a solid block of time, take a break for a solid block of time.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: I've tried changing my work space.</p>
+
+<p>[24:00] I've tried working with music, without music, music with lyrics, instrumental music. (laughs) (pause) I've tried working at libraries where it's quiet and there's no distraction. I've tried working at my office, tried working at home where, you know, I have snacks and tea. Like there's...I'm at my whit's end. (long pause) Like, I've even tried going, taking my laptop and going somewhere without an Internet connection so I can't play games and I can't go online, can't chat with friends, can't get lost Wikipedia and things for two hours going theoretical (ph) and I end up playing Mine Sweeper for two hours instead of doing my work.</p>
+
+<p>[25:00] And Mine Sweeper is a really horrible, mind numbing, boring, depressing thing to do. I do it, but...</p>
+
+<p>THERAPIST: Right, right, can I follow, in a way it's certainly not less tedious than whatever you have to do.</p>
+
+<p>CLIENT: Exactly.</p>
+
+<p>THERAPIST: It'd be one thing if you were playing some really cool, exciting game. Like that would be in a way, much easier to understand. But, playing Mine Sweeper...</p>
+
+<p>CLIENT: (laughs) It was cool and challenging when I was eight (laughs) (sighs).</p>
+
+<p>THERAPIST: (long pause) Again, this is sort of looking from an outside perspective, but it would seem that there, that you are (pause) as determined, more determined to (pause), sort of take down any effort that you make to deal with this as you are to deal with it. [26:08]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: (long pause) It does kind of have a feel to me as you talk about it today as like, say with your thesis, I try and kind of (inaudible at 26:42) sort of taking down your advisor in a way and like, sort of going down with her (laughs).</p>
+
+<p>CLIENT: (laughs) Maybe.</p>
+
+<p>THERAPIST: Like, as you said, you're - you think she's been ridiculous as an advisor; the project is ridiculous as a project. [27:04]</p>
+
+<p>CLIENT: Yup.</p>
+
+<p>THERAPIST: (long pause) Both in ways that are quite unfair to you (pause) and that you're clearly pretty mad about. (long pause) I think there may be something more subtle as well where you don't want her to have the satisfaction of having a successful student. Like, I mean, in a way (pause), you know, in theory it's possible that even though she's a really crappy advisor, even though it's a really crappy project, you've done a good job with it somehow and sort of made this something good for her that way, which I suspect you're pretty determined not to be the case (laughs).</p>
+
+<p>CLIENT: Maybe. [28:12]</p>
+
+<p>THERAPIST: Yeah, what's your thought? (long pause)</p>
+
+<p>CLIENT: (sighs) I've gotten really disillusioned in the last year about academic publishing in general. Like, some of the papers I've had to read for this project are just pointless bullshit.</p>
+
+<p>[28:50] I don't know how I got to be 29 years old before I realized that academic publishing is kind of a chump's game. I don't know, I guess I've always imagined that if only I could be a successful student I could, you know, do interesting research and publish papers that actually push forward the envelope of human knowledge and it turns out that the vast majority of papers that get published are just crap that people write because they have to publish. And there's nothing, there was one six page paper that was nothing, nothing but copying out equations from a physics textbook and applying them to this particular circuit. It's something that an undergrad could do as a class project and they got a fucking paper out of it and it's just (sighs) (pause).</p>
+
+<p>[29:54] And there's a part of me that, you know, I missed the deadline for the journal we were going to subHarvard to in part because a week and a half before the deadline my advisor said, "I don't think you're going to get this done so don't even bother." So I gave up. But, (sighs) (pause) I don't want to publish a paper that's garbage that's just written for the sake of getting a paper written even though I know that's what my advisor wants. She wants, she wants papers coming out of her lab and I'm just...</p>
+
+<p>THERAPIST: So you don't want to be part of something that feels like bullshit.</p>
+
+<p>CLIENT: Yeah. I mean, at least in industry you're actually building something you're going to sell so even if you're not doing something cutting edge and groundbreaking, you're doing something useful, right? Like, you know, applying techniques that other researchers have discovered and developed and figuring out a way to, to mass produce them, to delaminate a feasible sustainable matter. That's, that's actually contributing to society in a useful way.</p>
+
+<p>[31:05] Whereas, I don't know, I just, (sighs) (long pause) Clearly I'm not meant to be an academic. (laughs) As much as I like the romance of the idea of academia or the fantasy I have of it in my head. Like the prestige of being able to say that I'm a tenured university professor. The actual work is kind of crap. (pause)</p>
+
+<p>THERAPIST: I'm not so sure, like...Let me be clear what I mean. (long pause) Clearly you're terrible disillusioned about the value of academic work. You're kind of like ripping it to shreds (laughs) when you talk about it. [32:04]</p>
+
+<p>I'm not sure actually that that's the same as saying you're not meant to be an academic. It seems to me like, you're (pause) angry at the pretense that it's otherwise and you're very critical of your anger at this sort of pretense that it's otherwise.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: You're furious with what people get away with and pretending it has value. And probably a kind of, what I imagine it feels like, a degree of brainwashing around all of it.</p>
+
+<p>CLIENT: Yeah. I don't want to say that there isn't interesting groundbreaking research being done in the academy. There certainly is, but (sighs)...</p>
+
+<p>THERAPIST: Yeah, I mean it...</p>
+
+<p>CLIENT: But not everyone is doing it. Not everyone can do it because there's not enough funding to go around. [33:08]</p>
+
+<p>THERAPIST: Absolutely. Yeah, I guess that sort of makes my point which is that (pause) even in your field, even in your mind, the field may be able to survive your anger and your criticism (laughs) in a way, you know?</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: I don't mean like, of course it's going to survive out there, but I mean even, you know, for you like (pause) I'm not trying [to make the point] (ph) that you want to be an academic, but the criticisms you have, while very important and obviously things you'll consider and do what you want to do, (pause) don't seem the same to me as like saying the field is wholly worthless nor that it couldn't be a good fit in certain ways for your talents or interests either. [34:13]</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: (long pause) The reason I'm making the point, not just to do with academia, but, because of the fact that there's something about this dynamic that applies elsewhere, where you get very disillusioned, very angry, very critical, tear something to shreds in your mind, and feel like there's nothing left of it, (pause) of any value. Or that... [34:59]</p>
+
+<p>CLIENT: It's like what you said last week, that you're either talentless and shouldn't bother doing something or you're NFL level talent. You know, that same dichotomy applied to fields of endeavor instead of to personal attributes, right?</p>
+
+<p>THERAPIST: Huh. Yeah, I guess there's that. There's also like, (pause) ...</p>
+
+<p>CLIENT: It's like they're completely worthless or it's the best thing ever and nothing in between. (long pause)</p>
+
+<p>THERAPIST: There's that part of it and there's also like, you may be really furious and really disappointed; clearly you are really furious and really disappointed with a lot of how academia works and a lot of what people get away with.</p>
+
+<p>[36:00] But, at least as you're thinking this, that you're not saying that, you know, there are people who do reasonable work, in theory it's possible to do reasonable work and do you think the value (pause), that that can coexist? Like, you know, even if it's one person out of ten in a department that do that kind of work (long pause). Another example that I have in mind is, this may be stretching it, but like how do you feel about your experience in graduate school? You mostly speak negatively about it. But, to me, like all of the bad things that have happened, I mean, I'm not trying to say that if you had to do it over again, would you choose to do it again, I don't know. [37:18]</p>
+
+<p>CLIENT: I enjoyed my first year. I had a great time first year when I was mostly taking classes and working on short projects and I think I might have an overall different opinion of graduate school if I had a different advisor or a different thesis project. Or, maybe it's regardless of who I had as an advisor and my, my own personal issues would have interfered to point where I was miserable anyway, but...</p>
+
+<p>THERAPIST: But we don't know. Yeah. Right, and in either case clearly you did everything you enjoyed. [37:56]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: It's valuable. And let's take away any of how awful some of it's been, most especially now (long pause)...</p>
+
+<p>CLIENT: I guess also, when I started out at Harvard I had this very, what I find in hindsight to be a very offensive opinion, that art and literature aren't worthwhile pursuits, that they're a waste of time, that the only reason to take an art or a lit class is to have something to talk about at cocktail parties and I actually said that to a writing professor at one point. It was, I can't believe how obnoxious I was at 18, but (long pause).</p>
+
+<p>[39:00] I don't know. I found that the things I'm interested in, I'm interested in more not because that they're actually marketable skills or because I could build something that people want to buy, or even, you know, for a while at Harvard I thought that I absolutely had to have a degree that I could use to like go to Africa and build water filtration systems, or whatever, to make the world a better place. It (sighs), that's hugely problematic in a number of ways, but glossing over that, like, (pause) I don't know, some of the stuff that's been interesting to me in the past two years in my classes has just been because it's cool math that's really interesting and beautiful. And when you can get a project working especially in image processing, when you can get something working you can do really cool visual things that are kind of pointless except that they're cool.</p>
+
+<p>[40:02] I mean, certainly there are jobs in image processing. I find most of them, most of the job market in that particular field could be ethically questionable things like, you know, government surveillance, you know, satellite photographs can track a particular car and where it's going and it's movements. It's really...</p>
+
+<p>THERAPIST: Sketchy?</p>
+
+<p>CLIENT: Yeah. I wouldn't want to make it easier for the government to invade people's privacy and violate civil liberties, so (pause)</p>
+
+<p>THERAPIST: We'll stop for now. We'll talk more tomorrow. See you later.</p>
+
+<p>[End of TRANSCRIPT]</p>
+
+<p>END TRANSCRIPT</p>

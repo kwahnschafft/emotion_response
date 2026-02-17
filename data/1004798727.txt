@@ -1,0 +1,302 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: I don't know. I was thinking about your question yesterday about whether there's something [inaudible [00:00:26], but kind of pulls frustration with work and body image and stuff. I think it's more a function of time than anything else that I come here straight from work, and so, of course work is at the forefront of my mind. And so, if I can't think of something to say, that's what kind of the, you know, the obvious thing to latch on to. </p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>[00:00:54]</p>
+
+<p>CLIENT: (Pause.).</p>
+
+<p>THERAPIST: Like I said, I didn't bring it up because it's a problem; only because if there was some element in play that wasn't clear, hopefully, you could just verify. (Pause).</p>
+
+<p>CLIENT: I worked from home today and was phenomenally unproductive. Because I started out the day at 8 o'clock this morning with, "Fuck, I don't know how to do Task X." E-mailed my mentor, asked him how to do Task X and he didn't get back to me until about 3:45 where he said, "You know, I'm sorry I stopped by your cube a couple of times, I didn't see you. That's when I realized the mailing list I mailed to you saying I'm going to be working from home today is for my new team." But he's on my old team, so he wouldn't have gotten that e-mail. </p>
+
+<p>THERAPIST: Right. </p>
+
+<p>CLIENT: So I kind of felt like an asshole because he wasted his time wandering around looking for me and I wasn't there and he didn't know. And also, I didn't get the information I needed to do Task two, and surely hoping to get that done today. And then the other three tasks on my task list, I got two of them done, but one of them I just couldn't focus at all. So I planned a party instead.</p>
+
+<p>[00:02:30]</p>
+
+<p>THERAPIST: (Chuckles).</p>
+
+<p>CLIENT: (Pause). I was just; so there's a pattern in the types of tasks that I just completely stall out on.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: I mean things where it's just, you know, do a full component build or you know, run this tool or figure out how to use that tool. I mean they're frustrating and sometimes I get stuck, but I do them. But the ones that continually cause me to just shut down and not want to do them are the ones where I actually have to edit individual transistors. And I think I'm afraid of screwing up and making timing worse or making a mistake that breaks everything. </p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: And that's not really rational because I'm [inaudible [00:03:29] is on version control, so even if I do make a bunch of [inaudible [00:03:32] but completely break everything...</p>
+
+<p>THERAPIST: You can essentially...</p>
+
+<p>CLIENT: I can always go back to a good version. (Pause). But I just; I get really scared about saving and you know, committing those changes. So you know, I have a directory where I've been speculatively saying, you know, if I make this change and if I run it, what'll it do? And looking at results...but I actually haven't committed any of those changes and I don't know why that is. But I need to commit them because they have to be done because there are errors in the circuitry that need to be fixed.</p>
+
+<p>[00:04:17]</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: So. (Pause). So yeah, I don't know. (Pause).</p>
+
+<p>THERAPIST: Would anybody else know if you screw everything up and have to roll back?</p>
+
+<p>CLIENT: Yep, it would show up on the score boards. </p>
+
+<p>THERAPIST: I see. So like in reality in terms of your chip in the work, it would affect anything. </p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: But other people would know.</p>
+
+<p>CLIENT: Right. [inaudible [00:05:10] check the scoreboard [inaudible 05:11]. Not everyone is as obsessive about checking them as I am. </p>
+
+<p>THERAPIST: Uh huh. Would they actually care?</p>
+
+<p>[00:05:19]</p>
+
+<p>CLIENT: No. I mean other people submit changes [inaudible [00:05:24] all the time, so.</p>
+
+<p>THERAPIST: Oh. (Pause). Is it almost kind of an X factor, which part of job? I mean like...</p>
+
+<p>CLIENT: Yep. </p>
+
+<p>THERAPIST: It's similar to in [inaudible [00:05:40] like somebody saying bench work, like most experiments just don't work.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Or you don't get results. </p>
+
+<p>CLIENT: Uh huh.</p>
+
+<p>THERAPIST: Or, thinking about baseball...(Pause).</p>
+
+<p>CLIENT: I mean this isn't unique to this job, but I've had this problem not wanting to do stuff because it might break. I mean I had this trouble with my thesis. I've had this problem with classes. Like with classes, especially, it's ridiculous. Like you know here is a problem set where you have to write some math lab code to solve a problem and I don't want to start coding because what if my code doesn't work? That's just...that's just completely ridiculous right? Because no one writes correct code on the first try. And besides, it's not like I can...I have to submit something. </p>
+
+<p>[00:06:37]</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: Right. So I don't know where this inhibition comes from, you know, this kind of paralyzing fear of doing something wrong therefore I won't do anything at all. But it's really a huge road block. </p>
+
+<p>THERAPIST: Well, I think it might be because you're terrified of your own reaction if you mess up. And in a way, not without reason, I mean you can get so angry and make yourself feel so worthless, so bad, so ashamed. I mean you really do take a beating a lot of times when you make a mistake and I imagine that's what inhibits you. Now, I'm aware that reframing it that way, even if that's true, you know, sort of like doesn't get us that much further.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: But it's...</p>
+
+<p>CLIENT: But it's not as if my reaction to not getting anything done at all is pleasant either. So.</p>
+
+<p>[08:27]</p>
+
+<p>CLIENT: I mean it's also irrational with me to be afraid of my own reaction when my reaction to not doing anything also is really vicious. Does that make sense?</p>
+
+<p>THERAPIST: Uh huh. Yeah. You're kind of fucked either way. </p>
+
+<p>CLIENT: Yeah. (Pause). </p>
+
+<p>THERAPIST: Um...(Pause).</p>
+
+<p>CLIENT: I think sometimes I just want to grab myself and shake myself and ask me "What are you thinking? What are you doing?" (Pause). </p>
+
+<p>THERAPIST: Kind of paralyzed with fear and for reasons that aren't kind of clear, I'm more hesitant to take the active step in the short term risk than to be passive and at least push the risk out a few hours. (Pause). You know maybe the fact that you can kind of hide from it or it won't somehow at, you know, at some mystery interval...</p>
+
+<p>CLIENT: (Client chuckles).</p>
+
+<p>[00:10:26]</p>
+
+<p>THERAPIST: The work will just get done. </p>
+
+<p>CLIENT: Yeah. (Pause). </p>
+
+<p>THERAPIST: What's going through your mind?</p>
+
+<p>CLIENT: I was just thinking, I have this folder full of knitting patterns—bear with me; there's actually [inaudible [00:11:04] connected folder full of image patters in my hard drive. Probably 100 of them, of various patterns for sweaters that I've seen that I've liked that I would like to make for myself. But every time I think about actually making one, they're all designed for someone less busty than I am. So they would all need to be modified in some way to accommodate my shape. And theoretically, that's a very easy calculation to make. You know, take a couple of measurements, figure out the gauge of your yarn—so how many stitches per inch do you get and then calculate how many extra inches you need, do the conversion to how many stitches you need, and then you do a technique that's called short rows. It lets you kind of add curvature to the piece of knitted fabric. I mean short rows are a technique that I've used in other knitting projects. I've used them to make...they're vital for making socks to make them turn at the heel of the sock, for example. And you know I've used them like I usually knit stuffed animals for friend's kids and short rows are used in those patterns all the time. So it's not that I'm unfamiliar with the technique and the math is really simple. With you know, elementary level math. But I haven't actually tackled modifying any of these patterns because I'm scared that I'll do it wrong and will waste the time and effort to knit the sweater only to have something that's ill-fitting. Which is kind of ridiculous because I've certainly wasted as many hours browsing patterns looking for the perfect pattern that was designed for a model of exactly my proportions far more hours that would take to speculatively try this out. But...I don't want to make a mistake. I want it to be perfect on the first go. And...(Pause).</p>
+
+<p>[00:13:04]</p>
+
+<p>It's all just very irrational. I've used that word a number of times in the last 15 minutes. (Pause). I also have notebooks full of sketches of my designs.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: But I haven't actually written out and you know, put out a call for test knitters for it because what if it's wrong? What if someone discovers an error in a pattern I write? And similarly, I've got, you know, probably dozens of files on my computer of boarded attempts at fiction writing. </p>
+
+<p>THERAPIST: Uh huh. Yes, I think you're kind of...you shaded in to it now right where you brought like in here the work that you're doing involves bringing up something that's difficult at work and with knitting and writing and maybe other things too. And so that sounds like you're saying what's on your mind. You're putting yourself out there. And you're starting to get mad at yourself. You're irrational. This doesn't make sense. </p>
+
+<p>CLIENT: Well it doesn't. (Pause).</p>
+
+<p>THERAPIST: Well, a lot of things don't make sense, but I think you feel very responsible and at fault. In other words, I think "It doesn't make sense," is kind of a quandary you need to whack yourself over the head more so than simply a feature of what you're describing although perhaps I'm misunderstanding.</p>
+
+<p>[00:15:20].</p>
+
+<p>CLIENT: No you're right. (Pause). </p>
+
+<p>THERAPIST: And...(Pause). Although maybe both aspects of it are important. Maybe in addition to sort of self coagulating with it doesn't make sense. (Pause). The way it doesn't make sense, it just feels like genuinely disconcerting. (Pause). You know focusing on some information because of the stuff we're talking about, but maybe there's a...maybe there's something important about the way it doesn't make sense in its own right. That it's a bit unsettling to be acting in a way that's not only unproductive or counterproductive, but not all that comprehensible. </p>
+
+<p>CLIENT: Yeah. (Pause.) Yep, it is. </p>
+
+<p>[00:17:29] </p>
+
+<p>THERAPIST: Is there more you can say about that? (Pause).</p>
+
+<p>CLIENT: I think pretty much my entire life I've been surrounded by people who very much fill you with rational thought. Parents, teachers, peers, everything. Like you know, think things through, make decisions based on their merit, make rational choices, and I realize that you know, pretty much no human can be 100 percent rational, but maybe we're not...</p>
+
+<p>THERAPIST: I'm [inaudible [00:18:11]. Yeah.</p>
+
+<p>CLIENT: But I can't shake the feeling of that's what we should at least aspire to. I know other people who would disagree me on that, but it's, I don't know, something I've internalized that you should aspire to be rational decision makers. So the ways in which I'm acting completely irrationally and can't justify it to myself, can't rationalize, if you'll pardon the pun, it's unsettling because I feel like I can't even attempt to be rational with these decisions because I'm not consciously making a decision. Like I'm not choosing to dig around at work; it just kind of happens out of, I don't know, abdicating; making a choice. (Pause). </p>
+
+<p>[00:19:28]</p>
+
+<p>Also, Spock has been a hero of mine since I was a very small child.</p>
+
+<p>THERAPIST: Oh really?</p>
+
+<p>CLIENT: Yeah. (Pause). </p>
+
+<p>THERAPIST: Um...(Pause). I'm not sure why I don't say that I think about that, but I have a hunch that you, in some ways are, much more happily irrational than you would like to admit. For example, you like knitting sweaters. You like creative writing. You...it's pretty clear; there are things you really enjoy about engineering like none of that enjoyment or enthusiasm is like rational exactly. I'm not saying that it's irrational but it's...that's not the basis for any of it all. I mean you're like; you have all these interests and pursuits that you enjoy doing like that's great and not governed by rationality, I don't think. (Pause). Yeah, I'm not saying like...I don't think Spock would knit a sweater. </p>
+
+<p>CLIENT: No, he probably wouldn't. </p>
+
+<p>[00:21:38]</p>
+
+<p>THERAPIST: (Chuckles) And um...(Pause). And I think at some level, like you're pretty okay with that. (Pause). I feel like I'm making a smarty point here. I apologize, but there it is.</p>
+
+<p>CLIENT: (Chuckles.) (Pause). I do sort of feel a little bit difference of like [inaudible [00:22:23] irrationalizations for why I have the hobbies I have. I think the sweaters are perfectly rational because it gives you precisely what you want which you can't get from picking off the rack. </p>
+
+<p>THERAPIST: (Laughs).</p>
+
+<p>CLIENT: I know that wasn't your point. </p>
+
+<p>[22:44]</p>
+
+<p>THERAPIST: (Laughing). I don't think...I think that may be account for like some of the reason why you do it. (Pause). You used to enjoy making things. (Pause). Um...(Pause). Um...(Pause). Yeah, I'm kind of tentative about this. I'm not sure how important the point I'm making is about this, but I'm going to throw this out there. Like, this is going to be a two-parter. Part one, um, another way I think I can say what I'm saying is like you know we both know that like there are engineers who are sort of like very rational kind of slightly Asperger's- ish types who like whose operating systems, you know, are just all about logic and rationality, and...</p>
+
+<p>CLIENT: I actually work with very few of that type at my current job, although I know the type you mean. I've encountered them before.</p>
+
+<p>THERAPIST: Yeah. And I mean clearly that ain't you. You know. I don't mean you're not an actual engineer or not very good at it or nothing like that, but...</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>[00:25:55]</p>
+
+<p>THERAPIST: However, I wonder if some of your anger with yourself or self-flagellation for not being rational or some of the reason it's disconcerting is because you feel kind of embarrassed, anxious, and uncomfortable with this other part or this other set of motivations. (Pause).</p>
+
+<p>CLIENT: Maybe. (Pause).</p>
+
+<p>THERAPIST: So you kind of have to atone for that. (Pause). But as a kid, in some ways, I guess, you're supposed to be kind of like a machine. But you're really nothing like a machine. I kind of wonder [inaudible [00:27:51] are like sort of something you had to make up for or...</p>
+
+<p>[00:27:57] </p>
+
+<p>CLIENT: Maybe. (Pause). [inaudible [00:28:12] high school competition [inaudible [00:28:15]. </p>
+
+<p>THERAPIST: I've heard the name but you probably aren't going to tell me about it...</p>
+
+<p>CLIENT: Some competition for achievers in middle school and high school. But it's basically a creative thinking exercise. So there's a lot of, you know, so your team goes to the competition and you're told, you know, you have...here are these props. Put on a skit along this theme. You have 45 minutes to prepare and then perform for the judges. Or, you know, here is a pile of random crap. Assemble the tallest tower you can free standing. </p>
+
+<p>So it's a lot of kind of free from exercises as opposed to the things I did well at. You know. Quiz bowl, math counts, science [inaudible [00:29:04]. A correct answer that you had to find. I remember my freshman year trying out for the [inaudible [00:29:13] team because they had competitive try outs for everything. There was no junior varsity or anything at my school. </p>
+
+<p>THERAPIST: Right.</p>
+
+<p>[00:29:22]</p>
+
+<p>CLIENT: In academics or athletics. All very competitive. And they just had kind of acting exercises maybe, like here's a wig. You have 45 seconds to come up with a character that matches the wig you were given and give a monologue. Good luck. </p>
+
+<p>THERAPIST: Yeah, like improv kind of thing.</p>
+
+<p>CLIENT: Yeah, improve. That's sort of...nothing extemporaneous. That wasn't quite right, but yes, improv. And I did really poorly at it and the other students mocked me and the teacher took me aside and as gently as she could said, "You know, maybe you should try something else; some other team." I was just...(Pause)...it was really humiliating. </p>
+
+<p>My English teacher had an after school writing group for students who he thought had [inaudible [00:30:32] writers that he invited me to join those. I did it for four years. I was an editor of the school's literary magazine and I had stuff published in the magazine every year. But you know, I was the editor, so. (Laughs). That doesn't mean much. But you know, week after week after week various criticisms of me was that I was focused too much on the technical aspect of writing and wasn't allowing myself to be imaginative. You know, excellent depth foreshadowing, great parallels and great symbolism, well researched, but where is the imagination? Stop focusing on technique. (Pause).</p>
+
+<p>[00:31:20]</p>
+
+<p>Yeah. I told you the story why I stopped writing poetry, right. </p>
+
+<p>THERAPIST: You have?</p>
+
+<p>CLIENT: Yeah. (Pause).</p>
+
+<p>THERAPIST: Yeah. (Pause).</p>
+
+<p>CLIENT: So I guess I've come to think of myself as this incredibly unimaginative uncreative person. And if I can't be creative and artistic, and many of my friends are creative and artistic—I'm friends with a number of authors and artists and musicians and I don't create. So you know, I darn well better be the best rational thinking engineer I can be because if I'm not creative and I'm not rational, then what's left? I'm just a loser or at least I suck; how the thought process goes. I don't know if that made any sense. </p>
+
+<p>THERAPIST: I could follow. Sure. Like you don't identify as creative. Actually, you do some to have creative output in that you write things, knit things, print things, so forth. Okay. </p>
+
+<p>CLIENT: Those are all technical skills, right? Like I knit from patterns other people have invented. I don't invent my own. </p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Printing is very much a technical skill in the print shop. </p>
+
+<p>THERAPIST: I see. Yeah, not that...</p>
+
+<p>CLIENT: You know other people do the graphic design; I just implement it.</p>
+
+<p>THERAPIST: Right. (Pause). Right, I guess the skills there have more to do with like regular letters and plates and things like that. More like problem solving. (Pause). Does your engineering job involve sort of creativity? I'd imagine there are some that do and some that don't.</p>
+
+<p>CLIENT: I mean there are different rules that require creativity to a more or less extent. I mean every job, even if you're just implementing someone else's design which is the job function I have right now, to implement in circuitry, kind of the high level circuit descriptions architects come up with. But even so, there's some level of needing to use maybe not creativity, but intuition to be able to look at the design and say, you know, so this is what...you know, so this is the high level description that the architects gave me and this is what the machine synthesizer gave me in terms of wires and circuits. But if I swap these two things, I can get better power or you know, I can, instead of having a bunch of ands and then ors, I can flip them around and have ors and ands and use fewer gates. Like there's some...</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>[00:34:38]</p>
+
+<p>CLIENT: There is some creative thinking, but not as much as in other job roles. </p>
+
+<p>THERAPIST: I see. Yeah, like in some way analytical and somewhat, um, I don't know what to say...more open ended or something. (Pause). But I guess what's also clear from what you describe is that...(pause)...it's more the bad experiences you've had and the worries you had about doing creative things that keep you from doing them.</p>
+
+<p>CLIENT: Uh huh. </p>
+
+<p>THERAPIST: Than not having an interest or...</p>
+
+<p>CLIENT: Yeah. I don't want to do things badly, so I don't do...(pause)...</p>
+
+<p>THERAPIST: You don't want to do things...(pause)...less well than very well right away.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>[00:36:25]</p>
+
+<p>That is more accurate than saying I don't want to do things badly. (Pause).</p>
+
+<p>THERAPIST: It's also like there's something that's almost a bit sort of you like have to be a bit furtive about enjoying...like there's, thinking about, um...(pause)...again like with the sweaters. Like sure you could make an argument for why it's rational to knit your own sweaters, but yeah; I guess that's sort of to cover over how much of it is doing it just because it's something that you like to do. (Pause). What else? What is occurring to you? And not necessarily about that. (Pause).</p>
+
+<p>CLIENT: Nothing that I particularly want to talk about. (Pause).</p>
+
+<p>THERAPIST: You don't say that very often. </p>
+
+<p>CLIENT: No I don't. (Pause). </p>
+
+<p>THERAPIST: Is there anything else that you came to talk about or that you...or that you want to talk about or be willing to talk about? I'm not asking to try to push you talk about what you don't want to.</p>
+
+<p>CLIENT: No I understand. Um...(pause). Yeah, just circling around the same themes of how is it that you put it? How I feel really furtive about enjoying the things I do. I don't know. (Pause). I guess that is true, but it's not how I like to think of myself, so it's a little challenging to hear that. (Pause).</p>
+
+<p>[00:40:56]</p>
+
+<p>THERAPIST: How do you like to...how does that conflict with how you [inaudible [00:41:03]?</p>
+
+<p>CLIENT: I guess I like to think of myself as someone who is you know, not afraid to live off [inaudible [00:41:14] and enjoy the things I enjoy and it's, you know, kind of my social identity that I'm not like those hipsters over there who won't admit that they like anything. Just you know, jaded and ironic and cynical about everything. But you know that I'm not ashamed to embrace the things that I like even though if they make me seem out of touch or dorky or nerdy or whatever. (Pause).</p>
+
+<p>THERAPIST: I guess that sounds a bit different from what I was saying. In other words, I guess I was talking more about like...(pause)...not so much in terms of how you identify, but...(pause)...</p>
+
+<p>CLIENT: Uh huh. (Pause).</p>
+
+<p>[00:42:18]</p>
+
+<p>THERAPIST: But I don't know. (Pause). I guess I sort of feel like we're both right, but I don't know; I guess we're trying to be parsimonious. I don't disagree with what you're saying and I can...it's not hard for me to get a sense of that with you. But I guess it [inaudible [00:43:19] to what I was saying as well and I'm trying to think about how to differentiate them.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Without much success. Um...(pause). One way to start is I was referring more to this kind of fantasy about being logical and rational and how sometimes that means you kind of have to be secretive about just enjoying something because you enjoy it. But what you're saying is like everything is like that. </p>
+
+<p>CLIENT: Yeah. (Pause).</p>
+
+<p>THERAPIST: Want me to stop for now?</p>
+
+<p>CLIENT: Yeah. </p>
+
+<p>END TRANSCRIPT</p>

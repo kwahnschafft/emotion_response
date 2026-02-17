@@ -1,0 +1,126 @@
+<p>TRANSCRIPT OF AUDIO FILE:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>CLIENT: (sighs) Work actually didn't suck today.</p>
+
+<p>THERAPIST: Oh, good.</p>
+
+<p>CLIENT: Well, it did but not for the usual reasons.</p>
+
+<p>THERAPIST: (laughs) Okay.</p>
+
+<p>CLIENT: I actually managed to stay off the Internet and off Twitter until after lunch.</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: And what I did was every time I went to go open Firefox, cause I have—I usually have Internet Explorer but it usually has 10 or 12 tabs open to our internal corporate wickie and our internal bug tracker and all of that.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: I use Firefox for personal stuff.</p>
+
+<p>THERAPIST: Got ya.</p>
+
+<p>CLIENT: Um, (pause for .02 seconds) I don't know why I draw that distinction but it made some sense at the time and I just stuck with it. But every time I went to open Firefox I just paused and said, "Do I really need this?" And usually the answer was no; so I went back to work. [00:01:00]</p>
+
+<p>And then it all fell apart after lunch cause I was frustrated and bored and just, meh. But (pause for .02 seconds) that was good.</p>
+
+<p>THERAPIST: Good.</p>
+
+<p>CLIENT: And I had stupid tool failures and instead of immediately giving up or digging around unproductively, I dug around the log files long enough to have half a clue what was going on. Then I went and asked for help and was told by another designer in my group, "Oh, yeah. That's because the standard cell chain broke everything. There's nothing any of us here can do about it until the West coast office fixes it."</p>
+
+<p>THERAPIST: Oh.</p>
+
+<p>CLIENT: I was like, "Oh. (pause for .02 seconds) Well then." (laughs) </p>
+
+<p>THERAPIST: How convenient.</p>
+
+<p>CLIENT: Yeah, um, so yeah I'm juggling kind of a couple of different tasks –</p>
+
+<p>THERAPIST: Uh huh.</p>
+
+<p>CLIENT: at work, so just kind of general (pause for .02 seconds) you know updating my new blocks with new libraries, and making sure nothing is broke. [00:02:02]</p>
+
+<p>Then I've got editing individual cells, or individual pieces of metal, because of timing errors. And I realized today that there's one timing path that I just keep checking and double-checking and triple-checking in our timing tool. I haven't actually implemented any of the changes that I think might fix the path.</p>
+
+<p>And there's no way to know if it's fixed until I implement the changes and then submit my changes to our control system, and then build my block, and then check-point my block so that it's available to the whole chip-timing team to do their runs—which they do nightly.</p>
+
+<p>So it's kind of a 24-hour lag between making a change and knowing if it worked.</p>
+
+<p>THERAPIST: Um hmm.</p>
+
+<p>CLIENT: Um, (pause for .03 seconds) so—and I've been reluctant to actually submit the changes that I think will fix it, and I realize today it's because I'm afraid of breaking things. [00:03:00]</p>
+
+<p>And really there's not (pause for .03 seconds) there's not a whole lot I could break. I mean, maybe the change I make will make the timing worse instead of better, but it's not like it's going to cause everything to stop working. It'll just be, you know, one of probably 50 timing failures that I already have.</p>
+
+<p>And it's not like there aren't hundreds and hundreds of timing failures across the chip, so –</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: a little bit of churn trying to figure out a couple of hard tasks won't break anything but I'm still (pause for .02 seconds) very hesitant to submit my changes until I'm sure that they will work and they won't affect any other timing paths. </p>
+
+<p>It's just (pause for .02 seconds) I'm very frustrated at myself because, you know, we've got these scoreboards that get e-mailed out to the team every morning with, you know, each block and how many updated paths you still have to have. Everyone else's numbers are going down montonically and some of them are going down slowly, but mine have stayed completely flat all week. I haven't moved –I'm just checking my changes.</p>
+
+<p>(pause for .03 seconds) (sighs) yeah. (pause from [00:04:06] to [00:04:29)</p>
+
+<p>THERAPIST: Yeah, I guess that means—you know where you were talking about yesterday, and your worry about (pause for .05 seconds) putting yourself out there by checking your changes –</p>
+
+<p>CLIENT: Um hmm.</p>
+
+<p>THERAPIST: anticipating you will be criticized and humiliated (pause for .03 seconds) for your efforts. (pause from [00:04:53] to [00:05:09) and then (pause for .02 seconds) your (pause for .04 seconds) not being so sympathetic with yourself, or that worry even in light of how often pretty early on that happened to you. (pause from [00:05:29] to [00:06:10) What's going on with you? (ph)</p>
+
+<p>CLIENT: (pause for .04 seconds) Not a whole lot. (pause from [00:06:18] to [00:07:05) </p>
+
+<p>THERAPIST: Um, my hunch is that (pause for .04 seconds) some of the discussion from yesterday may be a piece of what helped this morning.</p>
+
+<p>CLIENT: How so?</p>
+
+<p>THERAPIST: Well, in a general way, (pause for .04 seconds) that tends to be the sort of thing that helps. </p>
+
+<p>CLIENT: Um hmm.</p>
+
+<p>THERAPIST: (inaudible from [00:07:44] to [00:07:47) as a relation. I think we were talking about what happened, I think, but (pause for .03 seconds) that's why I think so, because I generally tend to think that's true.</p>
+
+<p>CLIENT: (laughs) Not because you see a clear mechanism of it, got ya.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Okay.</p>
+
+<p>THERAPIST: (pause from [00:08:11] to [00:08:37) Do you have any other thoughts or does anything else come to mind about this morning?</p>
+
+<p>CLIENT: (pause for .05 seconds) Not really.</p>
+
+<p>THERAPIST: Um hmm. You just seem kind of better.</p>
+
+<p>CLIENT: Yeah. (pause from [00:08:55] to [00:09:09) I think a big part of it was shifting focus from, "No. You're not allowed to open Twitter," which immediately triggered the 'you're not the boss of me' reaction top, and this was something I actually need.</p>
+
+<p>THERAPIST: Hmm.</p>
+
+<p>CLIENT: I'm not sure what prompted me to make that change in my internal monologue but –</p>
+
+<p>THERAPIST: Um hmm. (pause for .04 seconds) I guess it felt less like a fight over your own timing and more like a —</p>
+
+<p>(sound of car horn continuously blowing)</p>
+
+<p>CLIENT: Wow. Someone's really angry out there.</p>
+
+<p>THERAPIST: (laughs)</p>
+
+<p>CLIENT: (sighs) (laughs) [00:10:03] </p>
+
+<p>THERAPIST: (pause from [00:10:04] to [00:10:17) and more like you're just kind of looking out for yourself.</p>
+
+<p>CLIENT: Hmm. (pause for .03 seconds) I've also been noticing on days where I don't check the Internet in the morning, between my shower and going to work, I'm much less angry and crabby in the morning.</p>
+
+<p>Lately because the news is angering and depressing; not looking at it helps. And it's hard for me not to because, you know, I very much want to log in first thing as soon as I wake up and see what's going on, and check all the news sites and read my friends' blogs and, yeah, get the Facebook status updates. [00:11:15]</p>
+
+<p>It's really ridiculous how much of an Internet junkie I am. (pause from [00:11:16] to [00:11:59)</p>
+
+<p>THERAPIST: Maybe wanting some of that is cause of the way that things are in a more or less settled fashion can feel (pause for .03 seconds) like a fight. (pause for .05 seconds) I mean, nine times out of ten (ph) </p>
+
+<p>END TRANSCRIPT</p>

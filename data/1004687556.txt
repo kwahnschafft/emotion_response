@@ -1,0 +1,462 @@
+<p>Transcript of Audio File:</p>
+
+<p>______________________________________________________________________________</p>
+
+
+<p>BEGIN TRANSCRIPT:</p>
+
+<p>(Audio starts at 00:00:21)</p>
+
+<p>THERAPIST: Do you have [particular things] on your mind?</p>
+
+<p>CLIENT: Nope. But at least half my brain is still in the piece of work I was working on before I had to leave.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: It's pretty complex thing.</p>
+
+<p>THERAPIST: Yeah. Tell me about it.</p>
+
+<p>CLIENT: So —</p>
+
+<p>THERAPIST: (inaudible at 00:00:42) that's where half your brain is?</p>
+
+<p>CLIENT: (laughs) So my job is designing computer chips, right?</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: And in particular I work on — well we've divided things down. So there is the chip and then their modules and then their boxes on the modules. And the block I'm working on is pretty fast. But it chews up a lot of power which is bad because well you want to be able to tell consumers, "Look you've got a ten billion gigahertz chip or whatever." [00:01:13]</p>
+
+<p>THERAPIST: Right. You also want to be able to say there is ten-hour battery life.</p>
+
+<p>CLIENT: Yeah. Yeah. So I've been working on finding ways to reduce power. And one way to do that is to make the transistor smaller but of course smaller transistors are slower. And another way to do that is to change the order in which logic happens. So for example if you have two signals and you want to band them together you can take each of those signals and run it through a buffer into an end gate or you can run them into the end gate and then buffer the output. And sometimes one is higher power and sometimes the other is higher power.</p>
+
+<p>THERAPIST: Depending on the order in which you do it?</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: And also depending on what's the next thing that signal is going to go into. How much drive strength does it need? It's — in theory I learned all of this. In like (inaudible at 00:02:13) logic class seven years ago. (laughs) But I'm relearning a lot. [00:02:18]</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: And just — I was working on one particular chunk of circuit. Like running simulations to try to figure out what the best thing to do to keep the timing goals that were set for us by the timing team also.</p>
+
+<p>THERAPIST: That's the speed.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Wow. Lowering the power (inaudible at 00:02:42).</p>
+
+<p>CLIENT: Yep. And there are of course probably seven different tools I've developed internally for doing this.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And each of them —</p>
+
+<p>THERAPIST: Kind of like optimizations really?</p>
+
+<p>CLIENT: Yeah. Well different programs that you can run to show you different views into data.</p>
+
+<p>THERAPIST: The data produced by the simulation?</p>
+
+<p>CLIENT: Right. But they each have to run in a different directory on the main computational server. And they — none of them are well documented so it's just a matter of asking someone, "How does this work?" And then scribbling it down. And then hoping I can read my handwriting later. Or typing it into notepad or something and saving the file. And then looking back and saying, "Hmm. I didn't actually write down what the details were." [00:03:35]</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: Yeah so. (laughs) Just trying to internalize all of that knowledge and get to a point where I can access it easily instead of having to struggle to remember.</p>
+
+<p>THERAPIST: Mm-hmm. (pause at [00:03:51] to 00:04:08) Yeah as I follow that's sort of bread and butter activity.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: For the type of work that you'll have to do.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: So you kind of need those tools pretty readily at hand.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And you're on the learning curve on that one. [00:04:29]</p>
+
+<p>CLIENT: Yep. And another part of it is — if you remember DeMorgan's Line. I mentioned (inaudible at 00:04:35).</p>
+
+<p>THERAPIST: No. (laughs) I seemed to have successfully repressed it. DeMorgan's?</p>
+
+<p>CLIENT: Yeah. Boolean logic. A not plus B not is equivalent to not A and B.</p>
+
+<p>THERAPIST: Okay.</p>
+
+<p>CLIENT: It's a thing. A property —</p>
+
+<p>THERAPIST: Propositional logic.</p>
+
+<p>CLIENT: Yeah. So those sorts of things are really easy for me to apply on equations on paper. Like if you give me letters and symbols. But being able to see it in the schematic — the circuit schematic — and apply it physically is a little bit—. It's different representations of the same thing. [00:05:21]</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Right? Like you're using circuit diagrams instead of letters and plus signs and multiplication signs.</p>
+
+<p>THERAPIST: Right. But in six months or a year you'd be able to look at a circuit diagram and kind of intuitively read all that from it.</p>
+
+<p>CLIENT: Right. Right.</p>
+
+<p>THERAPIST: And you can't do that now.</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: But you could if it was written out in letters and symbols.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: I see. (pause at [00:05:42] to 00:05:58) So I guess one thing that strikes me is that you focused on two areas where you're still kind of learning or getting up to speed.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: And you sound a bit anxious about that.</p>
+
+<p>CLIENT: I had to keep reminding myself repeatedly today that being a trainee is nothing to be ashamed of. [00:06:34]</p>
+
+<p>THERAPIST: (chuckles) (pause at [00:06:34] to 00:07:23) Do you feel that way at all here? Like there are things you're not up to speed on or that are difficult? Or that you feel like not good enough at? Or —</p>
+
+<p>CLIENT: Here?</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: I don't think so. [00:07:42]</p>
+
+<p>THERAPIST: That's good. (inaudible at 00:07:47) exactly be bad if you did but — yeah.</p>
+
+<p>CLIENT: Right. Yeah. (slight pause) The other thing that has been on my mind is — I don't know how to phrase this. But there are all of these things I want to learn how to do and become good at. And some of them I have learned and am good at. For example textile arts. Spinning, knitting. I'm reasonable skilled. And I'm learning bobbin weaving and loom weaving and it's the early stages of learning. [00:08:45]</p>
+
+<p>It's kind of frustrating because you can't — everything you make looks like crap. But still I feel like I'm developing skill there. But there are all of these other things that — hobbies that friends of mine have that I think it would be cool to be really good at that. Then I think about signing up for taking a class or something. And I don't know how much of it is just the grass is always greener but things other people are doing always sound cooler than the stuff I'm doing.</p>
+
+<p>THERAPIST: Mm.</p>
+
+<p>CLIENT: Right or — because there is a finite amount of time. There is only 24 hours in a day.</p>
+
+<p>THERAPIST: (inaudible at 00:09:21) Yeah.</p>
+
+<p>CLIENT: There is only so much you can do. And I certainly — so I want to learn to speak Spanish fluently. And I want to develop my vocal control more. And there is all this other stuff that friends of mine do that I think that would be really cool. Like rock climbing or horseback riding or whatever. And I can't do all of it. [00:09:50]</p>
+
+<p>And it's — I don't know. I've put so much time and so many years into becoming good at engineering. And I mean that's great. I've got a good job. But it's really not fulfilling in that — maybe fulfilling isn't the word I mean. It's not something that I get peer approval for. Right?</p>
+
+<p>So like friends of mine who are mechanical engineers or industrial engineers get tons of peer approval for — I have one friend who designed an open source (inaudible at 00:10:44) router that's become very popular in (inaudible) communities because it's cheap and accessible. And it's open source which is super cool. It's a really cool piece of machinery he designed. But it's something that's very visible and that is a product that you can market to your friends. [00:11:04]</p>
+
+<p>THERAPIST: Yeah. Yeah.</p>
+
+<p>CLIENT: Or for example someone else I know does leather carving and leather burning. And makes really cool stuff.</p>
+
+<p>THERAPIST: Uh-huh. Uh-huh.</p>
+
+<p>CLIENT: And I in fact tried to learn from her and realized that leather is not a good medium for me because I find it completely weird and gross and icky to be working with raw leather. (laughs)</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: But that's another thing where you get social approval from the social circles I run in.</p>
+
+<p>THERAPIST: Yeah I mean (inaudible at 00:11:33) quite right. But it sort of conveys. Like the stuff you can come home and put up on the fridge.</p>
+
+<p>CLIENT: Right. Whereas a computer chip — everyone needs them right? Everyone has at least one in their house.</p>
+
+<p>THERAPIST: (laughing)</p>
+
+<p>CLIENT: Probably more if you count your phone and your laptop and all that. But it's not —.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: It's not something that one person can build alone. Right? Like I can't design a whole chip.</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: That's just way too much. Whereas one person can carve an amazing leather book cover for your bound volume of (inaudible at 00:12:04) or whatever. And it's also not something that's really visible. So I feel like my achievements aren't — I don't get recognition for them. [00:12:17]</p>
+
+<p>So yeah. I've been debating what to do in the fall with all this time that's being opened up by not being in grad school anymore. There is education for ministry which is run by my diocese. Not by my priest. Otherwise I wouldn't even be considering it. Which is kind of like seminary light for lay people who aren't going to become ministers full time. But it gives you a piece of the systematic theology and history and etc. that seminarians get. And that's really interesting and something I've been wanting to do for awhile. But it wasn't offered in our area until recently. And then I was in grad school. So there is that. [00:13:13]</p>
+
+<p>And I have friends who are taking circus arts, aerial arts, who are trying to convince me to join their class. And that sounds really fun and would also be good exercise. And there is voice lessons which I've been wanting to do for awhile but lack of time and money has been the issue. And it's just I can't do all of these things.</p>
+
+<p>But what do I pick? And how do I prioritize? (sighs) I don't know. I feel like so many of my decisions are being driven by what other people will think of some of them rather than what would actually make me happy. But if what would make me happy is being able to do something that's performative that my friends can appreciate — like I don't know where my motivations are in this. [00:14:08] (pause till 00:15:29)</p>
+
+<p>THERAPIST: What do you question? [00:15:29] (pause till 00:15:39)</p>
+
+<p>CLIENT: I guess the question is in the long run will any of these things turn out to have been a good use of my time? (pause at [00:15:45] to 00:16:01) Well no that's not the question. (inaudible at 00:16:05) the real question which is — (sigh).</p>
+
+<p>THERAPIST: It sounded to me like the question was whether — kind of nice to do something that your friends can see.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: And sort of get excited about in a way that feels good to you. And different from the situation with like your professional work. [00:16:34]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: The concern I guess maybe sounded like you worried that you would be too much seeking and kind of investing your sense of yourself in other peoples' approval and excitement about you.</p>
+
+<p>CLIENT: Yes. That. What you just said.</p>
+
+<p>THERAPIST: And —</p>
+
+<p>CLIENT: I mean like —</p>
+
+<p>THERAPIST: Talk.</p>
+
+<p>CLIENT: Is this a psychologically healthy thing to want — to have this level of wanting the approval from my peers? Like is this — I don't have a good sense for whether this is normal, healthy. People are social animals. Or if this is a level of codependency and neediness that's unhealthy that I should be working on. [00:17:30] (pause till 00:17:49)</p>
+
+<p>THERAPIST: What if we go with the idea that — at the very least there is nothing inherently wrong with what you want.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: See what I'm saying? Like somehow that seems to be an important point for you. That like — (pause at [00:18:10] to 00:18:27). I guess my concern with something like this is you say, "Well I want to do circus arts so I could show off on the trapeze. And have my friends go, 'Wow!' And feel really cool about that. But that's not something I should want because that's being too emotionally dependent on their approval and enthusiasm about me. And that's pathological. Or codependent. And even if it felt good; it's really bad. And so I'm definitely not signing up for the circus class. In fact I feel kind of crummy that I even wanted to." [00:19:18]</p>
+
+<p>It seems to me like there is kind of apologizing of your kind of wanting that from people in the first place. And of course that's something everybody wants and needs. And sure there can be all sorts of problems with the way people go about getting it. Or what people do that has—maybe that's it. (pause at [00:20:00] to 00:20:35)</p>
+
+<p>I don't know. Maybe the problem with things like codependence or other sorts of attention seeking isn't with the desire to have approval and enthusiasm from other people. Maybe it's the price you wind up paying for that. See what I mean? Like if you stayed up till three every morning working on tricks on the trapeze to show off to your friends and then were exhausted and couldn't function at work. [00:21:05]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: And were unhappy. That would be a problem.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: And you'd probably be wanting your friends to like think it was cool that you were going to trapeze. (pause at [00:21:15] to 00:22:23)</p>
+
+<p>CLIENT: So similar to this is — there is a website called [inaudible]. I don't know if you're familiar with it. It's a social networking site for fitness where you log your workouts and then people can comment on them. Everything you do is public. And a bunch of my friends are on this. And they've been asking me to sign up because they know I've been trying to motivate myself to get back to the gym and get fit. [00:22:48]</p>
+
+<p>I created an account (inaudible at 00:22:52) this morning and blogged my most recent week's worth of workouts. And I don't know. I just felt this crushing sense of inadequacy when I compared my workouts to my friends' workouts because they're all fitter than I am. And they're lifting more weight. Lifting more volume. Running faster. Running farther. I'm like this fat weakling at the back of the pack.</p>
+
+<p>And if we were wild animals (inaudible at 00:23:24) I'd be the one the predators took down. (chuckles a little) And I guess the goal of the site is to motivate you by putting you — by making all of this information public to give you kind of a sense of competition with your friends. But instead I just feel like, "What the hell is the point?" (laughs softly) My friend, (inaudible at 00:23:48), who is tiny, tiny—. She weighs maybe a hundred pounds soaking wet. She can dead lift twice my body weight. What the hell? (laughs) (sighs) [00:24:00] (pause till 00:24:38)</p>
+
+<p>THERAPIST: Yeah. Somehow I feel like you're sort of amending what I just said in a way. And saying like, "Okay. Maybe it's fine in a way to want to do things that other people like and approve of. Or I feel good about."</p>
+
+<p>CLIENT: (chuckles) Mm-hmm.</p>
+
+<p>THERAPIST: "But sometimes clearly it doesn't feel like that's the way it's going." I mean you're not saying your friends are saying mean things but —</p>
+
+<p>CLIENT: No they're not. In fact they've been very encouraging.</p>
+
+<p>THERAPIST: I would — (inaudible). [00:25:04]</p>
+
+<p>CLIENT: Yeah.</p>
+
+<p>THERAPIST: But you're so busy feeling vulnerable and crummy by comparison that —.</p>
+
+<p>CLIENT: And I think in both cases it's not so much that I was challenging you or saying, "Well you're wrong." But you know — my self-perception is so tied into what other people think about me that—. Or what I assume other people must be thinking about me.</p>
+
+<p>THERAPIST: Yeah. (pause at [00:25:49] to 00:26:04) What they're thinking when the malicious bully in your head is sitting on their shoulders. [00:26:08]</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Not (inaudible at 00:26:12). You know what I mean?</p>
+
+<p>CLIENT: It's just —. (pause at [00:26:18] to 00:26:31) I don't know what the line is between healthy and pathological. And wanting other peoples' high regard. Like how do I know which side of that line I'm on? Where my desires are normal and human versus being unhealthy and self-destructive. [00:27:01] (pause till 00:27:30)</p>
+
+<p>THERAPIST: Not quite (inaudible at 00:27:31) your question but the thing that is pathological about you is largely, or a significant part of it is — as far as I know about it so far — how really vicious you can be with yourself. In a variety of contexts and ways. [00:28:00]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: I mean there are reasons for that. And some of them (inaudible at 00:28:07) than others. But I think that is the problem here. Not whether you want people to approve you or how much you want that. I mean the problem is that when you think about doing things where you could get some of that —.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: Sometimes what happens is you anticipate or feel the opposite. Like with the [inaudible].</p>
+
+<p>CLIENT: Mm-hmm. Mm-hmm.</p>
+
+<p>THERAPIST: Or that you pathologize the way you wanted that in the first place.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: So I think what you're kind of wavering about now — or I guess I think that is sort of how you worry about it is that you —. I imagine you — you know you want it a lot partly because it's this salve that reassures you. [00:29:20]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: When you can feel so bad and so self-critical. Like one thing it sounds like that can really help with that.</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: Or that can really buffer you from that is when people are excited or approving or enthusiastic about you. Because I guess then part of maybe what you're worrying about is that like you want that or need that too much.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Because it helps you with something that is kind of a big problem in your life. Which is (inaudible at 00:30:02) about yourself. (inaudible) (pause at [00:30:04] to 00:30:44)</p>
+
+<p>CLIENT: And of course because everything comes back to my parents. [00:30:46]</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: I'm reminded of the completely mixed messages I got as a kid about what other people think of you. Or me in this case. Depending on the situation, what suited what they wanted me to do, my parents would either insist very vehemently that I shouldn't care what other people think and I should only do what was good for me and our family. And who cares what other people say about you?</p>
+
+<p>Of course anytime I wanted to, say, wear a tank top or shorts or I don't know play soccer instead of whatever stupid girly thing my parents wanted me to do, it was "Oh no! What will people think? People will talk. And you don't people to talk." I was something of a tomboy growing up and my parents hated that. Hated it. Especially when we lived in Alabama in a neighborhood that backed up onto a giant preserve with woods and bayou. [00:31:56]</p>
+
+<p>And it was quite wild. I would go out there with friends and go hiking all day. And climb trees. And my parents would flip out. You're out in the woods alone with a boy! What will people say? People will think you were having sex. And then people will talk. We were eleven. And I realize there are some eleven year olds who are having sex but —</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Yeah. I was still years away from puberty at that point.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: (laughs) Yeah so —. (pause at [00:32:32] to 00:32:45) So yeah there was this simultaneous who cares what other people say when I was doing something that my parents approved of but oh, no other people will talk when I was doing things that my parents didn't approve of. [00:32:55]</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: And I don't know if that's normal. If other people had more consistent messages when they were growing up about what sort of things you should care about other peoples' opinions and what sorts of things you shouldn't.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: But I don't know. I feel like I care about other peoples' opinion of me too much. But (inaudible at 00:33:31) I don't actually know what too much would mean. Other than it's a reason for me to beat up on myself.</p>
+
+<p>THERAPIST: Mm-hmm. (pause at [00:33:42] to 00:34:09) I guess that's sort of how it seems to me.</p>
+
+<p>CLIENT: Mm-hmm. [00:34:11] (pause till 00:35:09)</p>
+
+<p>THERAPIST: Yeah I think probably it sounds like you're thinking about ways of putting yourself out there. In a way reaching out. And that brings with it all sorts of worries. [00:35:31]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: Because the world doesn't feel so safe. And maybe also doing what you want doesn't feel so safe. (pause at [00:35:44] to 00:36:06) I imagine in a way it even involves some risk to talk about.</p>
+
+<p>CLIENT: Meaning? (pause at [00:36:14] to 00:36:26)</p>
+
+<p>THERAPIST: Well you know saying like, "I'm looking for some more things out there to do now that I have some more time." [00:36:30]</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: You know that you kind of open yourself up (inaudible at 00:36:41) your own thinking to feeling bad about what you're not doing already. Or how you might want to do it but wouldn't be good at it.</p>
+
+<p>CLIENT: Right.</p>
+
+<p>THERAPIST: Or how it is a problem to want it in the first place. Stuff like that.</p>
+
+<p>CLIENT: Right. Or for another example — cooking.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: My parents taught me cook as soon as I was tall enough to reach the stove.</p>
+
+<p>THERAPIST: Wow.</p>
+
+<p>CLIENT: And of course, my parents, the way they approached it was horrible. "You'll never find a husband unless you can cook well." And it was just —</p>
+
+<p>THERAPIST: Oh, geez.</p>
+
+<p>CLIENT: (inaudible at 00:37:18) gender (inaudible) bullshit. But I can cook very well as a result. (laughs)</p>
+
+<p>THERAPIST: Uh-huh. Yeah.</p>
+
+<p>CLIENT: And throughout college and when I was living overseas and even afterwards like in a reasonable, grown up, productive member of society, I get a lot of approval from my friends and sort of my church people when I bring some delicious thing to a pot luck or whatever. [00:37:47]</p>
+
+<p>THERAPIST: Uh-huh. Of course.</p>
+
+<p>CLIENT: And so there is this event coming up in January in which people are coming from out of town. For a [con]. And a lot of my friends are planning parties and stuff before the conference starts because a bunch of our out of town friends are coming in a week early to just hang out with friends.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And on Twitter today a bunch of my friends were talking about the awesome things they were planning on cooking and you know someone asked me, "What are you going to make? We're going to have this big potluck." And I realized I don't actually like to cook. (laughs)</p>
+
+<p>THERAPIST: (laughs)</p>
+
+<p>CLIENT: Like on a day to day basis after work the last thing I want to do is cook. I have a huge stash of convenience foods and ready made stuff that I can just pop in the microwave. Or even eat cold. And some of it I've made myself. Some of it is store bought. Like every weekend I'll grill a couple of chicken breasts and slice them up. Keep them in a Tupperware so I can just grab them for a quick protein to toss in salad or whatever. [00:38:57]</p>
+
+<p>THERAPIST: Right.</p>
+
+<p>CLIENT: Or like buying pre-washed, pre-chopped veggies. Anything to reduce the amount of time I spend in the kitchen.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: And you know I don't actually want to go and actually test a half dozen different varieties of the same recipe to come up with the best one. I don't want to spend hours cooking for a party. I hate it. But I do it because I get so much praise any time I bring anything to a party. Like people love it. Even stuff that I consider relatively mundane. People — and part of that is some exoticizing and fetishizing of Asian cultures.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: And anything —</p>
+
+<p>THERAPIST: (inaudible at 00:39:42)</p>
+
+<p>CLIENT: Yeah most of my repertoire is subcontinential. [00:39:49]</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: (inaudible at 00:39:50) cooking because that's (inaudible).</p>
+
+<p>THERAPIST: (inaudible) supposed to be trying to (inaudible).</p>
+
+<p>CLIENT: (chuckles) Yeah. And also my Mom didn't learn to cook as a kid. When my parents got married, my father sent my mother to go live with his sister for two months so that she could learn how to cook properly.</p>
+
+<p>THERAPIST: Huh.</p>
+
+<p>CLIENT: So pretty much anything my Mom can even semi-competently cook. And my Mom is a terrible cook. So semi-competent is the best she gets. (laughs)</p>
+
+<p>THERAPIST: Yeah. (inaudible at 00:40:17)</p>
+
+<p>CLIENT: It's all Asian food.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: But I mean even other Asian people have complimented my cooking so it's not all exoticization. But still I don't want to give up the praise and approval but at the same time I don't actually like to cook. (laughter) It's not fun. [00:40:42]</p>
+
+<p>THERAPIST: Uh-huh. Yeah.</p>
+
+<p>CLIENT: But it is something that I do very well. (pause at [00:40:48] to 00:41:17) Dave bought a pound of green beans at a Farmer's Market Monday and I've just been eating them raw because I don't want to cook them.</p>
+
+<p>THERAPIST: Yeah.</p>
+
+<p>CLIENT: Cooking is a pain.</p>
+
+<p>THERAPIST: I guess it sounds like it would be better to be fussed over for things you actually like to do. [00:41:44]</p>
+
+<p>CLIENT: Yeah. But of course being on the beginning side of the learning curve is not pleasant. Because — there is actually a quote about this from an author relatively famous. I forget who said it. But it's this thing about how people go into art because they have good taste. Because you recognize beauty and want to create beauty but when you're still developing technical skill everything you produce is crap. And this is true for everyone.</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: Like when you're at the beginner stages everything is crap because you're still learning technique and you can't actually get to art and expression until you've mastered technique.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: And you look at the things you make and it's crap. And you know it's crap because you have good taste. Because that's why you want to produce art. [00:42:39]</p>
+
+<p>THERAPIST: (laughing) I see.</p>
+
+<p>CLIENT: And that's very frustrating. You just have to push to get through it.</p>
+
+<p>THERAPIST: Uh-huh.</p>
+
+<p>CLIENT: And it's so true. But it's also so frustrating to be at the beginner's stage where everything is crap.</p>
+
+<p>THERAPIST: I would guess there are times you've enjoyed learning things. I mean it sounds to me that way. Like in other words it hasn't just been a pain in the ass on the way to knowing how to be able to do it.</p>
+
+<p>CLIENT: (laughs)</p>
+
+<p>THERAPIST: It's not that I — I think I know what you mean. And I —</p>
+
+<p>CLIENT: Mm-hmm.</p>
+
+<p>THERAPIST: (inaudible at 00:43:28) be one side of it though.</p>
+
+<p>CLIENT: Right. Well I mean there is just acquiring academic knowledge. [00:43:43]</p>
+
+<p>THERAPIST: Mm-hmm.</p>
+
+<p>CLIENT: Which is most of what I did in my grad program. And then undergrad because there is not a whole lot of — well no. What I was about to say is completely untrue. I was going to say there is no art in math and science. But that's completely untrue. But I'm far enough along on that learning curve in math and science and engineering that I'm no longer just outputting complete crap. Like there are still things that I can learn and develop technique and become better at.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: Like there is always room to learn and become better. But I'm at the point where learning new things adds another technique to my toolbox.</p>
+
+<p>THERAPIST: I see.</p>
+
+<p>CLIENT: As opposed to starting completely from scratch. If that makes sense.</p>
+
+<p>THERAPIST: Yeah. We should stop for now.</p>
+
+<p>CLIENT: Yep.</p>
+
+<p>THERAPIST: Next Thursday.</p>
+
+<p>CLIENT: And you're out next Friday, right?</p>
+
+<p>THERAPIST: And the next Friday.</p>
+
+<p>CLIENT: Okay. [00:44:33] [End of audio]</p>
+
+<p>END TRANSCRIPT</p>
